@@ -1,51 +1,51 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at ctor001.java[1:0-7:1]",
+    "keyText" : "RAW_DECL_PACKAGE at ctor001.java[20:0-26:1]",
     "children" : [ {
-      "keyText" : "NAME at ctor001.java[1:8-1:15]",
+      "keyText" : "NAME at ctor001.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at ctor001.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at ctor001.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at ctor001.java[3:0-7:1]",
+      "keyText" : "RAW_DECL_CLASS at ctor001.java[22:0-26:1]",
       "children" : [ {
-        "keyText" : "NAME at ctor001.java[3:6-3:13]",
+        "keyText" : "NAME at ctor001.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at ctor001.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at ctor001.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at ctor001.java[3:14-7:1]",
+        "keyText" : "MEMBERS at ctor001.java[22:14-26:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_CONSTRUCTOR at ctor001.java[4:4-6:5]",
+          "keyText" : "RAW_DECL_CONSTRUCTOR at ctor001.java[23:4-25:5]",
           "children" : [ {
-            "keyText" : "MODIFIER at ctor001.java[4:4-4:10]",
+            "keyText" : "MODIFIER at ctor001.java[23:4-23:10]",
             "specText" : "public"
           }, {
-            "keyText" : "NAME at ctor001.java[4:11-4:18]",
+            "keyText" : "NAME at ctor001.java[23:11-23:18]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at ctor001.java[4:11-4:18]",
+              "keyText" : "UNRESOLVED_ID at ctor001.java[23:11-23:18]",
               "specText" : "Example"
             } ]
           }, {
-            "keyText" : "RAW_DECL_PARAMETER at ctor001.java[4:19-4:28]",
+            "keyText" : "RAW_DECL_PARAMETER at ctor001.java[23:19-23:28]",
             "children" : [ {
-              "keyText" : "RAW_TYPE at ctor001.java[4:19-4:22]",
+              "keyText" : "RAW_TYPE at ctor001.java[23:19-23:22]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at ctor001.java[4:19-4:22]",
+                "keyText" : "UNRESOLVED_ID at ctor001.java[23:19-23:22]",
                 "specText" : "int"
               } ]
             }, {
-              "keyText" : "NAME at ctor001.java[4:23-4:28]",
+              "keyText" : "NAME at ctor001.java[23:23-23:28]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at ctor001.java[4:23-4:28]",
+                "keyText" : "UNRESOLVED_ID at ctor001.java[23:23-23:28]",
                 "specText" : "value"
               } ]
             } ]
           }, {
-            "keyText" : "BLOCK at ctor001.java[4:29-6:5]"
+            "keyText" : "BLOCK at ctor001.java[23:29-25:5]"
           } ]
         } ]
       } ]

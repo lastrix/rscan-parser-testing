@@ -1,35 +1,35 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at annotated001.java[1:0-5:1]",
+    "keyText" : "RAW_DECL_PACKAGE at annotated001.java[20:0-24:1]",
     "children" : [ {
-      "keyText" : "NAME at annotated001.java[1:8-1:15]",
+      "keyText" : "NAME at annotated001.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at annotated001.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at annotated001.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_INTERFACE at annotated001.java[3:0-5:1]",
+      "keyText" : "RAW_DECL_INTERFACE at annotated001.java[22:0-24:1]",
       "children" : [ {
-        "keyText" : "RAW_ANNOTATION at annotated001.java[3:0-3:10]",
+        "keyText" : "RAW_ANNOTATION at annotated001.java[22:0-22:10]",
         "children" : [ {
-          "keyText" : "RAW_TYPE at annotated001.java[3:1-3:10]",
+          "keyText" : "RAW_TYPE at annotated001.java[22:1-22:10]",
           "children" : [ {
-            "keyText" : "RAW_TYPE_REFERENCE at annotated001.java[3:1-3:10]",
+            "keyText" : "RAW_TYPE_REFERENCE at annotated001.java[22:1-22:10]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at annotated001.java[3:1-3:10]",
+              "keyText" : "UNRESOLVED_ID at annotated001.java[22:1-22:10]",
               "specText" : "Annotated"
             } ]
           } ]
         } ]
       }, {
-        "keyText" : "NAME at annotated001.java[4:10-4:17]",
+        "keyText" : "NAME at annotated001.java[23:10-23:17]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at annotated001.java[4:10-4:17]",
+          "keyText" : "UNRESOLVED_ID at annotated001.java[23:10-23:17]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at annotated001.java[4:18-5:1]"
+        "keyText" : "MEMBERS at annotated001.java[23:18-24:1]"
       } ]
     } ]
   } ]

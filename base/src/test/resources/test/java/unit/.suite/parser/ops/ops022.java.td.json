@@ -1,83 +1,83 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at ops022.java[1:0-12:1]",
+    "keyText" : "RAW_DECL_PACKAGE at ops022.java[20:0-31:1]",
     "children" : [ {
-      "keyText" : "NAME at ops022.java[1:8-1:15]",
+      "keyText" : "NAME at ops022.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at ops022.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at ops022.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at ops022.java[3:0-12:1]",
+      "keyText" : "RAW_DECL_CLASS at ops022.java[22:0-31:1]",
       "children" : [ {
-        "keyText" : "NAME at ops022.java[3:6-3:13]",
+        "keyText" : "NAME at ops022.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at ops022.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at ops022.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at ops022.java[3:14-12:1]",
+        "keyText" : "MEMBERS at ops022.java[22:14-31:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at ops022.java[4:4-10:5]",
+          "keyText" : "INITIALIZER at ops022.java[23:4-29:5]",
           "children" : [ {
-            "keyText" : "BLOCK at ops022.java[4:4-10:5]",
+            "keyText" : "BLOCK at ops022.java[23:4-29:5]",
             "children" : [ {
-              "keyText" : "RAW_DECL_LOCAL at ops022.java[5:8-9:9]",
+              "keyText" : "RAW_DECL_LOCAL at ops022.java[24:8-28:9]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at ops022.java[5:8-5:14]",
+                "keyText" : "RAW_TYPE at ops022.java[24:8-24:14]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE_REFERENCE at ops022.java[5:8-5:14]",
+                  "keyText" : "RAW_TYPE_REFERENCE at ops022.java[24:8-24:14]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at ops022.java[5:8-5:14]",
+                    "keyText" : "UNRESOLVED_ID at ops022.java[24:8-24:14]",
                     "specText" : "Object"
                   } ]
                 } ]
               }, {
-                "keyText" : "RAW_DECL_VARIABLE at ops022.java[5:15-9:9]",
+                "keyText" : "RAW_DECL_VARIABLE at ops022.java[24:15-28:9]",
                 "children" : [ {
-                  "keyText" : "NAME at ops022.java[5:15-5:16]",
+                  "keyText" : "NAME at ops022.java[24:15-24:16]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at ops022.java[5:15-5:16]",
+                    "keyText" : "UNRESOLVED_ID at ops022.java[24:15-24:16]",
                     "specText" : "a"
                   } ]
                 }, {
-                  "keyText" : "INIT at ops022.java[5:19-9:9]",
+                  "keyText" : "INIT at ops022.java[24:19-28:9]",
                   "children" : [ {
-                    "keyText" : "RAW_NEW at ops022.java[5:19-9:9]",
+                    "keyText" : "RAW_NEW at ops022.java[24:19-28:9]",
                     "children" : [ {
-                      "keyText" : "RAW_TYPE_INSTANTIATION at ops022.java[5:23-5:34]",
+                      "keyText" : "RAW_TYPE_INSTANTIATION at ops022.java[24:23-24:34]",
                       "children" : [ {
-                        "keyText" : "UNRESOLVED_ID at ops022.java[5:23-5:34]",
+                        "keyText" : "UNRESOLVED_ID at ops022.java[24:23-24:34]",
                         "specText" : "AnInterface"
                       } ]
                     }, {
-                      "keyText" : "RAW_CALL at ops022.java[5:34-5:36]"
+                      "keyText" : "RAW_CALL at ops022.java[24:34-24:36]"
                     }, {
-                      "keyText" : "MEMBERS at ops022.java[5:37-9:9]",
+                      "keyText" : "MEMBERS at ops022.java[24:37-28:9]",
                       "children" : [ {
-                        "keyText" : "RAW_DECL_METHOD at ops022.java[6:12-8:13]",
+                        "keyText" : "RAW_DECL_METHOD at ops022.java[25:12-27:13]",
                         "children" : [ {
-                          "keyText" : "MODIFIER at ops022.java[6:12-6:18]",
+                          "keyText" : "MODIFIER at ops022.java[25:12-25:18]",
                           "specText" : "public"
                         }, {
-                          "keyText" : "RAW_TYPE at ops022.java[6:19-6:26]",
+                          "keyText" : "RAW_TYPE at ops022.java[25:19-25:26]",
                           "children" : [ {
-                            "keyText" : "UNRESOLVED_ID at ops022.java[6:19-6:26]",
+                            "keyText" : "UNRESOLVED_ID at ops022.java[25:19-25:26]",
                             "specText" : "boolean"
                           } ]
                         }, {
-                          "keyText" : "NAME at ops022.java[6:27-6:35]",
+                          "keyText" : "NAME at ops022.java[25:27-25:35]",
                           "children" : [ {
-                            "keyText" : "UNRESOLVED_ID at ops022.java[6:27-6:35]",
+                            "keyText" : "UNRESOLVED_ID at ops022.java[25:27-25:35]",
                             "specText" : "isActive"
                           } ]
                         }, {
-                          "keyText" : "BLOCK at ops022.java[6:38-8:13]",
+                          "keyText" : "BLOCK at ops022.java[25:38-27:13]",
                           "children" : [ {
-                            "keyText" : "RETURN at ops022.java[7:16-7:27]",
+                            "keyText" : "RETURN at ops022.java[26:16-26:27]",
                             "children" : [ {
-                              "keyText" : "LITERAL at ops022.java[7:23-7:27]",
+                              "keyText" : "LITERAL at ops022.java[26:23-26:27]",
                               "specText" : "BOOLEAN true"
                             } ]
                           } ]

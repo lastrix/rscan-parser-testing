@@ -1,55 +1,55 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at ops038.java[2:0-13:1]",
+    "keyText" : "RAW_DECL_PACKAGE at ops038.java[21:0-32:1]",
     "children" : [ {
-      "keyText" : "NAME at ops038.java[2:8-2:15]",
+      "keyText" : "NAME at ops038.java[21:8-21:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at ops038.java[2:8-2:15]",
+        "keyText" : "UNRESOLVED_ID at ops038.java[21:8-21:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at ops038.java[4:0-13:1]",
+      "keyText" : "RAW_DECL_CLASS at ops038.java[23:0-32:1]",
       "children" : [ {
-        "keyText" : "NAME at ops038.java[4:6-4:13]",
+        "keyText" : "NAME at ops038.java[23:6-23:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at ops038.java[4:6-4:13]",
+          "keyText" : "UNRESOLVED_ID at ops038.java[23:6-23:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at ops038.java[4:14-13:1]",
+        "keyText" : "MEMBERS at ops038.java[23:14-32:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at ops038.java[5:4-11:5]",
+          "keyText" : "INITIALIZER at ops038.java[24:4-30:5]",
           "children" : [ {
-            "keyText" : "BLOCK at ops038.java[5:4-11:5]",
+            "keyText" : "BLOCK at ops038.java[24:4-30:5]",
             "children" : [ {
-              "keyText" : "IF at ops038.java[6:8-10:9]",
+              "keyText" : "IF at ops038.java[25:8-29:9]",
               "children" : [ {
-                "keyText" : "BLOCK_CONDITIONAL at ops038.java[6:8-7:9]",
+                "keyText" : "BLOCK_CONDITIONAL at ops038.java[25:8-26:9]",
                 "specText" : "",
                 "children" : [ {
-                  "keyText" : "CONDITION at ops038.java[6:12-6:16]",
+                  "keyText" : "CONDITION at ops038.java[25:12-25:16]",
                   "children" : [ {
-                    "keyText" : "LITERAL at ops038.java[6:12-6:16]",
+                    "keyText" : "LITERAL at ops038.java[25:12-25:16]",
                     "specText" : "BOOLEAN true"
                   } ]
                 }, {
-                  "keyText" : "BLOCK at ops038.java[6:18-7:9]"
+                  "keyText" : "BLOCK at ops038.java[25:18-26:9]"
                 } ]
               }, {
-                "keyText" : "BLOCK_CONDITIONAL at ops038.java[7:15-8:9]",
+                "keyText" : "BLOCK_CONDITIONAL at ops038.java[26:15-27:9]",
                 "specText" : "",
                 "children" : [ {
-                  "keyText" : "CONDITION at ops038.java[7:19-7:23]",
+                  "keyText" : "CONDITION at ops038.java[26:19-26:23]",
                   "children" : [ {
-                    "keyText" : "LITERAL at ops038.java[7:19-7:23]",
+                    "keyText" : "LITERAL at ops038.java[26:19-26:23]",
                     "specText" : "BOOLEAN true"
                   } ]
                 }, {
-                  "keyText" : "BLOCK at ops038.java[7:25-8:9]"
+                  "keyText" : "BLOCK at ops038.java[26:25-27:9]"
                 } ]
               }, {
-                "keyText" : "BLOCK at ops038.java[8:15-10:9]"
+                "keyText" : "BLOCK at ops038.java[27:15-29:9]"
               } ]
             } ]
           } ]

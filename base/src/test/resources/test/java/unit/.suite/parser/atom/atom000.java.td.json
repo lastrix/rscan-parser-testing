@@ -1,76 +1,76 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at atom000.java[1:0-8:1]",
+    "keyText" : "RAW_DECL_PACKAGE at atom000.java[20:0-27:1]",
     "children" : [ {
-      "keyText" : "NAME at atom000.java[1:8-1:15]",
+      "keyText" : "NAME at atom000.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at atom000.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at atom000.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at atom000.java[3:0-8:1]",
+      "keyText" : "RAW_DECL_CLASS at atom000.java[22:0-27:1]",
       "children" : [ {
-        "keyText" : "NAME at atom000.java[3:6-3:13]",
+        "keyText" : "NAME at atom000.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at atom000.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at atom000.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at atom000.java[3:14-8:1]",
+        "keyText" : "MEMBERS at atom000.java[22:14-27:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at atom000.java[4:4-7:5]",
+          "keyText" : "INITIALIZER at atom000.java[23:4-26:5]",
           "children" : [ {
-            "keyText" : "BLOCK at atom000.java[4:4-7:5]",
+            "keyText" : "BLOCK at atom000.java[23:4-26:5]",
             "children" : [ {
-              "keyText" : "RAW_DECL_LOCAL at atom000.java[5:8-5:40]",
+              "keyText" : "RAW_DECL_LOCAL at atom000.java[24:8-24:40]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at atom000.java[5:8-5:13]",
+                "keyText" : "RAW_TYPE at atom000.java[24:8-24:13]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE at atom000.java[5:8-5:11]",
+                  "keyText" : "RAW_TYPE at atom000.java[24:8-24:11]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at atom000.java[5:8-5:11]",
+                    "keyText" : "UNRESOLVED_ID at atom000.java[24:8-24:11]",
                     "specText" : "int"
                   } ]
                 }, {
-                  "keyText" : "ARRAY_DIMS at atom000.java[5:11-5:13]",
+                  "keyText" : "ARRAY_DIMS at atom000.java[24:11-24:13]",
                   "children" : [ {
-                    "keyText" : "ARRAY_DIM at atom000.java[5:11-5:13]"
+                    "keyText" : "ARRAY_DIM at atom000.java[24:11-24:13]"
                   } ]
                 } ]
               }, {
-                "keyText" : "RAW_DECL_VARIABLE at atom000.java[5:14-5:40]",
+                "keyText" : "RAW_DECL_VARIABLE at atom000.java[24:14-24:40]",
                 "children" : [ {
-                  "keyText" : "NAME at atom000.java[5:14-5:19]",
+                  "keyText" : "NAME at atom000.java[24:14-24:19]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at atom000.java[5:14-5:19]",
+                    "keyText" : "UNRESOLVED_ID at atom000.java[24:14-24:19]",
                     "specText" : "array"
                   } ]
                 }, {
-                  "keyText" : "INIT at atom000.java[5:22-5:40]",
+                  "keyText" : "INIT at atom000.java[24:22-24:40]",
                   "children" : [ {
-                    "keyText" : "RAW_ARRAY_INSTANTIATION at atom000.java[5:22-5:40]",
+                    "keyText" : "RAW_ARRAY_INSTANTIATION at atom000.java[24:22-24:40]",
                     "children" : [ {
-                      "keyText" : "TYPE at atom000.java[5:26-5:29]",
+                      "keyText" : "TYPE at atom000.java[24:26-24:29]",
                       "children" : [ {
-                        "keyText" : "UNRESOLVED_ID at atom000.java[5:26-5:29]",
+                        "keyText" : "UNRESOLVED_ID at atom000.java[24:26-24:29]",
                         "specText" : "int"
                       } ]
                     }, {
-                      "keyText" : "ARRAY_DIMS at atom000.java[5:29-5:31]",
+                      "keyText" : "ARRAY_DIMS at atom000.java[24:29-24:31]",
                       "children" : [ {
-                        "keyText" : "ARRAY_DIM at atom000.java[5:29-5:31]"
+                        "keyText" : "ARRAY_DIM at atom000.java[24:29-24:31]"
                       } ]
                     }, {
-                      "keyText" : "RAW_ARRAY_VALUE at atom000.java[5:31-5:40]",
+                      "keyText" : "RAW_ARRAY_VALUE at atom000.java[24:31-24:40]",
                       "children" : [ {
-                        "keyText" : "LITERAL at atom000.java[5:32-5:33]",
+                        "keyText" : "LITERAL at atom000.java[24:32-24:33]",
                         "specText" : "INTEGER 1"
                       }, {
-                        "keyText" : "LITERAL at atom000.java[5:35-5:36]",
+                        "keyText" : "LITERAL at atom000.java[24:35-24:36]",
                         "specText" : "INTEGER 2"
                       }, {
-                        "keyText" : "LITERAL at atom000.java[5:38-5:39]",
+                        "keyText" : "LITERAL at atom000.java[24:38-24:39]",
                         "specText" : "INTEGER 3"
                       } ]
                     } ]
@@ -78,32 +78,32 @@
                 } ]
               } ]
             }, {
-              "keyText" : "RAW_DECL_LOCAL at atom000.java[6:8-6:24]",
+              "keyText" : "RAW_DECL_LOCAL at atom000.java[25:8-25:24]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at atom000.java[6:8-6:11]",
+                "keyText" : "RAW_TYPE at atom000.java[25:8-25:11]",
                 "children" : [ {
-                  "keyText" : "UNRESOLVED_ID at atom000.java[6:8-6:11]",
+                  "keyText" : "UNRESOLVED_ID at atom000.java[25:8-25:11]",
                   "specText" : "int"
                 } ]
               }, {
-                "keyText" : "RAW_DECL_VARIABLE at atom000.java[6:12-6:24]",
+                "keyText" : "RAW_DECL_VARIABLE at atom000.java[25:12-25:24]",
                 "children" : [ {
-                  "keyText" : "NAME at atom000.java[6:12-6:13]",
+                  "keyText" : "NAME at atom000.java[25:12-25:13]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at atom000.java[6:12-6:13]",
+                    "keyText" : "UNRESOLVED_ID at atom000.java[25:12-25:13]",
                     "specText" : "v"
                   } ]
                 }, {
-                  "keyText" : "INIT at atom000.java[6:16-6:24]",
+                  "keyText" : "INIT at atom000.java[25:16-25:24]",
                   "children" : [ {
-                    "keyText" : "CHAIN at atom000.java[6:16-6:24]",
+                    "keyText" : "CHAIN at atom000.java[25:16-25:24]",
                     "children" : [ {
-                      "keyText" : "UNRESOLVED_ID at atom000.java[6:16-6:21]",
+                      "keyText" : "UNRESOLVED_ID at atom000.java[25:16-25:21]",
                       "specText" : "array"
                     }, {
-                      "keyText" : "ARRAY_ACCESSOR at atom000.java[6:21-6:24]",
+                      "keyText" : "ARRAY_ACCESSOR at atom000.java[25:21-25:24]",
                       "children" : [ {
-                        "keyText" : "LITERAL at atom000.java[6:22-6:23]",
+                        "keyText" : "LITERAL at atom000.java[25:22-25:23]",
                         "specText" : "INTEGER 0"
                       } ]
                     } ]

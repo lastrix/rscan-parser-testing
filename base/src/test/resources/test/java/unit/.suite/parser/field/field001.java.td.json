@@ -1,40 +1,40 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at field001.java[1:0-5:1]",
+    "keyText" : "RAW_DECL_PACKAGE at field001.java[20:0-24:1]",
     "children" : [ {
-      "keyText" : "NAME at field001.java[1:8-1:15]",
+      "keyText" : "NAME at field001.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at field001.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at field001.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at field001.java[3:0-5:1]",
+      "keyText" : "RAW_DECL_CLASS at field001.java[22:0-24:1]",
       "children" : [ {
-        "keyText" : "NAME at field001.java[3:6-3:13]",
+        "keyText" : "NAME at field001.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at field001.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at field001.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at field001.java[3:14-5:1]",
+        "keyText" : "MEMBERS at field001.java[22:14-24:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_FIELD at field001.java[4:4-4:24]",
+          "keyText" : "RAW_DECL_FIELD at field001.java[23:4-23:24]",
           "children" : [ {
-            "keyText" : "MODIFIER at field001.java[4:4-4:11]",
+            "keyText" : "MODIFIER at field001.java[23:4-23:11]",
             "specText" : "private"
           }, {
-            "keyText" : "RAW_TYPE at field001.java[4:12-4:19]",
+            "keyText" : "RAW_TYPE at field001.java[23:12-23:19]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at field001.java[4:12-4:19]",
+              "keyText" : "UNRESOLVED_ID at field001.java[23:12-23:19]",
               "specText" : "boolean"
             } ]
           }, {
-            "keyText" : "RAW_DECL_VARIABLE at field001.java[4:20-4:24]",
+            "keyText" : "RAW_DECL_VARIABLE at field001.java[23:20-23:24]",
             "children" : [ {
-              "keyText" : "NAME at field001.java[4:20-4:24]",
+              "keyText" : "NAME at field001.java[23:20-23:24]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at field001.java[4:20-4:24]",
+                "keyText" : "UNRESOLVED_ID at field001.java[23:20-23:24]",
                 "specText" : "flag"
               } ]
             } ]

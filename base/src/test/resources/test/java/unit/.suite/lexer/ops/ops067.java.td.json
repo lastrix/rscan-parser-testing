@@ -1,113 +1,117 @@
 {
   "tokens" : [ {
+    "tokenType" : "COMMENT",
+    "statement" : "2:0[795]",
+    "channel" : "1"
+  }, {
     "tokenType" : "PACKAGE",
-    "statement" : "2:0[7]"
+    "statement" : "21:0[7]"
   }, {
     "tokenType" : "Identifier",
-    "statement" : "2:8[7]",
+    "statement" : "21:8[7]",
     "text" : "example"
   }, {
     "tokenType" : "SEMI",
-    "statement" : "2:15[1]"
+    "statement" : "21:15[1]"
   }, {
     "tokenType" : "CLASS",
-    "statement" : "4:0[5]"
+    "statement" : "23:0[5]"
   }, {
     "tokenType" : "Identifier",
-    "statement" : "4:6[7]",
+    "statement" : "23:6[7]",
     "text" : "Example"
   }, {
     "tokenType" : "FoldBlock",
-    "statement" : "4:14[78]",
+    "statement" : "23:14[78]",
     "children" : {
       "tokens" : [ {
         "tokenType" : "LBRACE",
-        "statement" : "4:14[1]"
+        "statement" : "23:14[1]"
       }, {
         "tokenType" : "PUBLIC",
-        "statement" : "5:4[6]"
+        "statement" : "24:4[6]"
       }, {
         "tokenType" : "VOID",
-        "statement" : "5:11[4]"
+        "statement" : "24:11[4]"
       }, {
         "tokenType" : "Identifier",
-        "statement" : "5:16[4]",
+        "statement" : "24:16[4]",
         "text" : "func"
       }, {
         "tokenType" : "LPAREN",
-        "statement" : "5:20[1]"
+        "statement" : "24:20[1]"
       }, {
         "tokenType" : "RPAREN",
-        "statement" : "5:21[1]"
+        "statement" : "24:21[1]"
       }, {
         "tokenType" : "FoldBlock",
-        "statement" : "5:23[50]",
+        "statement" : "24:23[50]",
         "children" : {
           "tokens" : [ {
             "tokenType" : "LBRACE",
-            "statement" : "5:23[1]"
+            "statement" : "24:23[1]"
           }, {
             "tokenType" : "INT",
-            "statement" : "6:8[3]"
+            "statement" : "25:8[3]"
           }, {
             "tokenType" : "Identifier",
-            "statement" : "6:12[1]",
+            "statement" : "25:12[1]",
             "text" : "a"
           }, {
             "tokenType" : "ASSIGN",
-            "statement" : "6:14[1]"
+            "statement" : "25:14[1]"
           }, {
             "tokenType" : "DecimalIntegerLiteral",
-            "statement" : "6:16[1]",
+            "statement" : "25:16[1]",
             "text" : "0"
           }, {
             "tokenType" : "SEMI",
-            "statement" : "6:17[1]"
+            "statement" : "25:17[1]"
           }, {
             "tokenType" : "INT",
-            "statement" : "7:8[3]"
+            "statement" : "26:8[3]"
           }, {
             "tokenType" : "Identifier",
-            "statement" : "7:12[1]",
+            "statement" : "26:12[1]",
             "text" : "b"
           }, {
             "tokenType" : "ASSIGN",
-            "statement" : "7:14[1]"
+            "statement" : "26:14[1]"
           }, {
             "tokenType" : "DecimalIntegerLiteral",
-            "statement" : "7:16[1]",
+            "statement" : "26:16[1]",
             "text" : "2"
           }, {
             "tokenType" : "MUL",
-            "statement" : "7:18[1]"
+            "statement" : "26:18[1]"
           }, {
             "tokenType" : "SUB",
-            "statement" : "7:20[1]"
+            "statement" : "26:20[1]"
           }, {
             "tokenType" : "Identifier",
-            "statement" : "7:21[1]",
+            "statement" : "26:21[1]",
             "text" : "a"
           }, {
             "tokenType" : "SEMI",
-            "statement" : "7:22[1]"
+            "statement" : "26:22[1]"
           }, {
             "tokenType" : "RBRACE",
-            "statement" : "8:4[1]"
+            "statement" : "27:4[1]"
           }, {
             "tokenType" : "EOF",
-            "statement" : "8:5[3]"
+            "statement" : "27:5[3]"
           } ]
         }
       }, {
         "tokenType" : "RBRACE",
-        "statement" : "10:0[1]"
+        "statement" : "29:0[1]"
       }, {
         "tokenType" : "EOF",
-        "statement" : "10:1[3]"
+        "statement" : "29:1[3]"
       } ]
     }
   }, {
     "tokenType" : "EOF",
-    "statement" : "11:0[5]"
+    "statement" : "30:0[5]"
   } ]
 }

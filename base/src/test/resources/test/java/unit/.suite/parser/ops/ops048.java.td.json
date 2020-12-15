@@ -1,44 +1,44 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at ops048.java[2:0-9:1]",
+    "keyText" : "RAW_DECL_PACKAGE at ops048.java[21:0-28:1]",
     "children" : [ {
-      "keyText" : "NAME at ops048.java[2:8-2:15]",
+      "keyText" : "NAME at ops048.java[21:8-21:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at ops048.java[2:8-2:15]",
+        "keyText" : "UNRESOLVED_ID at ops048.java[21:8-21:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at ops048.java[4:0-9:1]",
+      "keyText" : "RAW_DECL_CLASS at ops048.java[23:0-28:1]",
       "children" : [ {
-        "keyText" : "NAME at ops048.java[4:6-4:13]",
+        "keyText" : "NAME at ops048.java[23:6-23:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at ops048.java[4:6-4:13]",
+          "keyText" : "UNRESOLVED_ID at ops048.java[23:6-23:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at ops048.java[4:14-9:1]",
+        "keyText" : "MEMBERS at ops048.java[23:14-28:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_METHOD at ops048.java[5:4-7:5]",
+          "keyText" : "RAW_DECL_METHOD at ops048.java[24:4-26:5]",
           "children" : [ {
-            "keyText" : "MODIFIER at ops048.java[5:4-5:10]",
+            "keyText" : "MODIFIER at ops048.java[24:4-24:10]",
             "specText" : "public"
           }, {
-            "keyText" : "TYPE at ops048.java[5:11-5:15]",
+            "keyText" : "TYPE at ops048.java[24:11-24:15]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at ops048.java[5:11-5:15]",
+              "keyText" : "UNRESOLVED_ID at ops048.java[24:11-24:15]",
               "specText" : "void"
             } ]
           }, {
-            "keyText" : "NAME at ops048.java[5:16-5:20]",
+            "keyText" : "NAME at ops048.java[24:16-24:20]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at ops048.java[5:16-5:20]",
+              "keyText" : "UNRESOLVED_ID at ops048.java[24:16-24:20]",
               "specText" : "func"
             } ]
           }, {
-            "keyText" : "BLOCK at ops048.java[5:23-7:5]",
+            "keyText" : "BLOCK at ops048.java[24:23-26:5]",
             "children" : [ {
-              "keyText" : "RETURN at ops048.java[6:8-6:14]"
+              "keyText" : "RETURN at ops048.java[25:8-25:14]"
             } ]
           } ]
         } ]

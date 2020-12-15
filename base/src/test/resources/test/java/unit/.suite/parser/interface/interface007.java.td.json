@@ -1,36 +1,36 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at interface007.java[1:0-5:1]",
+    "keyText" : "RAW_DECL_PACKAGE at interface007.java[20:0-24:1]",
     "children" : [ {
-      "keyText" : "NAME at interface007.java[1:8-1:15]",
+      "keyText" : "NAME at interface007.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at interface007.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at interface007.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_INTERFACE at interface007.java[3:0-5:1]",
+      "keyText" : "RAW_DECL_INTERFACE at interface007.java[22:0-24:1]",
       "children" : [ {
-        "keyText" : "NAME at interface007.java[3:10-3:17]",
+        "keyText" : "NAME at interface007.java[22:10-22:17]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at interface007.java[3:10-3:17]",
+          "keyText" : "UNRESOLVED_ID at interface007.java[22:10-22:17]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at interface007.java[3:18-5:1]",
+        "keyText" : "MEMBERS at interface007.java[22:18-24:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_INTERFACE at interface007.java[4:4-4:31]",
+          "keyText" : "RAW_DECL_INTERFACE at interface007.java[23:4-23:31]",
           "children" : [ {
-            "keyText" : "MODIFIER at interface007.java[4:4-4:11]",
+            "keyText" : "MODIFIER at interface007.java[23:4-23:11]",
             "specText" : "private"
           }, {
-            "keyText" : "NAME at interface007.java[4:22-4:28]",
+            "keyText" : "NAME at interface007.java[23:22-23:28]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at interface007.java[4:22-4:28]",
+              "keyText" : "UNRESOLVED_ID at interface007.java[23:22-23:28]",
               "specText" : "Nested"
             } ]
           }, {
-            "keyText" : "MEMBERS at interface007.java[4:29-4:31]"
+            "keyText" : "MEMBERS at interface007.java[23:29-23:31]"
           } ]
         } ]
       } ]

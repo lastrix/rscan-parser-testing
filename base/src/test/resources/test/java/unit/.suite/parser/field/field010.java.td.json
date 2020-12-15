@@ -1,81 +1,81 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at field010.java[1:0-5:1]",
+    "keyText" : "RAW_DECL_PACKAGE at field010.java[20:0-24:1]",
     "children" : [ {
-      "keyText" : "NAME at field010.java[1:8-1:15]",
+      "keyText" : "NAME at field010.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at field010.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at field010.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at field010.java[3:0-5:1]",
+      "keyText" : "RAW_DECL_CLASS at field010.java[22:0-24:1]",
       "children" : [ {
-        "keyText" : "NAME at field010.java[3:6-3:13]",
+        "keyText" : "NAME at field010.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at field010.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at field010.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at field010.java[3:14-5:1]",
+        "keyText" : "MEMBERS at field010.java[22:14-24:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_FIELD at field010.java[4:4-4:62]",
+          "keyText" : "RAW_DECL_FIELD at field010.java[23:4-23:62]",
           "children" : [ {
-            "keyText" : "RAW_TYPE at field010.java[4:4-4:11]",
+            "keyText" : "RAW_TYPE at field010.java[23:4-23:11]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at field010.java[4:4-4:11]",
+              "keyText" : "UNRESOLVED_ID at field010.java[23:4-23:11]",
               "specText" : "boolean"
             } ]
           }, {
-            "keyText" : "RAW_DECL_VARIABLE at field010.java[4:12-4:16]",
+            "keyText" : "RAW_DECL_VARIABLE at field010.java[23:12-23:16]",
             "children" : [ {
-              "keyText" : "NAME at field010.java[4:12-4:16]",
+              "keyText" : "NAME at field010.java[23:12-23:16]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at field010.java[4:12-4:16]",
+                "keyText" : "UNRESOLVED_ID at field010.java[23:12-23:16]",
                 "specText" : "flag"
               } ]
             } ]
           }, {
-            "keyText" : "RAW_DECL_VARIABLE at field010.java[4:18-4:47]",
+            "keyText" : "RAW_DECL_VARIABLE at field010.java[23:18-23:47]",
             "children" : [ {
-              "keyText" : "NAME at field010.java[4:18-4:23]",
+              "keyText" : "NAME at field010.java[23:18-23:23]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at field010.java[4:18-4:23]",
+                "keyText" : "UNRESOLVED_ID at field010.java[23:18-23:23]",
                 "specText" : "flag1"
               } ]
             }, {
-              "keyText" : "ARRAY_DIMS at field010.java[4:23-4:25]",
+              "keyText" : "ARRAY_DIMS at field010.java[23:23-23:25]",
               "children" : [ {
-                "keyText" : "ARRAY_DIM at field010.java[4:23-4:25]"
+                "keyText" : "ARRAY_DIM at field010.java[23:23-23:25]"
               } ]
             }, {
-              "keyText" : "INIT at field010.java[4:28-4:47]",
+              "keyText" : "INIT at field010.java[23:28-23:47]",
               "children" : [ {
-                "keyText" : "RAW_ARRAY_VALUE at field010.java[4:28-4:47]",
+                "keyText" : "RAW_ARRAY_VALUE at field010.java[23:28-23:47]",
                 "children" : [ {
-                  "keyText" : "LITERAL at field010.java[4:29-4:33]",
+                  "keyText" : "LITERAL at field010.java[23:29-23:33]",
                   "specText" : "BOOLEAN true"
                 }, {
-                  "keyText" : "LITERAL at field010.java[4:35-4:40]",
+                  "keyText" : "LITERAL at field010.java[23:35-23:40]",
                   "specText" : "BOOLEAN false"
                 }, {
-                  "keyText" : "LITERAL at field010.java[4:42-4:46]",
+                  "keyText" : "LITERAL at field010.java[23:42-23:46]",
                   "specText" : "BOOLEAN true"
                 } ]
               } ]
             } ]
           }, {
-            "keyText" : "RAW_DECL_VARIABLE at field010.java[4:49-4:62]",
+            "keyText" : "RAW_DECL_VARIABLE at field010.java[23:49-23:62]",
             "children" : [ {
-              "keyText" : "NAME at field010.java[4:49-4:54]",
+              "keyText" : "NAME at field010.java[23:49-23:54]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at field010.java[4:49-4:54]",
+                "keyText" : "UNRESOLVED_ID at field010.java[23:49-23:54]",
                 "specText" : "flag2"
               } ]
             }, {
-              "keyText" : "INIT at field010.java[4:57-4:62]",
+              "keyText" : "INIT at field010.java[23:57-23:62]",
               "children" : [ {
-                "keyText" : "LITERAL at field010.java[4:57-4:62]",
+                "keyText" : "LITERAL at field010.java[23:57-23:62]",
                 "specText" : "BOOLEAN false"
               } ]
             } ]

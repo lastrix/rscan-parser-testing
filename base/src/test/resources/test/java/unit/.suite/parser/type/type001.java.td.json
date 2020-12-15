@@ -1,44 +1,44 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at type001.java[1:0-8:1]",
+    "keyText" : "RAW_DECL_PACKAGE at type001.java[20:0-27:1]",
     "children" : [ {
-      "keyText" : "NAME at type001.java[1:8-1:15]",
+      "keyText" : "NAME at type001.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at type001.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at type001.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at type001.java[3:0-8:1]",
+      "keyText" : "RAW_DECL_CLASS at type001.java[22:0-27:1]",
       "children" : [ {
-        "keyText" : "NAME at type001.java[3:6-3:13]",
+        "keyText" : "NAME at type001.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at type001.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at type001.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at type001.java[3:14-8:1]",
+        "keyText" : "MEMBERS at type001.java[22:14-27:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at type001.java[4:4-6:5]",
+          "keyText" : "INITIALIZER at type001.java[23:4-25:5]",
           "children" : [ {
-            "keyText" : "BLOCK at type001.java[4:4-6:5]",
+            "keyText" : "BLOCK at type001.java[23:4-25:5]",
             "children" : [ {
-              "keyText" : "RAW_DECL_LOCAL at type001.java[5:8-5:21]",
+              "keyText" : "RAW_DECL_LOCAL at type001.java[24:8-24:21]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at type001.java[5:8-5:15]",
+                "keyText" : "RAW_TYPE at type001.java[24:8-24:15]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE_REFERENCE at type001.java[5:8-5:15]",
+                  "keyText" : "RAW_TYPE_REFERENCE at type001.java[24:8-24:15]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at type001.java[5:8-5:15]",
+                    "keyText" : "UNRESOLVED_ID at type001.java[24:8-24:15]",
                     "specText" : "Example"
                   } ]
                 } ]
               }, {
-                "keyText" : "RAW_DECL_VARIABLE at type001.java[5:16-5:21]",
+                "keyText" : "RAW_DECL_VARIABLE at type001.java[24:16-24:21]",
                 "children" : [ {
-                  "keyText" : "NAME at type001.java[5:16-5:21]",
+                  "keyText" : "NAME at type001.java[24:16-24:21]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at type001.java[5:16-5:21]",
+                    "keyText" : "UNRESOLVED_ID at type001.java[24:16-24:21]",
                     "specText" : "value"
                   } ]
                 } ]

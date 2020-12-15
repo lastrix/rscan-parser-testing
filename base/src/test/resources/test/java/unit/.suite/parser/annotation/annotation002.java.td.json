@@ -1,33 +1,33 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at annotation002.java[1:0-5:1]",
+    "keyText" : "RAW_DECL_PACKAGE at annotation002.java[20:0-24:1]",
     "children" : [ {
-      "keyText" : "NAME at annotation002.java[1:8-1:15]",
+      "keyText" : "NAME at annotation002.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at annotation002.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at annotation002.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_ANNOTATION at annotation002.java[3:0-5:1]",
+      "keyText" : "RAW_DECL_ANNOTATION at annotation002.java[22:0-24:1]",
       "children" : [ {
-        "keyText" : "NAME at annotation002.java[3:11-3:18]",
+        "keyText" : "NAME at annotation002.java[22:11-22:18]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at annotation002.java[3:11-3:18]",
+          "keyText" : "UNRESOLVED_ID at annotation002.java[22:11-22:18]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at annotation002.java[3:19-5:1]",
+        "keyText" : "MEMBERS at annotation002.java[22:19-24:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_INTERFACE at annotation002.java[4:4-4:24]",
+          "keyText" : "RAW_DECL_INTERFACE at annotation002.java[23:4-23:24]",
           "children" : [ {
-            "keyText" : "NAME at annotation002.java[4:14-4:21]",
+            "keyText" : "NAME at annotation002.java[23:14-23:21]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at annotation002.java[4:14-4:21]",
+              "keyText" : "UNRESOLVED_ID at annotation002.java[23:14-23:21]",
               "specText" : "INested"
             } ]
           }, {
-            "keyText" : "MEMBERS at annotation002.java[4:22-4:24]"
+            "keyText" : "MEMBERS at annotation002.java[23:22-23:24]"
           } ]
         } ]
       } ]

@@ -1,120 +1,120 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at method026.java[1:0-11:1]",
+    "keyText" : "RAW_DECL_PACKAGE at method026.java[20:0-30:1]",
     "children" : [ {
-      "keyText" : "NAME at method026.java[1:8-1:15]",
+      "keyText" : "NAME at method026.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at method026.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at method026.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_IMPORT at method026.java[3:0-3:41]",
+      "keyText" : "RAW_IMPORT at method026.java[22:0-22:41]",
       "children" : [ {
-        "keyText" : "NAME at method026.java[3:7-3:40]",
+        "keyText" : "NAME at method026.java[22:7-22:40]",
         "children" : [ {
-          "keyText" : "CHAIN at method026.java[3:7-3:40]",
+          "keyText" : "CHAIN at method026.java[22:7-22:40]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at method026.java[3:7-3:10]",
+            "keyText" : "UNRESOLVED_ID at method026.java[22:7-22:10]",
             "specText" : "org"
           }, {
-            "keyText" : "UNRESOLVED_ID at method026.java[3:11-3:20]",
+            "keyText" : "UNRESOLVED_ID at method026.java[22:11-22:20]",
             "specText" : "jetbrains"
           }, {
-            "keyText" : "UNRESOLVED_ID at method026.java[3:21-3:32]",
+            "keyText" : "UNRESOLVED_ID at method026.java[22:21-22:32]",
             "specText" : "annotations"
           }, {
-            "keyText" : "UNRESOLVED_ID at method026.java[3:33-3:40]",
+            "keyText" : "UNRESOLVED_ID at method026.java[22:33-22:40]",
             "specText" : "NotNull"
           } ]
         } ]
       } ]
     }, {
-      "keyText" : "RAW_IMPORT at method026.java[5:0-5:28]",
+      "keyText" : "RAW_IMPORT at method026.java[24:0-24:28]",
       "children" : [ {
-        "keyText" : "NAME at method026.java[5:7-5:27]",
+        "keyText" : "NAME at method026.java[24:7-24:27]",
         "children" : [ {
-          "keyText" : "CHAIN at method026.java[5:7-5:27]",
+          "keyText" : "CHAIN at method026.java[24:7-24:27]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at method026.java[5:7-5:11]",
+            "keyText" : "UNRESOLVED_ID at method026.java[24:7-24:11]",
             "specText" : "java"
           }, {
-            "keyText" : "UNRESOLVED_ID at method026.java[5:12-5:16]",
+            "keyText" : "UNRESOLVED_ID at method026.java[24:12-24:16]",
             "specText" : "util"
           }, {
-            "keyText" : "UNRESOLVED_ID at method026.java[5:17-5:27]",
+            "keyText" : "UNRESOLVED_ID at method026.java[24:17-24:27]",
             "specText" : "Collection"
           } ]
         } ]
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at method026.java[7:0-11:1]",
+      "keyText" : "RAW_DECL_CLASS at method026.java[26:0-30:1]",
       "children" : [ {
-        "keyText" : "NAME at method026.java[7:6-7:13]",
+        "keyText" : "NAME at method026.java[26:6-26:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at method026.java[7:6-7:13]",
+          "keyText" : "UNRESOLVED_ID at method026.java[26:6-26:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at method026.java[7:14-11:1]",
+        "keyText" : "MEMBERS at method026.java[26:14-30:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_METHOD at method026.java[8:4-10:5]",
+          "keyText" : "RAW_DECL_METHOD at method026.java[27:4-29:5]",
           "children" : [ {
-            "keyText" : "RAW_DECL_TYPE_PARAMETER at method026.java[8:5-8:6]",
+            "keyText" : "RAW_DECL_TYPE_PARAMETER at method026.java[27:5-27:6]",
             "children" : [ {
-              "keyText" : "NAME at method026.java[8:5-8:6]",
+              "keyText" : "NAME at method026.java[27:5-27:6]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at method026.java[8:5-8:6]",
+                "keyText" : "UNRESOLVED_ID at method026.java[27:5-27:6]",
                 "specText" : "T"
               } ]
             } ]
           }, {
-            "keyText" : "TYPE at method026.java[8:8-8:12]",
+            "keyText" : "TYPE at method026.java[27:8-27:12]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at method026.java[8:8-8:12]",
+              "keyText" : "UNRESOLVED_ID at method026.java[27:8-27:12]",
               "specText" : "void"
             } ]
           }, {
-            "keyText" : "NAME at method026.java[8:13-8:16]",
+            "keyText" : "NAME at method026.java[27:13-27:16]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at method026.java[8:13-8:16]",
+              "keyText" : "UNRESOLVED_ID at method026.java[27:13-27:16]",
               "specText" : "run"
             } ]
           }, {
-            "keyText" : "RAW_DECL_PARAMETER at method026.java[8:17-8:52]",
+            "keyText" : "RAW_DECL_PARAMETER at method026.java[27:17-27:52]",
             "children" : [ {
-              "keyText" : "RAW_ANNOTATION at method026.java[8:17-8:25]",
+              "keyText" : "RAW_ANNOTATION at method026.java[27:17-27:25]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at method026.java[8:18-8:25]",
+                "keyText" : "RAW_TYPE at method026.java[27:18-27:25]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE_REFERENCE at method026.java[8:18-8:25]",
+                  "keyText" : "RAW_TYPE_REFERENCE at method026.java[27:18-27:25]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at method026.java[8:18-8:25]",
+                    "keyText" : "UNRESOLVED_ID at method026.java[27:18-27:25]",
                     "specText" : "NotNull"
                   } ]
                 } ]
               } ]
             }, {
-              "keyText" : "RAW_TYPE at method026.java[8:26-8:47]",
+              "keyText" : "RAW_TYPE at method026.java[27:26-27:47]",
               "children" : [ {
-                "keyText" : "RAW_TYPE_REFERENCE at method026.java[8:26-8:47]",
+                "keyText" : "RAW_TYPE_REFERENCE at method026.java[27:26-27:47]",
                 "children" : [ {
-                  "keyText" : "UNRESOLVED_ID at method026.java[8:26-8:36]",
+                  "keyText" : "UNRESOLVED_ID at method026.java[27:26-27:36]",
                   "specText" : "Collection"
                 }, {
-                  "keyText" : "TYPE_ARGUMENTS at method026.java[8:36-8:47]",
+                  "keyText" : "TYPE_ARGUMENTS at method026.java[27:36-27:47]",
                   "children" : [ {
-                    "keyText" : "RAW_TYPE at method026.java[8:37-8:46]",
+                    "keyText" : "RAW_TYPE at method026.java[27:37-27:46]",
                     "children" : [ {
-                      "keyText" : "TYPE_WILDCARD at method026.java[8:37-8:46]",
+                      "keyText" : "TYPE_WILDCARD at method026.java[27:37-27:46]",
                       "children" : [ {
-                        "keyText" : "SUPER at method026.java[8:45-8:46]",
+                        "keyText" : "SUPER at method026.java[27:45-27:46]",
                         "children" : [ {
-                          "keyText" : "RAW_TYPE at method026.java[8:45-8:46]",
+                          "keyText" : "RAW_TYPE at method026.java[27:45-27:46]",
                           "children" : [ {
-                            "keyText" : "RAW_TYPE_REFERENCE at method026.java[8:45-8:46]",
+                            "keyText" : "RAW_TYPE_REFERENCE at method026.java[27:45-27:46]",
                             "children" : [ {
-                              "keyText" : "UNRESOLVED_ID at method026.java[8:45-8:46]",
+                              "keyText" : "UNRESOLVED_ID at method026.java[27:45-27:46]",
                               "specText" : "T"
                             } ]
                           } ]
@@ -125,14 +125,14 @@
                 } ]
               } ]
             }, {
-              "keyText" : "NAME at method026.java[8:48-8:52]",
+              "keyText" : "NAME at method026.java[27:48-27:52]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at method026.java[8:48-8:52]",
+                "keyText" : "UNRESOLVED_ID at method026.java[27:48-27:52]",
                 "specText" : "flag"
               } ]
             } ]
           }, {
-            "keyText" : "BLOCK at method026.java[8:54-10:5]"
+            "keyText" : "BLOCK at method026.java[27:54-29:5]"
           } ]
         } ]
       } ]

@@ -1,49 +1,49 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at class020.java[1:0-5:1]",
+    "keyText" : "RAW_DECL_PACKAGE at class020.java[20:0-24:1]",
     "children" : [ {
-      "keyText" : "NAME at class020.java[1:8-1:15]",
+      "keyText" : "NAME at class020.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at class020.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at class020.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at class020.java[3:0-5:1]",
+      "keyText" : "RAW_DECL_CLASS at class020.java[22:0-24:1]",
       "children" : [ {
-        "keyText" : "NAME at class020.java[3:6-3:13]",
+        "keyText" : "NAME at class020.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at class020.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at class020.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "RAW_DECL_TYPE_PARAMETER at class020.java[3:14-3:15]",
+        "keyText" : "RAW_DECL_TYPE_PARAMETER at class020.java[22:14-22:15]",
         "children" : [ {
-          "keyText" : "NAME at class020.java[3:14-3:15]",
+          "keyText" : "NAME at class020.java[22:14-22:15]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at class020.java[3:14-3:15]",
+            "keyText" : "UNRESOLVED_ID at class020.java[22:14-22:15]",
             "specText" : "T"
           } ]
         } ]
       }, {
-        "keyText" : "IMPLEMENTS at class020.java[3:28-3:56]",
+        "keyText" : "IMPLEMENTS at class020.java[22:28-22:56]",
         "children" : [ {
-          "keyText" : "RAW_TYPE at class020.java[3:28-3:42]",
+          "keyText" : "RAW_TYPE at class020.java[22:28-22:42]",
           "children" : [ {
-            "keyText" : "RAW_TYPE_REFERENCE at class020.java[3:28-3:42]",
+            "keyText" : "RAW_TYPE_REFERENCE at class020.java[22:28-22:42]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at class020.java[3:28-3:39]",
+              "keyText" : "UNRESOLVED_ID at class020.java[22:28-22:39]",
               "specText" : "ExampleBase"
             }, {
-              "keyText" : "TYPE_ARGUMENTS at class020.java[3:39-3:42]",
+              "keyText" : "TYPE_ARGUMENTS at class020.java[22:39-22:42]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at class020.java[3:40-3:41]",
+                "keyText" : "RAW_TYPE at class020.java[22:40-22:41]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE at class020.java[3:40-3:41]",
+                  "keyText" : "RAW_TYPE at class020.java[22:40-22:41]",
                   "children" : [ {
-                    "keyText" : "RAW_TYPE_REFERENCE at class020.java[3:40-3:41]",
+                    "keyText" : "RAW_TYPE_REFERENCE at class020.java[22:40-22:41]",
                     "children" : [ {
-                      "keyText" : "UNRESOLVED_ID at class020.java[3:40-3:41]",
+                      "keyText" : "UNRESOLVED_ID at class020.java[22:40-22:41]",
                       "specText" : "T"
                     } ]
                   } ]
@@ -52,19 +52,19 @@
             } ]
           } ]
         }, {
-          "keyText" : "RAW_TYPE at class020.java[3:44-3:56]",
+          "keyText" : "RAW_TYPE at class020.java[22:44-22:56]",
           "children" : [ {
-            "keyText" : "RAW_TYPE_REFERENCE at class020.java[3:44-3:56]",
+            "keyText" : "RAW_TYPE_REFERENCE at class020.java[22:44-22:56]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at class020.java[3:44-3:56]",
+              "keyText" : "UNRESOLVED_ID at class020.java[22:44-22:56]",
               "specText" : "ExampleBase2"
             } ]
           } ]
         } ]
       }, {
-        "keyText" : "MEMBERS at class020.java[3:57-5:1]",
+        "keyText" : "MEMBERS at class020.java[22:57-24:1]",
         "children" : [ {
-          "keyText" : "NONE at class020.java[4:4-4:5]"
+          "keyText" : "NONE at class020.java[23:4-23:5]"
         } ]
       } ]
     } ]

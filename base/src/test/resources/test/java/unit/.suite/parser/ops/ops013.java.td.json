@@ -1,59 +1,59 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at ops013.java[1:0-8:1]",
+    "keyText" : "RAW_DECL_PACKAGE at ops013.java[20:0-27:1]",
     "children" : [ {
-      "keyText" : "NAME at ops013.java[1:8-1:15]",
+      "keyText" : "NAME at ops013.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at ops013.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at ops013.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at ops013.java[3:0-8:1]",
+      "keyText" : "RAW_DECL_CLASS at ops013.java[22:0-27:1]",
       "children" : [ {
-        "keyText" : "NAME at ops013.java[3:6-3:13]",
+        "keyText" : "NAME at ops013.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at ops013.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at ops013.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at ops013.java[3:14-8:1]",
+        "keyText" : "MEMBERS at ops013.java[22:14-27:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at ops013.java[4:4-6:5]",
+          "keyText" : "INITIALIZER at ops013.java[23:4-25:5]",
           "children" : [ {
-            "keyText" : "BLOCK at ops013.java[4:4-6:5]",
+            "keyText" : "BLOCK at ops013.java[23:4-25:5]",
             "children" : [ {
-              "keyText" : "RAW_DECL_LOCAL at ops013.java[5:8-5:25]",
+              "keyText" : "RAW_DECL_LOCAL at ops013.java[24:8-24:25]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at ops013.java[5:8-5:11]",
+                "keyText" : "RAW_TYPE at ops013.java[24:8-24:11]",
                 "children" : [ {
-                  "keyText" : "UNRESOLVED_ID at ops013.java[5:8-5:11]",
+                  "keyText" : "UNRESOLVED_ID at ops013.java[24:8-24:11]",
                   "specText" : "int"
                 } ]
               }, {
-                "keyText" : "RAW_DECL_VARIABLE at ops013.java[5:12-5:25]",
+                "keyText" : "RAW_DECL_VARIABLE at ops013.java[24:12-24:25]",
                 "children" : [ {
-                  "keyText" : "NAME at ops013.java[5:12-5:13]",
+                  "keyText" : "NAME at ops013.java[24:12-24:13]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at ops013.java[5:12-5:13]",
+                    "keyText" : "UNRESOLVED_ID at ops013.java[24:12-24:13]",
                     "specText" : "a"
                   } ]
                 }, {
-                  "keyText" : "INIT at ops013.java[5:16-5:25]",
+                  "keyText" : "INIT at ops013.java[24:16-24:25]",
                   "children" : [ {
-                    "keyText" : "BINARY at ops013.java[5:16-5:25]",
+                    "keyText" : "BINARY at ops013.java[24:16-24:25]",
                     "specText" : "ADD",
                     "children" : [ {
-                      "keyText" : "LITERAL at ops013.java[5:16-5:17]",
+                      "keyText" : "LITERAL at ops013.java[24:16-24:17]",
                       "specText" : "INTEGER 1"
                     }, {
-                      "keyText" : "BINARY at ops013.java[5:20-5:25]",
+                      "keyText" : "BINARY at ops013.java[24:20-24:25]",
                       "specText" : "MUL",
                       "children" : [ {
-                        "keyText" : "LITERAL at ops013.java[5:20-5:21]",
+                        "keyText" : "LITERAL at ops013.java[24:20-24:21]",
                         "specText" : "INTEGER 1"
                       }, {
-                        "keyText" : "LITERAL at ops013.java[5:24-5:25]",
+                        "keyText" : "LITERAL at ops013.java[24:24-24:25]",
                         "specText" : "INTEGER 2"
                       } ]
                     } ]

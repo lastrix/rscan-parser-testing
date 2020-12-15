@@ -1,59 +1,59 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at class023.java[1:0-4:1]",
+    "keyText" : "RAW_DECL_PACKAGE at class023.java[20:0-23:1]",
     "children" : [ {
-      "keyText" : "NAME at class023.java[1:8-1:15]",
+      "keyText" : "NAME at class023.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at class023.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at class023.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at class023.java[3:0-4:1]",
+      "keyText" : "RAW_DECL_CLASS at class023.java[22:0-23:1]",
       "children" : [ {
-        "keyText" : "NAME at class023.java[3:6-3:13]",
+        "keyText" : "NAME at class023.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at class023.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at class023.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "RAW_DECL_TYPE_PARAMETER at class023.java[3:14-3:15]",
+        "keyText" : "RAW_DECL_TYPE_PARAMETER at class023.java[22:14-22:15]",
         "children" : [ {
-          "keyText" : "NAME at class023.java[3:14-3:15]",
+          "keyText" : "NAME at class023.java[22:14-22:15]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at class023.java[3:14-3:15]",
+            "keyText" : "UNRESOLVED_ID at class023.java[22:14-22:15]",
             "specText" : "A"
           } ]
         } ]
       }, {
-        "keyText" : "RAW_DECL_TYPE_PARAMETER at class023.java[3:17-3:18]",
+        "keyText" : "RAW_DECL_TYPE_PARAMETER at class023.java[22:17-22:18]",
         "children" : [ {
-          "keyText" : "NAME at class023.java[3:17-3:18]",
+          "keyText" : "NAME at class023.java[22:17-22:18]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at class023.java[3:17-3:18]",
+            "keyText" : "UNRESOLVED_ID at class023.java[22:17-22:18]",
             "specText" : "B"
           } ]
         } ]
       }, {
-        "keyText" : "RAW_DECL_TYPE_PARAMETER at class023.java[3:20-3:21]",
+        "keyText" : "RAW_DECL_TYPE_PARAMETER at class023.java[22:20-22:21]",
         "children" : [ {
-          "keyText" : "NAME at class023.java[3:20-3:21]",
+          "keyText" : "NAME at class023.java[22:20-22:21]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at class023.java[3:20-3:21]",
+            "keyText" : "UNRESOLVED_ID at class023.java[22:20-22:21]",
             "specText" : "C"
           } ]
         } ]
       }, {
-        "keyText" : "RAW_DECL_TYPE_PARAMETER at class023.java[3:23-3:24]",
+        "keyText" : "RAW_DECL_TYPE_PARAMETER at class023.java[22:23-22:24]",
         "children" : [ {
-          "keyText" : "NAME at class023.java[3:23-3:24]",
+          "keyText" : "NAME at class023.java[22:23-22:24]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at class023.java[3:23-3:24]",
+            "keyText" : "UNRESOLVED_ID at class023.java[22:23-22:24]",
             "specText" : "D"
           } ]
         } ]
       }, {
-        "keyText" : "MEMBERS at class023.java[3:26-4:1]"
+        "keyText" : "MEMBERS at class023.java[22:26-23:1]"
       } ]
     } ]
   } ]

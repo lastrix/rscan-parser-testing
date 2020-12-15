@@ -1,89 +1,89 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at ops026.java[1:0-10:1]",
+    "keyText" : "RAW_DECL_PACKAGE at ops026.java[20:0-29:1]",
     "children" : [ {
-      "keyText" : "NAME at ops026.java[1:8-1:15]",
+      "keyText" : "NAME at ops026.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at ops026.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at ops026.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at ops026.java[3:0-10:1]",
+      "keyText" : "RAW_DECL_CLASS at ops026.java[22:0-29:1]",
       "children" : [ {
-        "keyText" : "NAME at ops026.java[3:6-3:13]",
+        "keyText" : "NAME at ops026.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at ops026.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at ops026.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at ops026.java[3:14-10:1]",
+        "keyText" : "MEMBERS at ops026.java[22:14-29:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at ops026.java[4:4-8:5]",
+          "keyText" : "INITIALIZER at ops026.java[23:4-27:5]",
           "children" : [ {
-            "keyText" : "BLOCK at ops026.java[4:4-8:5]",
+            "keyText" : "BLOCK at ops026.java[23:4-27:5]",
             "children" : [ {
-              "keyText" : "BLOCK_CONDITIONAL at ops026.java[5:8-7:9]",
+              "keyText" : "BLOCK_CONDITIONAL at ops026.java[24:8-26:9]",
               "specText" : "",
               "children" : [ {
-                "keyText" : "CONDITION at ops026.java[5:12-5:45]",
+                "keyText" : "CONDITION at ops026.java[24:12-24:45]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE at ops026.java[5:12-5:15]",
+                  "keyText" : "RAW_TYPE at ops026.java[24:12-24:15]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at ops026.java[5:12-5:15]",
+                    "keyText" : "UNRESOLVED_ID at ops026.java[24:12-24:15]",
                     "specText" : "int"
                   } ]
                 }, {
-                  "keyText" : "NAME at ops026.java[5:16-5:17]",
+                  "keyText" : "NAME at ops026.java[24:16-24:17]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at ops026.java[5:16-5:17]",
+                    "keyText" : "UNRESOLVED_ID at ops026.java[24:16-24:17]",
                     "specText" : "i"
                   } ]
                 }, {
-                  "keyText" : "EXPR at ops026.java[5:20-5:45]",
+                  "keyText" : "EXPR at ops026.java[24:20-24:45]",
                   "children" : [ {
-                    "keyText" : "CHAIN at ops026.java[5:20-5:45]",
+                    "keyText" : "CHAIN at ops026.java[24:20-24:45]",
                     "children" : [ {
-                      "keyText" : "UNRESOLVED_ID at ops026.java[5:20-5:26]",
+                      "keyText" : "UNRESOLVED_ID at ops026.java[24:20-24:26]",
                       "specText" : "Arrays"
                     }, {
-                      "keyText" : "UNRESOLVED_ID at ops026.java[5:27-5:33]",
+                      "keyText" : "UNRESOLVED_ID at ops026.java[24:27-24:33]",
                       "specText" : "asList"
                     }, {
-                      "keyText" : "RAW_CALL at ops026.java[5:33-5:45]",
+                      "keyText" : "RAW_CALL at ops026.java[24:33-24:45]",
                       "children" : [ {
-                        "keyText" : "LITERAL at ops026.java[5:34-5:35]",
+                        "keyText" : "LITERAL at ops026.java[24:34-24:35]",
                         "specText" : "INTEGER 1"
                       }, {
-                        "keyText" : "LITERAL at ops026.java[5:37-5:38]",
+                        "keyText" : "LITERAL at ops026.java[24:37-24:38]",
                         "specText" : "INTEGER 2"
                       }, {
-                        "keyText" : "LITERAL at ops026.java[5:40-5:41]",
+                        "keyText" : "LITERAL at ops026.java[24:40-24:41]",
                         "specText" : "INTEGER 3"
                       }, {
-                        "keyText" : "LITERAL at ops026.java[5:43-5:44]",
+                        "keyText" : "LITERAL at ops026.java[24:43-24:44]",
                         "specText" : "INTEGER 4"
                       } ]
                     } ]
                   } ]
                 } ]
               }, {
-                "keyText" : "BLOCK at ops026.java[5:46-7:9]",
+                "keyText" : "BLOCK at ops026.java[24:46-26:9]",
                 "children" : [ {
-                  "keyText" : "CHAIN at ops026.java[6:12-6:33]",
+                  "keyText" : "CHAIN at ops026.java[25:12-25:33]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at ops026.java[6:12-6:18]",
+                    "keyText" : "UNRESOLVED_ID at ops026.java[25:12-25:18]",
                     "specText" : "System"
                   }, {
-                    "keyText" : "UNRESOLVED_ID at ops026.java[6:19-6:22]",
+                    "keyText" : "UNRESOLVED_ID at ops026.java[25:19-25:22]",
                     "specText" : "out"
                   }, {
-                    "keyText" : "UNRESOLVED_ID at ops026.java[6:23-6:30]",
+                    "keyText" : "UNRESOLVED_ID at ops026.java[25:23-25:30]",
                     "specText" : "println"
                   }, {
-                    "keyText" : "RAW_CALL at ops026.java[6:30-6:33]",
+                    "keyText" : "RAW_CALL at ops026.java[25:30-25:33]",
                     "children" : [ {
-                      "keyText" : "UNRESOLVED_ID at ops026.java[6:31-6:32]",
+                      "keyText" : "UNRESOLVED_ID at ops026.java[25:31-25:32]",
                       "specText" : "i"
                     } ]
                   } ]

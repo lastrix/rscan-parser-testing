@@ -1,76 +1,80 @@
 {
   "tokens" : [ {
+    "tokenType" : "COMMENT",
+    "statement" : "1:0[795]",
+    "channel" : "1"
+  }, {
     "tokenType" : "PACKAGE",
-    "statement" : "1:0[7]"
+    "statement" : "20:0[7]"
   }, {
     "tokenType" : "Identifier",
-    "statement" : "1:8[7]",
+    "statement" : "20:8[7]",
     "text" : "example"
   }, {
     "tokenType" : "SEMI",
-    "statement" : "1:15[1]"
+    "statement" : "20:15[1]"
   }, {
     "tokenType" : "CLASS",
-    "statement" : "3:0[5]"
+    "statement" : "22:0[5]"
   }, {
     "tokenType" : "Identifier",
-    "statement" : "3:6[7]",
+    "statement" : "22:6[7]",
     "text" : "Example"
   }, {
     "tokenType" : "FoldBlock",
-    "statement" : "3:14[37]",
+    "statement" : "22:14[37]",
     "children" : {
       "tokens" : [ {
         "tokenType" : "LBRACE",
-        "statement" : "3:14[1]"
+        "statement" : "22:14[1]"
       }, {
         "tokenType" : "Identifier",
-        "statement" : "4:4[5]",
+        "statement" : "23:4[5]",
         "text" : "Class"
       }, {
         "tokenType" : "LT",
-        "statement" : "4:9[1]"
+        "statement" : "23:9[1]"
       }, {
         "tokenType" : "QUESTION",
-        "statement" : "4:10[1]"
+        "statement" : "23:10[1]"
       }, {
         "tokenType" : "GT",
-        "statement" : "4:11[1]"
+        "statement" : "23:11[1]"
       }, {
         "tokenType" : "Identifier",
-        "statement" : "4:13[5]",
+        "statement" : "23:13[5]",
         "text" : "value"
       }, {
         "tokenType" : "ASSIGN",
-        "statement" : "4:19[1]"
+        "statement" : "23:19[1]"
       }, {
         "tokenType" : "INT",
-        "statement" : "4:21[3]"
+        "statement" : "23:21[3]"
       }, {
         "tokenType" : "LBRACK",
-        "statement" : "4:24[1]"
+        "statement" : "23:24[1]"
       }, {
         "tokenType" : "RBRACK",
-        "statement" : "4:25[1]"
+        "statement" : "23:25[1]"
       }, {
         "tokenType" : "DOT",
-        "statement" : "4:26[1]"
+        "statement" : "23:26[1]"
       }, {
         "tokenType" : "CLASS",
-        "statement" : "4:27[5]"
+        "statement" : "23:27[5]"
       }, {
         "tokenType" : "SEMI",
-        "statement" : "4:32[1]"
+        "statement" : "23:32[1]"
       }, {
         "tokenType" : "RBRACE",
-        "statement" : "5:0[1]"
+        "statement" : "24:0[1]"
       }, {
         "tokenType" : "EOF",
-        "statement" : "5:1[3]"
+        "statement" : "24:1[3]"
       } ]
     }
   }, {
     "tokenType" : "EOF",
-    "statement" : "6:0[5]"
+    "statement" : "25:0[5]"
   } ]
 }

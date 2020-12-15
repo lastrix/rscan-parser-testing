@@ -1,97 +1,97 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at lambda003.java[1:0-7:1]",
+    "keyText" : "RAW_DECL_PACKAGE at lambda003.java[20:0-26:1]",
     "children" : [ {
-      "keyText" : "NAME at lambda003.java[1:8-1:9]",
+      "keyText" : "NAME at lambda003.java[20:8-20:9]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at lambda003.java[1:8-1:9]",
+        "keyText" : "UNRESOLVED_ID at lambda003.java[20:8-20:9]",
         "specText" : "A"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at lambda003.java[3:0-7:1]",
+      "keyText" : "RAW_DECL_CLASS at lambda003.java[22:0-26:1]",
       "children" : [ {
-        "keyText" : "NAME at lambda003.java[3:6-3:7]",
+        "keyText" : "NAME at lambda003.java[22:6-22:7]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at lambda003.java[3:6-3:7]",
+          "keyText" : "UNRESOLVED_ID at lambda003.java[22:6-22:7]",
           "specText" : "B"
         } ]
       }, {
-        "keyText" : "MEMBERS at lambda003.java[3:8-7:1]",
+        "keyText" : "MEMBERS at lambda003.java[22:8-26:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at lambda003.java[4:4-6:5]",
+          "keyText" : "INITIALIZER at lambda003.java[23:4-25:5]",
           "children" : [ {
-            "keyText" : "BLOCK at lambda003.java[4:4-6:5]",
+            "keyText" : "BLOCK at lambda003.java[23:4-25:5]",
             "children" : [ {
-              "keyText" : "RAW_DECL_LOCAL at lambda003.java[5:8-5:39]",
+              "keyText" : "RAW_DECL_LOCAL at lambda003.java[24:8-24:39]",
               "children" : [ {
-                "keyText" : "RAW_DECL_VARIABLE at lambda003.java[5:12-5:39]",
+                "keyText" : "RAW_DECL_VARIABLE at lambda003.java[24:12-24:39]",
                 "children" : [ {
-                  "keyText" : "NAME at lambda003.java[5:12-5:13]",
+                  "keyText" : "NAME at lambda003.java[24:12-24:13]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at lambda003.java[5:12-5:13]",
+                    "keyText" : "UNRESOLVED_ID at lambda003.java[24:12-24:13]",
                     "specText" : "l"
                   } ]
                 }, {
-                  "keyText" : "INIT at lambda003.java[5:16-5:39]",
+                  "keyText" : "INIT at lambda003.java[24:16-24:39]",
                   "children" : [ {
-                    "keyText" : "RAW_DECL_LAMBDA at lambda003.java[5:16-5:39]",
+                    "keyText" : "RAW_DECL_LAMBDA at lambda003.java[24:16-24:39]",
                     "children" : [ {
-                      "keyText" : "RAW_DECL_PARAMETER at lambda003.java[5:17-5:20]",
+                      "keyText" : "RAW_DECL_PARAMETER at lambda003.java[24:17-24:20]",
                       "children" : [ {
-                        "keyText" : "RAW_TYPE at lambda003.java[5:17-5:18]",
+                        "keyText" : "RAW_TYPE at lambda003.java[24:17-24:18]",
                         "children" : [ {
-                          "keyText" : "RAW_TYPE_REFERENCE at lambda003.java[5:17-5:18]",
+                          "keyText" : "RAW_TYPE_REFERENCE at lambda003.java[24:17-24:18]",
                           "children" : [ {
-                            "keyText" : "UNRESOLVED_ID at lambda003.java[5:17-5:18]",
+                            "keyText" : "UNRESOLVED_ID at lambda003.java[24:17-24:18]",
                             "specText" : "E"
                           } ]
                         } ]
                       }, {
-                        "keyText" : "NAME at lambda003.java[5:19-5:20]",
+                        "keyText" : "NAME at lambda003.java[24:19-24:20]",
                         "children" : [ {
-                          "keyText" : "UNRESOLVED_ID at lambda003.java[5:19-5:20]",
+                          "keyText" : "UNRESOLVED_ID at lambda003.java[24:19-24:20]",
                           "specText" : "e"
                         } ]
                       } ]
                     }, {
-                      "keyText" : "RAW_DECL_PARAMETER at lambda003.java[5:22-5:25]",
+                      "keyText" : "RAW_DECL_PARAMETER at lambda003.java[24:22-24:25]",
                       "children" : [ {
-                        "keyText" : "RAW_TYPE at lambda003.java[5:22-5:23]",
+                        "keyText" : "RAW_TYPE at lambda003.java[24:22-24:23]",
                         "children" : [ {
-                          "keyText" : "RAW_TYPE_REFERENCE at lambda003.java[5:22-5:23]",
+                          "keyText" : "RAW_TYPE_REFERENCE at lambda003.java[24:22-24:23]",
                           "children" : [ {
-                            "keyText" : "UNRESOLVED_ID at lambda003.java[5:22-5:23]",
+                            "keyText" : "UNRESOLVED_ID at lambda003.java[24:22-24:23]",
                             "specText" : "B"
                           } ]
                         } ]
                       }, {
-                        "keyText" : "NAME at lambda003.java[5:24-5:25]",
+                        "keyText" : "NAME at lambda003.java[24:24-24:25]",
                         "children" : [ {
-                          "keyText" : "UNRESOLVED_ID at lambda003.java[5:24-5:25]",
+                          "keyText" : "UNRESOLVED_ID at lambda003.java[24:24-24:25]",
                           "specText" : "b"
                         } ]
                       } ]
                     }, {
-                      "keyText" : "RAW_DECL_PARAMETER at lambda003.java[5:27-5:33]",
+                      "keyText" : "RAW_DECL_PARAMETER at lambda003.java[24:27-24:33]",
                       "children" : [ {
-                        "keyText" : "RAW_TYPE at lambda003.java[5:27-5:28]",
+                        "keyText" : "RAW_TYPE at lambda003.java[24:27-24:28]",
                         "children" : [ {
-                          "keyText" : "RAW_TYPE_REFERENCE at lambda003.java[5:27-5:28]",
+                          "keyText" : "RAW_TYPE_REFERENCE at lambda003.java[24:27-24:28]",
                           "children" : [ {
-                            "keyText" : "UNRESOLVED_ID at lambda003.java[5:27-5:28]",
+                            "keyText" : "UNRESOLVED_ID at lambda003.java[24:27-24:28]",
                             "specText" : "C"
                           } ]
                         } ]
                       }, {
-                        "keyText" : "MODIFIER at lambda003.java[5:28-5:31]",
+                        "keyText" : "MODIFIER at lambda003.java[24:28-24:31]",
                         "specText" : "#varargs"
                       }, {
-                        "keyText" : "UNRESOLVED_ID at lambda003.java[5:32-5:33]",
+                        "keyText" : "UNRESOLVED_ID at lambda003.java[24:32-24:33]",
                         "specText" : "c"
                       } ]
                     }, {
-                      "keyText" : "LITERAL at lambda003.java[5:38-5:39]",
+                      "keyText" : "LITERAL at lambda003.java[24:38-24:39]",
                       "specText" : "INTEGER 1"
                     } ]
                   } ]

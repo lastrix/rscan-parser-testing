@@ -1,73 +1,73 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at atom002.java[1:0-9:1]",
+    "keyText" : "RAW_DECL_PACKAGE at atom002.java[20:0-28:1]",
     "children" : [ {
-      "keyText" : "NAME at atom002.java[1:8-1:15]",
+      "keyText" : "NAME at atom002.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at atom002.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at atom002.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_IMPORT at atom002.java[3:0-3:29]",
+      "keyText" : "RAW_IMPORT at atom002.java[22:0-22:29]",
       "children" : [ {
-        "keyText" : "NAME at atom002.java[3:7-3:28]",
+        "keyText" : "NAME at atom002.java[22:7-22:28]",
         "children" : [ {
-          "keyText" : "CHAIN at atom002.java[3:7-3:28]",
+          "keyText" : "CHAIN at atom002.java[22:7-22:28]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at atom002.java[3:7-3:11]",
+            "keyText" : "UNRESOLVED_ID at atom002.java[22:7-22:11]",
             "specText" : "java"
           }, {
-            "keyText" : "UNRESOLVED_ID at atom002.java[3:12-3:16]",
+            "keyText" : "UNRESOLVED_ID at atom002.java[22:12-22:16]",
             "specText" : "util"
           }, {
-            "keyText" : "UNRESOLVED_ID at atom002.java[3:17-3:28]",
+            "keyText" : "UNRESOLVED_ID at atom002.java[22:17-22:28]",
             "specText" : "Collections"
           } ]
         } ]
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at atom002.java[5:0-9:1]",
+      "keyText" : "RAW_DECL_CLASS at atom002.java[24:0-28:1]",
       "children" : [ {
-        "keyText" : "NAME at atom002.java[5:6-5:13]",
+        "keyText" : "NAME at atom002.java[24:6-24:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at atom002.java[5:6-5:13]",
+          "keyText" : "UNRESOLVED_ID at atom002.java[24:6-24:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at atom002.java[5:14-9:1]",
+        "keyText" : "MEMBERS at atom002.java[24:14-28:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at atom002.java[6:4-8:5]",
+          "keyText" : "INITIALIZER at atom002.java[25:4-27:5]",
           "children" : [ {
-            "keyText" : "BLOCK at atom002.java[6:4-8:5]",
+            "keyText" : "BLOCK at atom002.java[25:4-27:5]",
             "children" : [ {
-              "keyText" : "CHAIN at atom002.java[7:8-7:40]",
+              "keyText" : "CHAIN at atom002.java[26:8-26:40]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at atom002.java[7:8-7:19]",
+                "keyText" : "UNRESOLVED_ID at atom002.java[26:8-26:19]",
                 "specText" : "Collections"
               }, {
-                "keyText" : "RAW_METHOD_ACCESS at atom002.java[7:20-7:38]",
+                "keyText" : "RAW_METHOD_ACCESS at atom002.java[26:20-26:38]",
                 "children" : [ {
-                  "keyText" : "TYPE_ARGUMENTS at atom002.java[7:20-7:29]",
+                  "keyText" : "TYPE_ARGUMENTS at atom002.java[26:20-26:29]",
                   "children" : [ {
-                    "keyText" : "RAW_TYPE at atom002.java[7:21-7:28]",
+                    "keyText" : "RAW_TYPE at atom002.java[26:21-26:28]",
                     "children" : [ {
-                      "keyText" : "RAW_TYPE at atom002.java[7:21-7:28]",
+                      "keyText" : "RAW_TYPE at atom002.java[26:21-26:28]",
                       "children" : [ {
-                        "keyText" : "RAW_TYPE_REFERENCE at atom002.java[7:21-7:28]",
+                        "keyText" : "RAW_TYPE_REFERENCE at atom002.java[26:21-26:28]",
                         "children" : [ {
-                          "keyText" : "UNRESOLVED_ID at atom002.java[7:21-7:28]",
+                          "keyText" : "UNRESOLVED_ID at atom002.java[26:21-26:28]",
                           "specText" : "Boolean"
                         } ]
                       } ]
                     } ]
                   } ]
                 }, {
-                  "keyText" : "UNRESOLVED_ID at atom002.java[7:29-7:38]",
+                  "keyText" : "UNRESOLVED_ID at atom002.java[26:29-26:38]",
                   "specText" : "emptyList"
                 } ]
               }, {
-                "keyText" : "RAW_CALL at atom002.java[7:38-7:40]"
+                "keyText" : "RAW_CALL at atom002.java[26:38-26:40]"
               } ]
             } ]
           } ]

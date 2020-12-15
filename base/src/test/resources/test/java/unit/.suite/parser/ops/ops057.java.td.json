@@ -1,71 +1,71 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at ops057.java[2:0-10:1]",
+    "keyText" : "RAW_DECL_PACKAGE at ops057.java[21:0-29:1]",
     "children" : [ {
-      "keyText" : "NAME at ops057.java[2:8-2:15]",
+      "keyText" : "NAME at ops057.java[21:8-21:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at ops057.java[2:8-2:15]",
+        "keyText" : "UNRESOLVED_ID at ops057.java[21:8-21:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at ops057.java[4:0-10:1]",
+      "keyText" : "RAW_DECL_CLASS at ops057.java[23:0-29:1]",
       "children" : [ {
-        "keyText" : "NAME at ops057.java[4:6-4:13]",
+        "keyText" : "NAME at ops057.java[23:6-23:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at ops057.java[4:6-4:13]",
+          "keyText" : "UNRESOLVED_ID at ops057.java[23:6-23:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at ops057.java[4:14-10:1]",
+        "keyText" : "MEMBERS at ops057.java[23:14-29:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_METHOD at ops057.java[5:4-8:5]",
+          "keyText" : "RAW_DECL_METHOD at ops057.java[24:4-27:5]",
           "children" : [ {
-            "keyText" : "MODIFIER at ops057.java[5:4-5:10]",
+            "keyText" : "MODIFIER at ops057.java[24:4-24:10]",
             "specText" : "public"
           }, {
-            "keyText" : "TYPE at ops057.java[5:11-5:15]",
+            "keyText" : "TYPE at ops057.java[24:11-24:15]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at ops057.java[5:11-5:15]",
+              "keyText" : "UNRESOLVED_ID at ops057.java[24:11-24:15]",
               "specText" : "void"
             } ]
           }, {
-            "keyText" : "NAME at ops057.java[5:16-5:20]",
+            "keyText" : "NAME at ops057.java[24:16-24:20]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at ops057.java[5:16-5:20]",
+              "keyText" : "UNRESOLVED_ID at ops057.java[24:16-24:20]",
               "specText" : "func"
             } ]
           }, {
-            "keyText" : "BLOCK at ops057.java[5:23-8:5]",
+            "keyText" : "BLOCK at ops057.java[24:23-27:5]",
             "children" : [ {
-              "keyText" : "RAW_DECL_LOCAL at ops057.java[6:8-6:17]",
+              "keyText" : "RAW_DECL_LOCAL at ops057.java[25:8-25:17]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at ops057.java[6:8-6:11]",
+                "keyText" : "RAW_TYPE at ops057.java[25:8-25:11]",
                 "children" : [ {
-                  "keyText" : "UNRESOLVED_ID at ops057.java[6:8-6:11]",
+                  "keyText" : "UNRESOLVED_ID at ops057.java[25:8-25:11]",
                   "specText" : "int"
                 } ]
               }, {
-                "keyText" : "RAW_DECL_VARIABLE at ops057.java[6:12-6:17]",
+                "keyText" : "RAW_DECL_VARIABLE at ops057.java[25:12-25:17]",
                 "children" : [ {
-                  "keyText" : "NAME at ops057.java[6:12-6:13]",
+                  "keyText" : "NAME at ops057.java[25:12-25:13]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at ops057.java[6:12-6:13]",
+                    "keyText" : "UNRESOLVED_ID at ops057.java[25:12-25:13]",
                     "specText" : "a"
                   } ]
                 }, {
-                  "keyText" : "INIT at ops057.java[6:16-6:17]",
+                  "keyText" : "INIT at ops057.java[25:16-25:17]",
                   "children" : [ {
-                    "keyText" : "LITERAL at ops057.java[6:16-6:17]",
+                    "keyText" : "LITERAL at ops057.java[25:16-25:17]",
                     "specText" : "INTEGER 0"
                   } ]
                 } ]
               } ]
             }, {
-              "keyText" : "UNARY at ops057.java[7:8-7:11]",
+              "keyText" : "UNARY at ops057.java[26:8-26:11]",
               "specText" : "INC",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at ops057.java[7:10-7:11]",
+                "keyText" : "UNRESOLVED_ID at ops057.java[26:10-26:11]",
                 "specText" : "a"
               } ]
             } ]

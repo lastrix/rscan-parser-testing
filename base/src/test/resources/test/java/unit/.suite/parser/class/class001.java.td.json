@@ -1,103 +1,103 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at class001.java[1:0-10:1]",
+    "keyText" : "RAW_DECL_PACKAGE at class001.java[20:0-29:1]",
     "children" : [ {
-      "keyText" : "NAME at class001.java[1:8-1:15]",
+      "keyText" : "NAME at class001.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at class001.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at class001.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at class001.java[3:0-10:1]",
+      "keyText" : "RAW_DECL_CLASS at class001.java[22:0-29:1]",
       "children" : [ {
-        "keyText" : "MODIFIER at class001.java[3:0-3:8]",
+        "keyText" : "MODIFIER at class001.java[22:0-22:8]",
         "specText" : "abstract"
       }, {
-        "keyText" : "NAME at class001.java[3:15-3:22]",
+        "keyText" : "NAME at class001.java[22:15-22:22]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at class001.java[3:15-3:22]",
+          "keyText" : "UNRESOLVED_ID at class001.java[22:15-22:22]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at class001.java[3:23-10:1]",
+        "keyText" : "MEMBERS at class001.java[22:23-29:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_METHOD at class001.java[5:4-5:34]",
+          "keyText" : "RAW_DECL_METHOD at class001.java[24:4-24:34]",
           "children" : [ {
-            "keyText" : "MODIFIER at class001.java[5:4-5:10]",
+            "keyText" : "MODIFIER at class001.java[24:4-24:10]",
             "specText" : "public"
           }, {
-            "keyText" : "MODIFIER at class001.java[5:11-5:19]",
+            "keyText" : "MODIFIER at class001.java[24:11-24:19]",
             "specText" : "abstract"
           }, {
-            "keyText" : "TYPE at class001.java[5:20-5:24]",
+            "keyText" : "TYPE at class001.java[24:20-24:24]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at class001.java[5:20-5:24]",
+              "keyText" : "UNRESOLVED_ID at class001.java[24:20-24:24]",
               "specText" : "void"
             } ]
           }, {
-            "keyText" : "NAME at class001.java[5:25-5:31]",
+            "keyText" : "NAME at class001.java[24:25-24:31]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at class001.java[5:25-5:31]",
+              "keyText" : "UNRESOLVED_ID at class001.java[24:25-24:31]",
               "specText" : "doSmtn"
             } ]
           } ]
         }, {
-          "keyText" : "RAW_DECL_METHOD at class001.java[7:4-7:41]",
+          "keyText" : "RAW_DECL_METHOD at class001.java[26:4-26:41]",
           "children" : [ {
-            "keyText" : "MODIFIER at class001.java[7:4-7:13]",
+            "keyText" : "MODIFIER at class001.java[26:4-26:13]",
             "specText" : "protected"
           }, {
-            "keyText" : "MODIFIER at class001.java[7:14-7:22]",
+            "keyText" : "MODIFIER at class001.java[26:14-26:22]",
             "specText" : "abstract"
           }, {
-            "keyText" : "RAW_TYPE at class001.java[7:23-7:26]",
+            "keyText" : "RAW_TYPE at class001.java[26:23-26:26]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at class001.java[7:23-7:26]",
+              "keyText" : "UNRESOLVED_ID at class001.java[26:23-26:26]",
               "specText" : "int"
             } ]
           }, {
-            "keyText" : "NAME at class001.java[7:27-7:38]",
+            "keyText" : "NAME at class001.java[26:27-26:38]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at class001.java[7:27-7:38]",
+              "keyText" : "UNRESOLVED_ID at class001.java[26:27-26:38]",
               "specText" : "getPriority"
             } ]
           } ]
         }, {
-          "keyText" : "RAW_DECL_METHOD at class001.java[9:4-9:52]",
+          "keyText" : "RAW_DECL_METHOD at class001.java[28:4-28:52]",
           "children" : [ {
-            "keyText" : "MODIFIER at class001.java[9:4-9:13]",
+            "keyText" : "MODIFIER at class001.java[28:4-28:13]",
             "specText" : "protected"
           }, {
-            "keyText" : "MODIFIER at class001.java[9:14-9:22]",
+            "keyText" : "MODIFIER at class001.java[28:14-28:22]",
             "specText" : "abstract"
           }, {
-            "keyText" : "TYPE at class001.java[9:23-9:27]",
+            "keyText" : "TYPE at class001.java[28:23-28:27]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at class001.java[9:23-9:27]",
+              "keyText" : "UNRESOLVED_ID at class001.java[28:23-28:27]",
               "specText" : "void"
             } ]
           }, {
-            "keyText" : "NAME at class001.java[9:28-9:36]",
+            "keyText" : "NAME at class001.java[28:28-28:36]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at class001.java[9:28-9:36]",
+              "keyText" : "UNRESOLVED_ID at class001.java[28:28-28:36]",
               "specText" : "setState"
             } ]
           }, {
-            "keyText" : "RAW_DECL_PARAMETER at class001.java[9:37-9:50]",
+            "keyText" : "RAW_DECL_PARAMETER at class001.java[28:37-28:50]",
             "children" : [ {
-              "keyText" : "RAW_TYPE at class001.java[9:37-9:44]",
+              "keyText" : "RAW_TYPE at class001.java[28:37-28:44]",
               "children" : [ {
-                "keyText" : "RAW_TYPE_REFERENCE at class001.java[9:37-9:44]",
+                "keyText" : "RAW_TYPE_REFERENCE at class001.java[28:37-28:44]",
                 "children" : [ {
-                  "keyText" : "UNRESOLVED_ID at class001.java[9:37-9:44]",
+                  "keyText" : "UNRESOLVED_ID at class001.java[28:37-28:44]",
                   "specText" : "Boolean"
                 } ]
               } ]
             }, {
-              "keyText" : "NAME at class001.java[9:45-9:50]",
+              "keyText" : "NAME at class001.java[28:45-28:50]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at class001.java[9:45-9:50]",
+                "keyText" : "UNRESOLVED_ID at class001.java[28:45-28:50]",
                 "specText" : "value"
               } ]
             } ]

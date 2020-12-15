@@ -1,86 +1,86 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at enum007.java[1:0-22:1]",
+    "keyText" : "RAW_DECL_PACKAGE at enum007.java[20:0-41:1]",
     "children" : [ {
-      "keyText" : "NAME at enum007.java[1:8-1:15]",
+      "keyText" : "NAME at enum007.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at enum007.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at enum007.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_ENUM at enum007.java[4:0-22:1]",
+      "keyText" : "RAW_DECL_ENUM at enum007.java[23:0-41:1]",
       "children" : [ {
-        "keyText" : "NAME at enum007.java[4:5-4:12]",
+        "keyText" : "NAME at enum007.java[23:5-23:12]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at enum007.java[4:5-4:12]",
+          "keyText" : "UNRESOLVED_ID at enum007.java[23:5-23:12]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at enum007.java[4:13-22:1]",
+        "keyText" : "MEMBERS at enum007.java[23:13-41:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_ENUM_MEMBER at enum007.java[5:4-5:14]",
+          "keyText" : "RAW_DECL_ENUM_MEMBER at enum007.java[24:4-24:14]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at enum007.java[5:4-5:11]",
+            "keyText" : "UNRESOLVED_ID at enum007.java[24:4-24:11]",
             "specText" : "EXAMPLE"
           }, {
-            "keyText" : "ARGUMENTS at enum007.java[5:11-5:14]",
+            "keyText" : "ARGUMENTS at enum007.java[24:11-24:14]",
             "children" : [ {
-              "keyText" : "LITERAL at enum007.java[5:12-5:13]",
+              "keyText" : "LITERAL at enum007.java[24:12-24:13]",
               "specText" : "INTEGER 1"
             } ]
           } ]
         }, {
-          "keyText" : "RAW_DECL_ENUM_MEMBER at enum007.java[6:4-11:5]",
+          "keyText" : "RAW_DECL_ENUM_MEMBER at enum007.java[25:4-30:5]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at enum007.java[6:4-6:12]",
+            "keyText" : "UNRESOLVED_ID at enum007.java[25:4-25:12]",
             "specText" : "EXAMPLE1"
           }, {
-            "keyText" : "ARGUMENTS at enum007.java[6:12-6:15]",
+            "keyText" : "ARGUMENTS at enum007.java[25:12-25:15]",
             "children" : [ {
-              "keyText" : "LITERAL at enum007.java[6:13-6:14]",
+              "keyText" : "LITERAL at enum007.java[25:13-25:14]",
               "specText" : "INTEGER 2"
             } ]
           }, {
-            "keyText" : "MEMBERS at enum007.java[6:16-11:5]",
+            "keyText" : "MEMBERS at enum007.java[25:16-30:5]",
             "children" : [ {
-              "keyText" : "RAW_DECL_METHOD at enum007.java[7:8-10:9]",
+              "keyText" : "RAW_DECL_METHOD at enum007.java[26:8-29:9]",
               "children" : [ {
-                "keyText" : "RAW_ANNOTATION at enum007.java[7:8-7:17]",
+                "keyText" : "RAW_ANNOTATION at enum007.java[26:8-26:17]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE at enum007.java[7:9-7:17]",
+                  "keyText" : "RAW_TYPE at enum007.java[26:9-26:17]",
                   "children" : [ {
-                    "keyText" : "RAW_TYPE_REFERENCE at enum007.java[7:9-7:17]",
+                    "keyText" : "RAW_TYPE_REFERENCE at enum007.java[26:9-26:17]",
                     "children" : [ {
-                      "keyText" : "UNRESOLVED_ID at enum007.java[7:9-7:17]",
+                      "keyText" : "UNRESOLVED_ID at enum007.java[26:9-26:17]",
                       "specText" : "Override"
                     } ]
                   } ]
                 } ]
               }, {
-                "keyText" : "MODIFIER at enum007.java[8:8-8:14]",
+                "keyText" : "MODIFIER at enum007.java[27:8-27:14]",
                 "specText" : "public"
               }, {
-                "keyText" : "RAW_TYPE at enum007.java[8:15-8:21]",
+                "keyText" : "RAW_TYPE at enum007.java[27:15-27:21]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE_REFERENCE at enum007.java[8:15-8:21]",
+                  "keyText" : "RAW_TYPE_REFERENCE at enum007.java[27:15-27:21]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at enum007.java[8:15-8:21]",
+                    "keyText" : "UNRESOLVED_ID at enum007.java[27:15-27:21]",
                     "specText" : "String"
                   } ]
                 } ]
               }, {
-                "keyText" : "NAME at enum007.java[8:22-8:29]",
+                "keyText" : "NAME at enum007.java[27:22-27:29]",
                 "children" : [ {
-                  "keyText" : "UNRESOLVED_ID at enum007.java[8:22-8:29]",
+                  "keyText" : "UNRESOLVED_ID at enum007.java[27:22-27:29]",
                   "specText" : "getName"
                 } ]
               }, {
-                "keyText" : "BLOCK at enum007.java[8:32-10:9]",
+                "keyText" : "BLOCK at enum007.java[27:32-29:9]",
                 "children" : [ {
-                  "keyText" : "RETURN at enum007.java[9:12-9:30]",
+                  "keyText" : "RETURN at enum007.java[28:12-28:30]",
                   "children" : [ {
-                    "keyText" : "LITERAL at enum007.java[9:19-9:30]",
+                    "keyText" : "LITERAL at enum007.java[28:19-28:30]",
                     "specText" : "STRING \"Overriden\""
                   } ]
                 } ]
@@ -88,98 +88,98 @@
             } ]
           } ]
         }, {
-          "keyText" : "RAW_DECL_FIELD at enum007.java[13:4-13:27]",
+          "keyText" : "RAW_DECL_FIELD at enum007.java[32:4-32:27]",
           "children" : [ {
-            "keyText" : "MODIFIER at enum007.java[13:4-13:11]",
+            "keyText" : "MODIFIER at enum007.java[32:4-32:11]",
             "specText" : "private"
           }, {
-            "keyText" : "MODIFIER at enum007.java[13:12-13:17]",
+            "keyText" : "MODIFIER at enum007.java[32:12-32:17]",
             "specText" : "final"
           }, {
-            "keyText" : "RAW_TYPE at enum007.java[13:18-13:21]",
+            "keyText" : "RAW_TYPE at enum007.java[32:18-32:21]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at enum007.java[13:18-13:21]",
+              "keyText" : "UNRESOLVED_ID at enum007.java[32:18-32:21]",
               "specText" : "int"
             } ]
           }, {
-            "keyText" : "RAW_DECL_VARIABLE at enum007.java[13:22-13:27]",
+            "keyText" : "RAW_DECL_VARIABLE at enum007.java[32:22-32:27]",
             "children" : [ {
-              "keyText" : "NAME at enum007.java[13:22-13:27]",
+              "keyText" : "NAME at enum007.java[32:22-32:27]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at enum007.java[13:22-13:27]",
+                "keyText" : "UNRESOLVED_ID at enum007.java[32:22-32:27]",
                 "specText" : "value"
               } ]
             } ]
           } ]
         }, {
-          "keyText" : "RAW_DECL_CONSTRUCTOR at enum007.java[15:4-17:5]",
+          "keyText" : "RAW_DECL_CONSTRUCTOR at enum007.java[34:4-36:5]",
           "children" : [ {
-            "keyText" : "NAME at enum007.java[15:4-15:11]",
+            "keyText" : "NAME at enum007.java[34:4-34:11]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at enum007.java[15:4-15:11]",
+              "keyText" : "UNRESOLVED_ID at enum007.java[34:4-34:11]",
               "specText" : "Example"
             } ]
           }, {
-            "keyText" : "RAW_DECL_PARAMETER at enum007.java[15:12-15:21]",
+            "keyText" : "RAW_DECL_PARAMETER at enum007.java[34:12-34:21]",
             "children" : [ {
-              "keyText" : "RAW_TYPE at enum007.java[15:12-15:15]",
+              "keyText" : "RAW_TYPE at enum007.java[34:12-34:15]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at enum007.java[15:12-15:15]",
+                "keyText" : "UNRESOLVED_ID at enum007.java[34:12-34:15]",
                 "specText" : "int"
               } ]
             }, {
-              "keyText" : "NAME at enum007.java[15:16-15:21]",
+              "keyText" : "NAME at enum007.java[34:16-34:21]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at enum007.java[15:16-15:21]",
+                "keyText" : "UNRESOLVED_ID at enum007.java[34:16-34:21]",
                 "specText" : "value"
               } ]
             } ]
           }, {
-            "keyText" : "BLOCK at enum007.java[15:23-17:5]",
+            "keyText" : "BLOCK at enum007.java[34:23-36:5]",
             "children" : [ {
-              "keyText" : "ASSIGN at enum007.java[16:8-16:26]",
+              "keyText" : "ASSIGN at enum007.java[35:8-35:26]",
               "specText" : "",
               "children" : [ {
-                "keyText" : "CHAIN at enum007.java[16:8-16:18]",
+                "keyText" : "CHAIN at enum007.java[35:8-35:18]",
                 "children" : [ {
-                  "keyText" : "UNRESOLVED_ID at enum007.java[16:8-16:12]",
+                  "keyText" : "UNRESOLVED_ID at enum007.java[35:8-35:12]",
                   "specText" : "this"
                 }, {
-                  "keyText" : "UNRESOLVED_ID at enum007.java[16:13-16:18]",
+                  "keyText" : "UNRESOLVED_ID at enum007.java[35:13-35:18]",
                   "specText" : "value"
                 } ]
               }, {
-                "keyText" : "UNRESOLVED_ID at enum007.java[16:21-16:26]",
+                "keyText" : "UNRESOLVED_ID at enum007.java[35:21-35:26]",
                 "specText" : "value"
               } ]
             } ]
           } ]
         }, {
-          "keyText" : "RAW_DECL_METHOD at enum007.java[19:4-21:5]",
+          "keyText" : "RAW_DECL_METHOD at enum007.java[38:4-40:5]",
           "children" : [ {
-            "keyText" : "MODIFIER at enum007.java[19:4-19:10]",
+            "keyText" : "MODIFIER at enum007.java[38:4-38:10]",
             "specText" : "public"
           }, {
-            "keyText" : "RAW_TYPE at enum007.java[19:11-19:17]",
+            "keyText" : "RAW_TYPE at enum007.java[38:11-38:17]",
             "children" : [ {
-              "keyText" : "RAW_TYPE_REFERENCE at enum007.java[19:11-19:17]",
+              "keyText" : "RAW_TYPE_REFERENCE at enum007.java[38:11-38:17]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at enum007.java[19:11-19:17]",
+                "keyText" : "UNRESOLVED_ID at enum007.java[38:11-38:17]",
                 "specText" : "String"
               } ]
             } ]
           }, {
-            "keyText" : "NAME at enum007.java[19:18-19:25]",
+            "keyText" : "NAME at enum007.java[38:18-38:25]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at enum007.java[19:18-19:25]",
+              "keyText" : "UNRESOLVED_ID at enum007.java[38:18-38:25]",
               "specText" : "getName"
             } ]
           }, {
-            "keyText" : "BLOCK at enum007.java[19:28-21:5]",
+            "keyText" : "BLOCK at enum007.java[38:28-40:5]",
             "children" : [ {
-              "keyText" : "RETURN at enum007.java[20:8-20:21]",
+              "keyText" : "RETURN at enum007.java[39:8-39:21]",
               "children" : [ {
-                "keyText" : "LITERAL at enum007.java[20:15-20:21]",
+                "keyText" : "LITERAL at enum007.java[39:15-39:21]",
                 "specText" : "STRING \"Base\""
               } ]
             } ]

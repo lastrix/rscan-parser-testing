@@ -1,26 +1,26 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at interface005.java[1:0-5:1]",
+    "keyText" : "RAW_DECL_PACKAGE at interface005.java[20:0-24:1]",
     "children" : [ {
-      "keyText" : "NAME at interface005.java[1:8-1:15]",
+      "keyText" : "NAME at interface005.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at interface005.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at interface005.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_INTERFACE at interface005.java[3:0-5:1]",
+      "keyText" : "RAW_DECL_INTERFACE at interface005.java[22:0-24:1]",
       "children" : [ {
-        "keyText" : "MODIFIER at interface005.java[3:0-3:8]",
+        "keyText" : "MODIFIER at interface005.java[22:0-22:8]",
         "specText" : "strictfp"
       }, {
-        "keyText" : "NAME at interface005.java[3:19-3:26]",
+        "keyText" : "NAME at interface005.java[22:19-22:26]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at interface005.java[3:19-3:26]",
+          "keyText" : "UNRESOLVED_ID at interface005.java[22:19-22:26]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at interface005.java[3:27-5:1]"
+        "keyText" : "MEMBERS at interface005.java[22:27-24:1]"
       } ]
     } ]
   } ]

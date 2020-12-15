@@ -1,73 +1,73 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at ops041.java[2:0-13:1]",
+    "keyText" : "RAW_DECL_PACKAGE at ops041.java[21:0-32:1]",
     "children" : [ {
-      "keyText" : "NAME at ops041.java[2:8-2:15]",
+      "keyText" : "NAME at ops041.java[21:8-21:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at ops041.java[2:8-2:15]",
+        "keyText" : "UNRESOLVED_ID at ops041.java[21:8-21:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at ops041.java[4:0-13:1]",
+      "keyText" : "RAW_DECL_CLASS at ops041.java[23:0-32:1]",
       "children" : [ {
-        "keyText" : "NAME at ops041.java[4:6-4:13]",
+        "keyText" : "NAME at ops041.java[23:6-23:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at ops041.java[4:6-4:13]",
+          "keyText" : "UNRESOLVED_ID at ops041.java[23:6-23:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at ops041.java[4:14-13:1]",
+        "keyText" : "MEMBERS at ops041.java[23:14-32:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at ops041.java[5:4-11:5]",
+          "keyText" : "INITIALIZER at ops041.java[24:4-30:5]",
           "children" : [ {
-            "keyText" : "BLOCK at ops041.java[5:4-11:5]",
+            "keyText" : "BLOCK at ops041.java[24:4-30:5]",
             "children" : [ {
-              "keyText" : "RAW_DECL_LOCAL at ops041.java[6:8-6:17]",
+              "keyText" : "RAW_DECL_LOCAL at ops041.java[25:8-25:17]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at ops041.java[6:8-6:11]",
+                "keyText" : "RAW_TYPE at ops041.java[25:8-25:11]",
                 "children" : [ {
-                  "keyText" : "UNRESOLVED_ID at ops041.java[6:8-6:11]",
+                  "keyText" : "UNRESOLVED_ID at ops041.java[25:8-25:11]",
                   "specText" : "int"
                 } ]
               }, {
-                "keyText" : "RAW_DECL_VARIABLE at ops041.java[6:12-6:17]",
+                "keyText" : "RAW_DECL_VARIABLE at ops041.java[25:12-25:17]",
                 "children" : [ {
-                  "keyText" : "NAME at ops041.java[6:12-6:13]",
+                  "keyText" : "NAME at ops041.java[25:12-25:13]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at ops041.java[6:12-6:13]",
+                    "keyText" : "UNRESOLVED_ID at ops041.java[25:12-25:13]",
                     "specText" : "a"
                   } ]
                 }, {
-                  "keyText" : "INIT at ops041.java[6:16-6:17]",
+                  "keyText" : "INIT at ops041.java[25:16-25:17]",
                   "children" : [ {
-                    "keyText" : "LITERAL at ops041.java[6:16-6:17]",
+                    "keyText" : "LITERAL at ops041.java[25:16-25:17]",
                     "specText" : "INTEGER 1"
                   } ]
                 } ]
               } ]
             }, {
-              "keyText" : "CASE at ops041.java[7:8-10:9]",
+              "keyText" : "CASE at ops041.java[26:8-29:9]",
               "children" : [ {
-                "keyText" : "CONDITION at ops041.java[7:16-7:17]",
+                "keyText" : "CONDITION at ops041.java[26:16-26:17]",
                 "children" : [ {
-                  "keyText" : "UNRESOLVED_ID at ops041.java[7:16-7:17]",
+                  "keyText" : "UNRESOLVED_ID at ops041.java[26:16-26:17]",
                   "specText" : "a"
                 } ]
               }, {
-                "keyText" : "BLOCK at ops041.java[7:18-10:9]",
+                "keyText" : "BLOCK at ops041.java[26:18-29:9]",
                 "children" : [ {
-                  "keyText" : "CASE_ITEM at ops041.java[8:12-8:19]",
+                  "keyText" : "CASE_ITEM at ops041.java[27:12-27:19]",
                   "specText" : "",
                   "children" : [ {
-                    "keyText" : "CONDITION at ops041.java[8:17-8:18]",
+                    "keyText" : "CONDITION at ops041.java[27:17-27:18]",
                     "children" : [ {
-                      "keyText" : "LITERAL at ops041.java[8:17-8:18]",
+                      "keyText" : "LITERAL at ops041.java[27:17-27:18]",
                       "specText" : "INTEGER 1"
                     } ]
                   } ]
                 }, {
-                  "keyText" : "CASE_ITEM at ops041.java[9:12-9:20]",
+                  "keyText" : "CASE_ITEM at ops041.java[28:12-28:20]",
                   "specText" : ""
                 } ]
               } ]

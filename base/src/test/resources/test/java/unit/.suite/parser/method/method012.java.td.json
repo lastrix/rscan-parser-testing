@@ -1,42 +1,42 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at method012.java[1:0-7:1]",
+    "keyText" : "RAW_DECL_PACKAGE at method012.java[20:0-26:1]",
     "children" : [ {
-      "keyText" : "NAME at method012.java[1:8-1:15]",
+      "keyText" : "NAME at method012.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at method012.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at method012.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at method012.java[3:0-7:1]",
+      "keyText" : "RAW_DECL_CLASS at method012.java[22:0-26:1]",
       "children" : [ {
-        "keyText" : "NAME at method012.java[3:6-3:13]",
+        "keyText" : "NAME at method012.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at method012.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at method012.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at method012.java[3:14-7:1]",
+        "keyText" : "MEMBERS at method012.java[22:14-26:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_METHOD at method012.java[4:4-6:5]",
+          "keyText" : "RAW_DECL_METHOD at method012.java[23:4-25:5]",
           "children" : [ {
-            "keyText" : "MODIFIER at method012.java[4:4-4:10]",
+            "keyText" : "MODIFIER at method012.java[23:4-23:10]",
             "specText" : "static"
           }, {
-            "keyText" : "TYPE at method012.java[4:11-4:15]",
+            "keyText" : "TYPE at method012.java[23:11-23:15]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at method012.java[4:11-4:15]",
+              "keyText" : "UNRESOLVED_ID at method012.java[23:11-23:15]",
               "specText" : "void"
             } ]
           }, {
-            "keyText" : "NAME at method012.java[4:16-4:19]",
+            "keyText" : "NAME at method012.java[23:16-23:19]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at method012.java[4:16-4:19]",
+              "keyText" : "UNRESOLVED_ID at method012.java[23:16-23:19]",
               "specText" : "run"
             } ]
           }, {
-            "keyText" : "BLOCK at method012.java[4:21-6:5]"
+            "keyText" : "BLOCK at method012.java[23:21-25:5]"
           } ]
         } ]
       } ]

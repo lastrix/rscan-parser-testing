@@ -1,61 +1,61 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at lambda001.java[1:0-7:1]",
+    "keyText" : "RAW_DECL_PACKAGE at lambda001.java[20:0-26:1]",
     "children" : [ {
-      "keyText" : "NAME at lambda001.java[1:8-1:9]",
+      "keyText" : "NAME at lambda001.java[20:8-20:9]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at lambda001.java[1:8-1:9]",
+        "keyText" : "UNRESOLVED_ID at lambda001.java[20:8-20:9]",
         "specText" : "A"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at lambda001.java[3:0-7:1]",
+      "keyText" : "RAW_DECL_CLASS at lambda001.java[22:0-26:1]",
       "children" : [ {
-        "keyText" : "NAME at lambda001.java[3:6-3:7]",
+        "keyText" : "NAME at lambda001.java[22:6-22:7]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at lambda001.java[3:6-3:7]",
+          "keyText" : "UNRESOLVED_ID at lambda001.java[22:6-22:7]",
           "specText" : "B"
         } ]
       }, {
-        "keyText" : "MEMBERS at lambda001.java[3:8-7:1]",
+        "keyText" : "MEMBERS at lambda001.java[22:8-26:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at lambda001.java[4:4-6:5]",
+          "keyText" : "INITIALIZER at lambda001.java[23:4-25:5]",
           "children" : [ {
-            "keyText" : "BLOCK at lambda001.java[4:4-6:5]",
+            "keyText" : "BLOCK at lambda001.java[23:4-25:5]",
             "children" : [ {
-              "keyText" : "RAW_DECL_LOCAL at lambda001.java[5:8-5:26]",
+              "keyText" : "RAW_DECL_LOCAL at lambda001.java[24:8-24:26]",
               "children" : [ {
-                "keyText" : "RAW_DECL_VARIABLE at lambda001.java[5:12-5:26]",
+                "keyText" : "RAW_DECL_VARIABLE at lambda001.java[24:12-24:26]",
                 "children" : [ {
-                  "keyText" : "NAME at lambda001.java[5:12-5:13]",
+                  "keyText" : "NAME at lambda001.java[24:12-24:13]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at lambda001.java[5:12-5:13]",
+                    "keyText" : "UNRESOLVED_ID at lambda001.java[24:12-24:13]",
                     "specText" : "l"
                   } ]
                 }, {
-                  "keyText" : "INIT at lambda001.java[5:16-5:26]",
+                  "keyText" : "INIT at lambda001.java[24:16-24:26]",
                   "children" : [ {
-                    "keyText" : "RAW_DECL_LAMBDA at lambda001.java[5:16-5:26]",
+                    "keyText" : "RAW_DECL_LAMBDA at lambda001.java[24:16-24:26]",
                     "children" : [ {
-                      "keyText" : "RAW_DECL_PARAMETER at lambda001.java[5:17-5:18]",
+                      "keyText" : "RAW_DECL_PARAMETER at lambda001.java[24:17-24:18]",
                       "children" : [ {
-                        "keyText" : "NAME at lambda001.java[5:17-5:18]",
+                        "keyText" : "NAME at lambda001.java[24:17-24:18]",
                         "children" : [ {
-                          "keyText" : "UNRESOLVED_ID at lambda001.java[5:17-5:18]",
+                          "keyText" : "UNRESOLVED_ID at lambda001.java[24:17-24:18]",
                           "specText" : "e"
                         } ]
                       } ]
                     }, {
-                      "keyText" : "RAW_DECL_PARAMETER at lambda001.java[5:19-5:20]",
+                      "keyText" : "RAW_DECL_PARAMETER at lambda001.java[24:19-24:20]",
                       "children" : [ {
-                        "keyText" : "NAME at lambda001.java[5:19-5:20]",
+                        "keyText" : "NAME at lambda001.java[24:19-24:20]",
                         "children" : [ {
-                          "keyText" : "UNRESOLVED_ID at lambda001.java[5:19-5:20]",
+                          "keyText" : "UNRESOLVED_ID at lambda001.java[24:19-24:20]",
                           "specText" : "b"
                         } ]
                       } ]
                     }, {
-                      "keyText" : "LITERAL at lambda001.java[5:25-5:26]",
+                      "keyText" : "LITERAL at lambda001.java[24:25-24:26]",
                       "specText" : "INTEGER 1"
                     } ]
                   } ]

@@ -1,58 +1,58 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at interface003.java[1:0-5:1]",
+    "keyText" : "RAW_DECL_PACKAGE at interface003.java[20:0-24:1]",
     "children" : [ {
-      "keyText" : "NAME at interface003.java[1:8-1:15]",
+      "keyText" : "NAME at interface003.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at interface003.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at interface003.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_INTERFACE at interface003.java[3:0-5:1]",
+      "keyText" : "RAW_DECL_INTERFACE at interface003.java[22:0-24:1]",
       "children" : [ {
-        "keyText" : "NAME at interface003.java[3:10-3:17]",
+        "keyText" : "NAME at interface003.java[22:10-22:17]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at interface003.java[3:10-3:17]",
+          "keyText" : "UNRESOLVED_ID at interface003.java[22:10-22:17]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "RAW_DECL_TYPE_PARAMETER at interface003.java[3:18-3:34]",
+        "keyText" : "RAW_DECL_TYPE_PARAMETER at interface003.java[22:18-22:34]",
         "children" : [ {
-          "keyText" : "NAME at interface003.java[3:18-3:19]",
+          "keyText" : "NAME at interface003.java[22:18-22:19]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at interface003.java[3:18-3:19]",
+            "keyText" : "UNRESOLVED_ID at interface003.java[22:18-22:19]",
             "specText" : "T"
           } ]
         }, {
-          "keyText" : "EXTENDS at interface003.java[3:28-3:34]",
+          "keyText" : "EXTENDS at interface003.java[22:28-22:34]",
           "children" : [ {
-            "keyText" : "RAW_TYPE_REFERENCE at interface003.java[3:28-3:34]",
+            "keyText" : "RAW_TYPE_REFERENCE at interface003.java[22:28-22:34]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at interface003.java[3:28-3:34]",
+              "keyText" : "UNRESOLVED_ID at interface003.java[22:28-22:34]",
               "specText" : "Number"
             } ]
           } ]
         } ]
       }, {
-        "keyText" : "EXTENDS at interface003.java[3:44-3:65]",
+        "keyText" : "EXTENDS at interface003.java[22:44-22:65]",
         "children" : [ {
-          "keyText" : "RAW_TYPE at interface003.java[3:44-3:55]",
+          "keyText" : "RAW_TYPE at interface003.java[22:44-22:55]",
           "children" : [ {
-            "keyText" : "RAW_TYPE_REFERENCE at interface003.java[3:44-3:55]",
+            "keyText" : "RAW_TYPE_REFERENCE at interface003.java[22:44-22:55]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at interface003.java[3:44-3:52]",
+              "keyText" : "UNRESOLVED_ID at interface003.java[22:44-22:52]",
               "specText" : "AExample"
             }, {
-              "keyText" : "TYPE_ARGUMENTS at interface003.java[3:52-3:55]",
+              "keyText" : "TYPE_ARGUMENTS at interface003.java[22:52-22:55]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at interface003.java[3:53-3:54]",
+                "keyText" : "RAW_TYPE at interface003.java[22:53-22:54]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE at interface003.java[3:53-3:54]",
+                  "keyText" : "RAW_TYPE at interface003.java[22:53-22:54]",
                   "children" : [ {
-                    "keyText" : "RAW_TYPE_REFERENCE at interface003.java[3:53-3:54]",
+                    "keyText" : "RAW_TYPE_REFERENCE at interface003.java[22:53-22:54]",
                     "children" : [ {
-                      "keyText" : "UNRESOLVED_ID at interface003.java[3:53-3:54]",
+                      "keyText" : "UNRESOLVED_ID at interface003.java[22:53-22:54]",
                       "specText" : "T"
                     } ]
                   } ]
@@ -61,17 +61,17 @@
             } ]
           } ]
         }, {
-          "keyText" : "RAW_TYPE at interface003.java[3:57-3:65]",
+          "keyText" : "RAW_TYPE at interface003.java[22:57-22:65]",
           "children" : [ {
-            "keyText" : "RAW_TYPE_REFERENCE at interface003.java[3:57-3:65]",
+            "keyText" : "RAW_TYPE_REFERENCE at interface003.java[22:57-22:65]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at interface003.java[3:57-3:65]",
+              "keyText" : "UNRESOLVED_ID at interface003.java[22:57-22:65]",
               "specText" : "BExample"
             } ]
           } ]
         } ]
       }, {
-        "keyText" : "MEMBERS at interface003.java[3:66-5:1]"
+        "keyText" : "MEMBERS at interface003.java[22:66-24:1]"
       } ]
     } ]
   } ]

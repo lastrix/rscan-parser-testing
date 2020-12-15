@@ -1,85 +1,85 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at type006.java[1:0-10:1]",
+    "keyText" : "RAW_DECL_PACKAGE at type006.java[20:0-29:1]",
     "children" : [ {
-      "keyText" : "NAME at type006.java[1:8-1:15]",
+      "keyText" : "NAME at type006.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at type006.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at type006.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_IMPORT at type006.java[3:0-3:41]",
+      "keyText" : "RAW_IMPORT at type006.java[22:0-22:41]",
       "children" : [ {
-        "keyText" : "NAME at type006.java[3:7-3:40]",
+        "keyText" : "NAME at type006.java[22:7-22:40]",
         "children" : [ {
-          "keyText" : "CHAIN at type006.java[3:7-3:40]",
+          "keyText" : "CHAIN at type006.java[22:7-22:40]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at type006.java[3:7-3:10]",
+            "keyText" : "UNRESOLVED_ID at type006.java[22:7-22:10]",
             "specText" : "org"
           }, {
-            "keyText" : "UNRESOLVED_ID at type006.java[3:11-3:20]",
+            "keyText" : "UNRESOLVED_ID at type006.java[22:11-22:20]",
             "specText" : "jetbrains"
           }, {
-            "keyText" : "UNRESOLVED_ID at type006.java[3:21-3:32]",
+            "keyText" : "UNRESOLVED_ID at type006.java[22:21-22:32]",
             "specText" : "annotations"
           }, {
-            "keyText" : "UNRESOLVED_ID at type006.java[3:33-3:40]",
+            "keyText" : "UNRESOLVED_ID at type006.java[22:33-22:40]",
             "specText" : "NotNull"
           } ]
         } ]
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at type006.java[5:0-10:1]",
+      "keyText" : "RAW_DECL_CLASS at type006.java[24:0-29:1]",
       "children" : [ {
-        "keyText" : "NAME at type006.java[5:6-5:13]",
+        "keyText" : "NAME at type006.java[24:6-24:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at type006.java[5:6-5:13]",
+          "keyText" : "UNRESOLVED_ID at type006.java[24:6-24:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at type006.java[5:14-10:1]",
+        "keyText" : "MEMBERS at type006.java[24:14-29:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at type006.java[6:4-8:5]",
+          "keyText" : "INITIALIZER at type006.java[25:4-27:5]",
           "children" : [ {
-            "keyText" : "BLOCK at type006.java[6:4-8:5]",
+            "keyText" : "BLOCK at type006.java[25:4-27:5]",
             "children" : [ {
-              "keyText" : "RAW_DECL_LOCAL at type006.java[7:8-7:41]",
+              "keyText" : "RAW_DECL_LOCAL at type006.java[26:8-26:41]",
               "children" : [ {
-                "keyText" : "RAW_ANNOTATION at type006.java[7:8-7:16]",
+                "keyText" : "RAW_ANNOTATION at type006.java[26:8-26:16]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE at type006.java[7:9-7:16]",
+                  "keyText" : "RAW_TYPE at type006.java[26:9-26:16]",
                   "children" : [ {
-                    "keyText" : "RAW_TYPE_REFERENCE at type006.java[7:9-7:16]",
+                    "keyText" : "RAW_TYPE_REFERENCE at type006.java[26:9-26:16]",
                     "children" : [ {
-                      "keyText" : "UNRESOLVED_ID at type006.java[7:9-7:16]",
+                      "keyText" : "UNRESOLVED_ID at type006.java[26:9-26:16]",
                       "specText" : "NotNull"
                     } ]
                   } ]
                 } ]
               }, {
-                "keyText" : "RAW_TYPE at type006.java[7:17-7:35]",
+                "keyText" : "RAW_TYPE at type006.java[26:17-26:35]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE at type006.java[7:17-7:23]",
+                  "keyText" : "RAW_TYPE at type006.java[26:17-26:23]",
                   "children" : [ {
-                    "keyText" : "RAW_TYPE_REFERENCE at type006.java[7:17-7:23]",
+                    "keyText" : "RAW_TYPE_REFERENCE at type006.java[26:17-26:23]",
                     "children" : [ {
-                      "keyText" : "UNRESOLVED_ID at type006.java[7:17-7:23]",
+                      "keyText" : "UNRESOLVED_ID at type006.java[26:17-26:23]",
                       "specText" : "Object"
                     } ]
                   } ]
                 }, {
-                  "keyText" : "ARRAY_DIMS at type006.java[7:33-7:35]",
+                  "keyText" : "ARRAY_DIMS at type006.java[26:33-26:35]",
                   "children" : [ {
-                    "keyText" : "ARRAY_DIM at type006.java[7:33-7:35]",
+                    "keyText" : "ARRAY_DIM at type006.java[26:33-26:35]",
                     "children" : [ {
-                      "keyText" : "RAW_ANNOTATION at type006.java[7:24-7:32]",
+                      "keyText" : "RAW_ANNOTATION at type006.java[26:24-26:32]",
                       "children" : [ {
-                        "keyText" : "RAW_TYPE at type006.java[7:25-7:32]",
+                        "keyText" : "RAW_TYPE at type006.java[26:25-26:32]",
                         "children" : [ {
-                          "keyText" : "RAW_TYPE_REFERENCE at type006.java[7:25-7:32]",
+                          "keyText" : "RAW_TYPE_REFERENCE at type006.java[26:25-26:32]",
                           "children" : [ {
-                            "keyText" : "UNRESOLVED_ID at type006.java[7:25-7:32]",
+                            "keyText" : "UNRESOLVED_ID at type006.java[26:25-26:32]",
                             "specText" : "NotNull"
                           } ]
                         } ]
@@ -88,11 +88,11 @@
                   } ]
                 } ]
               }, {
-                "keyText" : "RAW_DECL_VARIABLE at type006.java[7:36-7:41]",
+                "keyText" : "RAW_DECL_VARIABLE at type006.java[26:36-26:41]",
                 "children" : [ {
-                  "keyText" : "NAME at type006.java[7:36-7:41]",
+                  "keyText" : "NAME at type006.java[26:36-26:41]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at type006.java[7:36-7:41]",
+                    "keyText" : "UNRESOLVED_ID at type006.java[26:36-26:41]",
                     "specText" : "value"
                   } ]
                 } ]

@@ -1,33 +1,33 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at enum002.java[1:0-7:1]",
+    "keyText" : "RAW_DECL_PACKAGE at enum002.java[20:0-26:1]",
     "children" : [ {
-      "keyText" : "NAME at enum002.java[1:8-1:15]",
+      "keyText" : "NAME at enum002.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at enum002.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at enum002.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_ENUM at enum002.java[4:0-7:1]",
+      "keyText" : "RAW_DECL_ENUM at enum002.java[23:0-26:1]",
       "children" : [ {
-        "keyText" : "NAME at enum002.java[4:5-4:12]",
+        "keyText" : "NAME at enum002.java[23:5-23:12]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at enum002.java[4:5-4:12]",
+          "keyText" : "UNRESOLVED_ID at enum002.java[23:5-23:12]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at enum002.java[4:13-7:1]",
+        "keyText" : "MEMBERS at enum002.java[23:13-26:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_ENUM_MEMBER at enum002.java[5:4-5:11]",
+          "keyText" : "RAW_DECL_ENUM_MEMBER at enum002.java[24:4-24:11]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at enum002.java[5:4-5:11]",
+            "keyText" : "UNRESOLVED_ID at enum002.java[24:4-24:11]",
             "specText" : "EXAMPLE"
           } ]
         }, {
-          "keyText" : "RAW_DECL_ENUM_MEMBER at enum002.java[6:4-6:12]",
+          "keyText" : "RAW_DECL_ENUM_MEMBER at enum002.java[25:4-25:12]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at enum002.java[6:4-6:12]",
+            "keyText" : "UNRESOLVED_ID at enum002.java[25:4-25:12]",
             "specText" : "EXAMPLE1"
           } ]
         } ]

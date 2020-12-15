@@ -1,109 +1,109 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at type008.java[1:0-12:1]",
+    "keyText" : "RAW_DECL_PACKAGE at type008.java[20:0-31:1]",
     "children" : [ {
-      "keyText" : "NAME at type008.java[1:8-1:15]",
+      "keyText" : "NAME at type008.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at type008.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at type008.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_IMPORT at type008.java[3:0-3:41]",
+      "keyText" : "RAW_IMPORT at type008.java[22:0-22:41]",
       "children" : [ {
-        "keyText" : "NAME at type008.java[3:7-3:40]",
+        "keyText" : "NAME at type008.java[22:7-22:40]",
         "children" : [ {
-          "keyText" : "CHAIN at type008.java[3:7-3:40]",
+          "keyText" : "CHAIN at type008.java[22:7-22:40]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at type008.java[3:7-3:10]",
+            "keyText" : "UNRESOLVED_ID at type008.java[22:7-22:10]",
             "specText" : "org"
           }, {
-            "keyText" : "UNRESOLVED_ID at type008.java[3:11-3:20]",
+            "keyText" : "UNRESOLVED_ID at type008.java[22:11-22:20]",
             "specText" : "jetbrains"
           }, {
-            "keyText" : "UNRESOLVED_ID at type008.java[3:21-3:32]",
+            "keyText" : "UNRESOLVED_ID at type008.java[22:21-22:32]",
             "specText" : "annotations"
           }, {
-            "keyText" : "UNRESOLVED_ID at type008.java[3:33-3:40]",
+            "keyText" : "UNRESOLVED_ID at type008.java[22:33-22:40]",
             "specText" : "NotNull"
           } ]
         } ]
       } ]
     }, {
-      "keyText" : "RAW_IMPORT at type008.java[5:0-5:21]",
+      "keyText" : "RAW_IMPORT at type008.java[24:0-24:21]",
       "children" : [ {
-        "keyText" : "NAME at type008.java[5:7-5:20]",
+        "keyText" : "NAME at type008.java[24:7-24:20]",
         "children" : [ {
-          "keyText" : "CHAIN at type008.java[5:7-5:20]",
+          "keyText" : "CHAIN at type008.java[24:7-24:20]",
           "children" : [ {
-            "keyText" : "UNRESOLVED_ID at type008.java[5:7-5:11]",
+            "keyText" : "UNRESOLVED_ID at type008.java[24:7-24:11]",
             "specText" : "java"
           }, {
-            "keyText" : "UNRESOLVED_ID at type008.java[5:12-5:16]",
+            "keyText" : "UNRESOLVED_ID at type008.java[24:12-24:16]",
             "specText" : "util"
           }, {
-            "keyText" : "UNRESOLVED_ID at type008.java[5:17-5:20]",
+            "keyText" : "UNRESOLVED_ID at type008.java[24:17-24:20]",
             "specText" : "Map"
           } ]
         } ]
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at type008.java[7:0-12:1]",
+      "keyText" : "RAW_DECL_CLASS at type008.java[26:0-31:1]",
       "children" : [ {
-        "keyText" : "NAME at type008.java[7:6-7:13]",
+        "keyText" : "NAME at type008.java[26:6-26:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at type008.java[7:6-7:13]",
+          "keyText" : "UNRESOLVED_ID at type008.java[26:6-26:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at type008.java[7:14-12:1]",
+        "keyText" : "MEMBERS at type008.java[26:14-31:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at type008.java[8:4-10:5]",
+          "keyText" : "INITIALIZER at type008.java[27:4-29:5]",
           "children" : [ {
-            "keyText" : "BLOCK at type008.java[8:4-10:5]",
+            "keyText" : "BLOCK at type008.java[27:4-29:5]",
             "children" : [ {
-              "keyText" : "RAW_DECL_LOCAL at type008.java[9:8-9:42]",
+              "keyText" : "RAW_DECL_LOCAL at type008.java[28:8-28:42]",
               "children" : [ {
-                "keyText" : "RAW_ANNOTATION at type008.java[9:8-9:16]",
+                "keyText" : "RAW_ANNOTATION at type008.java[28:8-28:16]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE at type008.java[9:9-9:16]",
+                  "keyText" : "RAW_TYPE at type008.java[28:9-28:16]",
                   "children" : [ {
-                    "keyText" : "RAW_TYPE_REFERENCE at type008.java[9:9-9:16]",
+                    "keyText" : "RAW_TYPE_REFERENCE at type008.java[28:9-28:16]",
                     "children" : [ {
-                      "keyText" : "UNRESOLVED_ID at type008.java[9:9-9:16]",
+                      "keyText" : "UNRESOLVED_ID at type008.java[28:9-28:16]",
                       "specText" : "NotNull"
                     } ]
                   } ]
                 } ]
               }, {
-                "keyText" : "RAW_TYPE at type008.java[9:17-9:36]",
+                "keyText" : "RAW_TYPE at type008.java[28:17-28:36]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE_REFERENCE at type008.java[9:17-9:36]",
+                  "keyText" : "RAW_TYPE_REFERENCE at type008.java[28:17-28:36]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at type008.java[9:17-9:20]",
+                    "keyText" : "UNRESOLVED_ID at type008.java[28:17-28:20]",
                     "specText" : "Map"
                   }, {
-                    "keyText" : "TYPE_ARGUMENTS at type008.java[9:20-9:36]",
+                    "keyText" : "TYPE_ARGUMENTS at type008.java[28:20-28:36]",
                     "children" : [ {
-                      "keyText" : "RAW_TYPE at type008.java[9:21-9:27]",
+                      "keyText" : "RAW_TYPE at type008.java[28:21-28:27]",
                       "children" : [ {
-                        "keyText" : "RAW_TYPE at type008.java[9:21-9:27]",
+                        "keyText" : "RAW_TYPE at type008.java[28:21-28:27]",
                         "children" : [ {
-                          "keyText" : "RAW_TYPE_REFERENCE at type008.java[9:21-9:27]",
+                          "keyText" : "RAW_TYPE_REFERENCE at type008.java[28:21-28:27]",
                           "children" : [ {
-                            "keyText" : "UNRESOLVED_ID at type008.java[9:21-9:27]",
+                            "keyText" : "UNRESOLVED_ID at type008.java[28:21-28:27]",
                             "specText" : "String"
                           } ]
                         } ]
                       } ]
                     }, {
-                      "keyText" : "RAW_TYPE at type008.java[9:29-9:35]",
+                      "keyText" : "RAW_TYPE at type008.java[28:29-28:35]",
                       "children" : [ {
-                        "keyText" : "RAW_TYPE at type008.java[9:29-9:35]",
+                        "keyText" : "RAW_TYPE at type008.java[28:29-28:35]",
                         "children" : [ {
-                          "keyText" : "RAW_TYPE_REFERENCE at type008.java[9:29-9:35]",
+                          "keyText" : "RAW_TYPE_REFERENCE at type008.java[28:29-28:35]",
                           "children" : [ {
-                            "keyText" : "UNRESOLVED_ID at type008.java[9:29-9:35]",
+                            "keyText" : "UNRESOLVED_ID at type008.java[28:29-28:35]",
                             "specText" : "String"
                           } ]
                         } ]
@@ -112,11 +112,11 @@
                   } ]
                 } ]
               }, {
-                "keyText" : "RAW_DECL_VARIABLE at type008.java[9:37-9:42]",
+                "keyText" : "RAW_DECL_VARIABLE at type008.java[28:37-28:42]",
                 "children" : [ {
-                  "keyText" : "NAME at type008.java[9:37-9:42]",
+                  "keyText" : "NAME at type008.java[28:37-28:42]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at type008.java[9:37-9:42]",
+                    "keyText" : "UNRESOLVED_ID at type008.java[28:37-28:42]",
                     "specText" : "value"
                   } ]
                 } ]

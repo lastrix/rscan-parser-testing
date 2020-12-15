@@ -1,70 +1,70 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at literal010.java[1:0-5:1]",
+    "keyText" : "RAW_DECL_PACKAGE at literal010.java[20:0-24:1]",
     "children" : [ {
-      "keyText" : "NAME at literal010.java[1:8-1:15]",
+      "keyText" : "NAME at literal010.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at literal010.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at literal010.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at literal010.java[3:0-5:1]",
+      "keyText" : "RAW_DECL_CLASS at literal010.java[22:0-24:1]",
       "children" : [ {
-        "keyText" : "NAME at literal010.java[3:6-3:13]",
+        "keyText" : "NAME at literal010.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at literal010.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at literal010.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at literal010.java[3:14-5:1]",
+        "keyText" : "MEMBERS at literal010.java[22:14-24:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_FIELD at literal010.java[4:4-4:33]",
+          "keyText" : "RAW_DECL_FIELD at literal010.java[23:4-23:33]",
           "children" : [ {
-            "keyText" : "RAW_TYPE at literal010.java[4:4-4:12]",
+            "keyText" : "RAW_TYPE at literal010.java[23:4-23:12]",
             "children" : [ {
-              "keyText" : "RAW_TYPE_REFERENCE at literal010.java[4:4-4:12]",
+              "keyText" : "RAW_TYPE_REFERENCE at literal010.java[23:4-23:12]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at literal010.java[4:4-4:9]",
+                "keyText" : "UNRESOLVED_ID at literal010.java[23:4-23:9]",
                 "specText" : "Class"
               }, {
-                "keyText" : "TYPE_ARGUMENTS at literal010.java[4:9-4:12]",
+                "keyText" : "TYPE_ARGUMENTS at literal010.java[23:9-23:12]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE at literal010.java[4:10-4:11]",
+                  "keyText" : "RAW_TYPE at literal010.java[23:10-23:11]",
                   "children" : [ {
-                    "keyText" : "TYPE_WILDCARD at literal010.java[4:10-4:11]"
+                    "keyText" : "TYPE_WILDCARD at literal010.java[23:10-23:11]"
                   } ]
                 } ]
               } ]
             } ]
           }, {
-            "keyText" : "RAW_DECL_VARIABLE at literal010.java[4:13-4:33]",
+            "keyText" : "RAW_DECL_VARIABLE at literal010.java[23:13-23:33]",
             "children" : [ {
-              "keyText" : "NAME at literal010.java[4:13-4:18]",
+              "keyText" : "NAME at literal010.java[23:13-23:18]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at literal010.java[4:13-4:18]",
+                "keyText" : "UNRESOLVED_ID at literal010.java[23:13-23:18]",
                 "specText" : "value"
               } ]
             }, {
-              "keyText" : "INIT at literal010.java[4:21-4:33]",
+              "keyText" : "INIT at literal010.java[23:21-23:33]",
               "children" : [ {
-                "keyText" : "RAW_CLASS_REFERENCE at literal010.java[4:21-4:33]",
+                "keyText" : "RAW_CLASS_REFERENCE at literal010.java[23:21-23:33]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE at literal010.java[4:21-4:25]",
+                  "keyText" : "RAW_TYPE at literal010.java[23:21-23:25]",
                   "children" : [ {
-                    "keyText" : "RAW_TYPE_REFERENCE at literal010.java[4:21-4:25]",
+                    "keyText" : "RAW_TYPE_REFERENCE at literal010.java[23:21-23:25]",
                     "children" : [ {
-                      "keyText" : "UNRESOLVED_ID at literal010.java[4:21-4:25]",
+                      "keyText" : "UNRESOLVED_ID at literal010.java[23:21-23:25]",
                       "specText" : "Long"
                     } ]
                   } ]
                 }, {
-                  "keyText" : "ARRAY_DIMS at literal010.java[4:25-4:27]",
+                  "keyText" : "ARRAY_DIMS at literal010.java[23:25-23:27]",
                   "children" : [ {
-                    "keyText" : "ARRAY_DIM at literal010.java[4:25-4:27]"
+                    "keyText" : "ARRAY_DIM at literal010.java[23:25-23:27]"
                   } ]
                 }, {
-                  "keyText" : "UNRESOLVED_ID at literal010.java[4:28-4:33]",
+                  "keyText" : "UNRESOLVED_ID at literal010.java[23:28-23:33]",
                   "specText" : "class"
                 } ]
               } ]

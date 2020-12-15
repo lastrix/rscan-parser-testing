@@ -1,41 +1,41 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at primitive006.java[1:0-8:1]",
+    "keyText" : "RAW_DECL_PACKAGE at primitive006.java[20:0-27:1]",
     "children" : [ {
-      "keyText" : "NAME at primitive006.java[1:8-1:15]",
+      "keyText" : "NAME at primitive006.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at primitive006.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at primitive006.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at primitive006.java[3:0-8:1]",
+      "keyText" : "RAW_DECL_CLASS at primitive006.java[22:0-27:1]",
       "children" : [ {
-        "keyText" : "NAME at primitive006.java[3:6-3:13]",
+        "keyText" : "NAME at primitive006.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at primitive006.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at primitive006.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at primitive006.java[3:14-8:1]",
+        "keyText" : "MEMBERS at primitive006.java[22:14-27:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at primitive006.java[4:4-6:5]",
+          "keyText" : "INITIALIZER at primitive006.java[23:4-25:5]",
           "children" : [ {
-            "keyText" : "BLOCK at primitive006.java[4:4-6:5]",
+            "keyText" : "BLOCK at primitive006.java[23:4-25:5]",
             "children" : [ {
-              "keyText" : "RAW_DECL_LOCAL at primitive006.java[5:8-5:15]",
+              "keyText" : "RAW_DECL_LOCAL at primitive006.java[24:8-24:15]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at primitive006.java[5:8-5:13]",
+                "keyText" : "RAW_TYPE at primitive006.java[24:8-24:13]",
                 "children" : [ {
-                  "keyText" : "UNRESOLVED_ID at primitive006.java[5:8-5:13]",
+                  "keyText" : "UNRESOLVED_ID at primitive006.java[24:8-24:13]",
                   "specText" : "float"
                 } ]
               }, {
-                "keyText" : "RAW_DECL_VARIABLE at primitive006.java[5:14-5:15]",
+                "keyText" : "RAW_DECL_VARIABLE at primitive006.java[24:14-24:15]",
                 "children" : [ {
-                  "keyText" : "NAME at primitive006.java[5:14-5:15]",
+                  "keyText" : "NAME at primitive006.java[24:14-24:15]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at primitive006.java[5:14-5:15]",
+                    "keyText" : "UNRESOLVED_ID at primitive006.java[24:14-24:15]",
                     "specText" : "a"
                   } ]
                 } ]

@@ -1,161 +1,165 @@
 {
   "tokens" : [ {
+    "tokenType" : "COMMENT",
+    "statement" : "1:0[795]",
+    "channel" : "1"
+  }, {
     "tokenType" : "PACKAGE",
-    "statement" : "1:0[7]"
+    "statement" : "20:0[7]"
   }, {
     "tokenType" : "Identifier",
-    "statement" : "1:8[7]",
+    "statement" : "20:8[7]",
     "text" : "example"
   }, {
     "tokenType" : "SEMI",
-    "statement" : "1:15[1]"
+    "statement" : "20:15[1]"
   }, {
     "tokenType" : "ENUM",
-    "statement" : "4:0[4]"
+    "statement" : "23:0[4]"
   }, {
     "tokenType" : "Identifier",
-    "statement" : "4:5[7]",
+    "statement" : "23:5[7]",
     "text" : "Example"
   }, {
     "tokenType" : "FoldBlock",
-    "statement" : "4:13[197]",
+    "statement" : "23:13[197]",
     "children" : {
       "tokens" : [ {
         "tokenType" : "LBRACE",
-        "statement" : "4:13[1]"
+        "statement" : "23:13[1]"
       }, {
         "tokenType" : "Identifier",
-        "statement" : "5:4[7]",
+        "statement" : "24:4[7]",
         "text" : "EXAMPLE"
       }, {
         "tokenType" : "COMMA",
-        "statement" : "5:11[1]"
+        "statement" : "24:11[1]"
       }, {
         "tokenType" : "Identifier",
-        "statement" : "6:4[8]",
+        "statement" : "25:4[8]",
         "text" : "EXAMPLE1"
       }, {
         "tokenType" : "FoldBlock",
-        "statement" : "6:12[102]",
+        "statement" : "25:12[102]",
         "children" : {
           "tokens" : [ {
             "tokenType" : "LBRACE",
-            "statement" : "6:12[1]"
+            "statement" : "25:12[1]"
           }, {
             "tokenType" : "AT",
-            "statement" : "7:8[1]"
+            "statement" : "26:8[1]"
           }, {
             "tokenType" : "Identifier",
-            "statement" : "7:9[8]",
+            "statement" : "26:9[8]",
             "text" : "Override"
           }, {
             "tokenType" : "PUBLIC",
-            "statement" : "8:8[6]"
+            "statement" : "27:8[6]"
           }, {
             "tokenType" : "Identifier",
-            "statement" : "8:15[6]",
+            "statement" : "27:15[6]",
             "text" : "String"
           }, {
             "tokenType" : "Identifier",
-            "statement" : "8:22[7]",
+            "statement" : "27:22[7]",
             "text" : "getName"
           }, {
             "tokenType" : "LPAREN",
-            "statement" : "8:29[1]"
+            "statement" : "27:29[1]"
           }, {
             "tokenType" : "RPAREN",
-            "statement" : "8:30[1]"
+            "statement" : "27:30[1]"
           }, {
             "tokenType" : "FoldBlock",
-            "statement" : "8:32[44]",
+            "statement" : "27:32[44]",
             "children" : {
               "tokens" : [ {
                 "tokenType" : "LBRACE",
-                "statement" : "8:32[1]"
+                "statement" : "27:32[1]"
               }, {
                 "tokenType" : "RETURN",
-                "statement" : "9:12[6]"
+                "statement" : "28:12[6]"
               }, {
                 "tokenType" : "StringLiteral",
-                "statement" : "9:19[12]",
+                "statement" : "28:19[12]",
                 "text" : "\"Overridden\""
               }, {
                 "tokenType" : "SEMI",
-                "statement" : "9:31[1]"
+                "statement" : "28:31[1]"
               }, {
                 "tokenType" : "RBRACE",
-                "statement" : "10:8[1]"
+                "statement" : "29:8[1]"
               }, {
                 "tokenType" : "EOF",
-                "statement" : "10:9[3]"
+                "statement" : "29:9[3]"
               } ]
             }
           }, {
             "tokenType" : "RBRACE",
-            "statement" : "11:4[1]"
+            "statement" : "30:4[1]"
           }, {
             "tokenType" : "EOF",
-            "statement" : "11:5[3]"
+            "statement" : "30:5[3]"
           } ]
         }
       }, {
         "tokenType" : "COMMA",
-        "statement" : "11:5[1]"
+        "statement" : "30:5[1]"
       }, {
         "tokenType" : "SEMI",
-        "statement" : "12:4[1]"
+        "statement" : "31:4[1]"
       }, {
         "tokenType" : "PUBLIC",
-        "statement" : "13:4[6]"
+        "statement" : "32:4[6]"
       }, {
         "tokenType" : "Identifier",
-        "statement" : "13:11[6]",
+        "statement" : "32:11[6]",
         "text" : "String"
       }, {
         "tokenType" : "Identifier",
-        "statement" : "13:18[7]",
+        "statement" : "32:18[7]",
         "text" : "getName"
       }, {
         "tokenType" : "LPAREN",
-        "statement" : "13:25[1]"
+        "statement" : "32:25[1]"
       }, {
         "tokenType" : "RPAREN",
-        "statement" : "13:26[1]"
+        "statement" : "32:26[1]"
       }, {
         "tokenType" : "FoldBlock",
-        "statement" : "13:28[30]",
+        "statement" : "32:28[30]",
         "children" : {
           "tokens" : [ {
             "tokenType" : "LBRACE",
-            "statement" : "13:28[1]"
+            "statement" : "32:28[1]"
           }, {
             "tokenType" : "RETURN",
-            "statement" : "14:8[6]"
+            "statement" : "33:8[6]"
           }, {
             "tokenType" : "StringLiteral",
-            "statement" : "14:15[6]",
+            "statement" : "33:15[6]",
             "text" : "\"Base\""
           }, {
             "tokenType" : "SEMI",
-            "statement" : "14:21[1]"
+            "statement" : "33:21[1]"
           }, {
             "tokenType" : "RBRACE",
-            "statement" : "15:4[1]"
+            "statement" : "34:4[1]"
           }, {
             "tokenType" : "EOF",
-            "statement" : "15:5[3]"
+            "statement" : "34:5[3]"
           } ]
         }
       }, {
         "tokenType" : "RBRACE",
-        "statement" : "16:0[1]"
+        "statement" : "35:0[1]"
       }, {
         "tokenType" : "EOF",
-        "statement" : "16:1[3]"
+        "statement" : "35:1[3]"
       } ]
     }
   }, {
     "tokenType" : "EOF",
-    "statement" : "17:0[5]"
+    "statement" : "36:0[5]"
   } ]
 }

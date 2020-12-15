@@ -1,56 +1,56 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at class013.java[1:0-8:1]",
+    "keyText" : "RAW_DECL_PACKAGE at class013.java[20:0-27:1]",
     "children" : [ {
-      "keyText" : "NAME at class013.java[1:8-1:15]",
+      "keyText" : "NAME at class013.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at class013.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at class013.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at class013.java[3:0-8:1]",
+      "keyText" : "RAW_DECL_CLASS at class013.java[22:0-27:1]",
       "children" : [ {
-        "keyText" : "NAME at class013.java[3:6-3:13]",
+        "keyText" : "NAME at class013.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at class013.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at class013.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at class013.java[3:14-8:1]",
+        "keyText" : "MEMBERS at class013.java[22:14-27:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_FIELD at class013.java[4:4-4:23]",
+          "keyText" : "RAW_DECL_FIELD at class013.java[23:4-23:23]",
           "children" : [ {
-            "keyText" : "MODIFIER at class013.java[4:4-4:10]",
+            "keyText" : "MODIFIER at class013.java[23:4-23:10]",
             "specText" : "static"
           }, {
-            "keyText" : "RAW_TYPE at class013.java[4:11-4:18]",
+            "keyText" : "RAW_TYPE at class013.java[23:11-23:18]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at class013.java[4:11-4:18]",
+              "keyText" : "UNRESOLVED_ID at class013.java[23:11-23:18]",
               "specText" : "boolean"
             } ]
           }, {
-            "keyText" : "RAW_DECL_VARIABLE at class013.java[4:19-4:23]",
+            "keyText" : "RAW_DECL_VARIABLE at class013.java[23:19-23:23]",
             "children" : [ {
-              "keyText" : "NAME at class013.java[4:19-4:23]",
+              "keyText" : "NAME at class013.java[23:19-23:23]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at class013.java[4:19-4:23]",
+                "keyText" : "UNRESOLVED_ID at class013.java[23:19-23:23]",
                 "specText" : "flag"
               } ]
             } ]
           } ]
         }, {
-          "keyText" : "STATIC_INITIALIZER at class013.java[5:11-7:5]",
+          "keyText" : "STATIC_INITIALIZER at class013.java[24:11-26:5]",
           "children" : [ {
-            "keyText" : "BLOCK at class013.java[5:11-7:5]",
+            "keyText" : "BLOCK at class013.java[24:11-26:5]",
             "children" : [ {
-              "keyText" : "ASSIGN at class013.java[6:8-6:19]",
+              "keyText" : "ASSIGN at class013.java[25:8-25:19]",
               "specText" : "",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at class013.java[6:8-6:12]",
+                "keyText" : "UNRESOLVED_ID at class013.java[25:8-25:12]",
                 "specText" : "flag"
               }, {
-                "keyText" : "LITERAL at class013.java[6:15-6:19]",
+                "keyText" : "LITERAL at class013.java[25:15-25:19]",
                 "specText" : "BOOLEAN true"
               } ]
             } ]

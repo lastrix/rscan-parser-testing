@@ -1,43 +1,43 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at literal002.java[1:0-5:1]",
+    "keyText" : "RAW_DECL_PACKAGE at literal002.java[20:0-24:1]",
     "children" : [ {
-      "keyText" : "NAME at literal002.java[1:8-1:15]",
+      "keyText" : "NAME at literal002.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at literal002.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at literal002.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at literal002.java[3:0-5:1]",
+      "keyText" : "RAW_DECL_CLASS at literal002.java[22:0-24:1]",
       "children" : [ {
-        "keyText" : "NAME at literal002.java[3:6-3:13]",
+        "keyText" : "NAME at literal002.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at literal002.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at literal002.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at literal002.java[3:14-5:1]",
+        "keyText" : "MEMBERS at literal002.java[22:14-24:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_FIELD at literal002.java[4:4-4:24]",
+          "keyText" : "RAW_DECL_FIELD at literal002.java[23:4-23:24]",
           "children" : [ {
-            "keyText" : "RAW_TYPE at literal002.java[4:4-4:11]",
+            "keyText" : "RAW_TYPE at literal002.java[23:4-23:11]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at literal002.java[4:4-4:11]",
+              "keyText" : "UNRESOLVED_ID at literal002.java[23:4-23:11]",
               "specText" : "boolean"
             } ]
           }, {
-            "keyText" : "RAW_DECL_VARIABLE at literal002.java[4:12-4:24]",
+            "keyText" : "RAW_DECL_VARIABLE at literal002.java[23:12-23:24]",
             "children" : [ {
-              "keyText" : "NAME at literal002.java[4:12-4:17]",
+              "keyText" : "NAME at literal002.java[23:12-23:17]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at literal002.java[4:12-4:17]",
+                "keyText" : "UNRESOLVED_ID at literal002.java[23:12-23:17]",
                 "specText" : "value"
               } ]
             }, {
-              "keyText" : "INIT at literal002.java[4:20-4:24]",
+              "keyText" : "INIT at literal002.java[23:20-23:24]",
               "children" : [ {
-                "keyText" : "LITERAL at literal002.java[4:20-4:24]",
+                "keyText" : "LITERAL at literal002.java[23:20-23:24]",
                 "specText" : "BOOLEAN true"
               } ]
             } ]

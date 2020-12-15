@@ -1,106 +1,106 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at cast001.java[1:0-9:1]",
+    "keyText" : "RAW_DECL_PACKAGE at cast001.java[20:0-28:1]",
     "children" : [ {
-      "keyText" : "NAME at cast001.java[1:8-1:15]",
+      "keyText" : "NAME at cast001.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at cast001.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at cast001.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at cast001.java[3:0-9:1]",
+      "keyText" : "RAW_DECL_CLASS at cast001.java[22:0-28:1]",
       "children" : [ {
-        "keyText" : "NAME at cast001.java[3:6-3:13]",
+        "keyText" : "NAME at cast001.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at cast001.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at cast001.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at cast001.java[3:14-9:1]",
+        "keyText" : "MEMBERS at cast001.java[22:14-28:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at cast001.java[4:4-7:5]",
+          "keyText" : "INITIALIZER at cast001.java[23:4-26:5]",
           "children" : [ {
-            "keyText" : "BLOCK at cast001.java[4:4-7:5]",
+            "keyText" : "BLOCK at cast001.java[23:4-26:5]",
             "children" : [ {
-              "keyText" : "RAW_DECL_LOCAL at cast001.java[5:8-5:22]",
+              "keyText" : "RAW_DECL_LOCAL at cast001.java[24:8-24:22]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at cast001.java[5:8-5:14]",
+                "keyText" : "RAW_TYPE at cast001.java[24:8-24:14]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE_REFERENCE at cast001.java[5:8-5:14]",
+                  "keyText" : "RAW_TYPE_REFERENCE at cast001.java[24:8-24:14]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at cast001.java[5:8-5:14]",
+                    "keyText" : "UNRESOLVED_ID at cast001.java[24:8-24:14]",
                     "specText" : "Object"
                   } ]
                 } ]
               }, {
-                "keyText" : "RAW_DECL_VARIABLE at cast001.java[5:15-5:22]",
+                "keyText" : "RAW_DECL_VARIABLE at cast001.java[24:15-24:22]",
                 "children" : [ {
-                  "keyText" : "NAME at cast001.java[5:15-5:16]",
+                  "keyText" : "NAME at cast001.java[24:15-24:16]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at cast001.java[5:15-5:16]",
+                    "keyText" : "UNRESOLVED_ID at cast001.java[24:15-24:16]",
                     "specText" : "v"
                   } ]
                 }, {
-                  "keyText" : "INIT at cast001.java[5:19-5:22]",
+                  "keyText" : "INIT at cast001.java[24:19-24:22]",
                   "children" : [ {
-                    "keyText" : "LITERAL at cast001.java[5:19-5:22]",
+                    "keyText" : "LITERAL at cast001.java[24:19-24:22]",
                     "specText" : "INTEGER 10"
                   } ]
                 } ]
               } ]
             }, {
-              "keyText" : "RAW_DECL_LOCAL at cast001.java[6:8-6:34]",
+              "keyText" : "RAW_DECL_LOCAL at cast001.java[25:8-25:34]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at cast001.java[6:8-6:12]",
+                "keyText" : "RAW_TYPE at cast001.java[25:8-25:12]",
                 "children" : [ {
-                  "keyText" : "UNRESOLVED_ID at cast001.java[6:8-6:12]",
+                  "keyText" : "UNRESOLVED_ID at cast001.java[25:8-25:12]",
                   "specText" : "long"
                 } ]
               }, {
-                "keyText" : "RAW_DECL_VARIABLE at cast001.java[6:13-6:34]",
+                "keyText" : "RAW_DECL_VARIABLE at cast001.java[25:13-25:34]",
                 "children" : [ {
-                  "keyText" : "NAME at cast001.java[6:13-6:14]",
+                  "keyText" : "NAME at cast001.java[25:13-25:14]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at cast001.java[6:13-6:14]",
+                    "keyText" : "UNRESOLVED_ID at cast001.java[25:13-25:14]",
                     "specText" : "a"
                   } ]
                 }, {
-                  "keyText" : "INIT at cast001.java[6:17-6:34]",
+                  "keyText" : "INIT at cast001.java[25:17-25:34]",
                   "children" : [ {
-                    "keyText" : "RAW_TYPE_CAST at cast001.java[6:17-6:34]",
+                    "keyText" : "RAW_TYPE_CAST at cast001.java[25:17-25:34]",
                     "children" : [ {
-                      "keyText" : "RAW_TYPE at cast001.java[6:18-6:32]",
+                      "keyText" : "RAW_TYPE at cast001.java[25:18-25:32]",
                       "children" : [ {
-                        "keyText" : "RAW_TYPE_REFERENCE at cast001.java[6:18-6:32]",
+                        "keyText" : "RAW_TYPE_REFERENCE at cast001.java[25:18-25:32]",
                         "children" : [ {
-                          "keyText" : "RAW_ANNOTATION at cast001.java[6:18-6:27]",
+                          "keyText" : "RAW_ANNOTATION at cast001.java[25:18-25:27]",
                           "children" : [ {
-                            "keyText" : "RAW_TYPE at cast001.java[6:19-6:22]",
+                            "keyText" : "RAW_TYPE at cast001.java[25:19-25:22]",
                             "children" : [ {
-                              "keyText" : "RAW_TYPE_REFERENCE at cast001.java[6:19-6:22]",
+                              "keyText" : "RAW_TYPE_REFERENCE at cast001.java[25:19-25:22]",
                               "children" : [ {
-                                "keyText" : "UNRESOLVED_ID at cast001.java[6:19-6:22]",
+                                "keyText" : "UNRESOLVED_ID at cast001.java[25:19-25:22]",
                                 "specText" : "Min"
                               } ]
                             } ]
                           }, {
-                            "keyText" : "RAW_DECL_PARAMETER at cast001.java[6:23-6:26]",
+                            "keyText" : "RAW_DECL_PARAMETER at cast001.java[25:23-25:26]",
                             "children" : [ {
-                              "keyText" : "VALUE at cast001.java[6:23-6:26]",
+                              "keyText" : "VALUE at cast001.java[25:23-25:26]",
                               "children" : [ {
-                                "keyText" : "LITERAL at cast001.java[6:23-6:26]",
+                                "keyText" : "LITERAL at cast001.java[25:23-25:26]",
                                 "specText" : "INTEGER 10"
                               } ]
                             } ]
                           } ]
                         }, {
-                          "keyText" : "UNRESOLVED_ID at cast001.java[6:28-6:32]",
+                          "keyText" : "UNRESOLVED_ID at cast001.java[25:28-25:32]",
                           "specText" : "Long"
                         } ]
                       } ]
                     }, {
-                      "keyText" : "UNRESOLVED_ID at cast001.java[6:33-6:34]",
+                      "keyText" : "UNRESOLVED_ID at cast001.java[25:33-25:34]",
                       "specText" : "v"
                     } ]
                   } ]

@@ -1,36 +1,36 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at class005.java[1:0-5:1]",
+    "keyText" : "RAW_DECL_PACKAGE at class005.java[20:0-24:1]",
     "children" : [ {
-      "keyText" : "NAME at class005.java[1:8-1:15]",
+      "keyText" : "NAME at class005.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at class005.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at class005.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at class005.java[3:0-5:1]",
+      "keyText" : "RAW_DECL_CLASS at class005.java[22:0-24:1]",
       "children" : [ {
-        "keyText" : "NAME at class005.java[3:6-3:13]",
+        "keyText" : "NAME at class005.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at class005.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at class005.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at class005.java[3:14-5:1]",
+        "keyText" : "MEMBERS at class005.java[22:14-24:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_CLASS at class005.java[4:4-4:26]",
+          "keyText" : "RAW_DECL_CLASS at class005.java[23:4-23:26]",
           "children" : [ {
-            "keyText" : "MODIFIER at class005.java[4:4-4:10]",
+            "keyText" : "MODIFIER at class005.java[23:4-23:10]",
             "specText" : "static"
           }, {
-            "keyText" : "NAME at class005.java[4:17-4:23]",
+            "keyText" : "NAME at class005.java[23:17-23:23]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at class005.java[4:17-4:23]",
+              "keyText" : "UNRESOLVED_ID at class005.java[23:17-23:23]",
               "specText" : "Nested"
             } ]
           }, {
-            "keyText" : "MEMBERS at class005.java[4:24-4:26]"
+            "keyText" : "MEMBERS at class005.java[23:24-23:26]"
           } ]
         } ]
       } ]

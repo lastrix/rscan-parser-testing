@@ -1,44 +1,44 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at annotated009.java[1:0-5:1]",
+    "keyText" : "RAW_DECL_PACKAGE at annotated009.java[20:0-24:1]",
     "children" : [ {
-      "keyText" : "NAME at annotated009.java[1:8-1:15]",
+      "keyText" : "NAME at annotated009.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at annotated009.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at annotated009.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at annotated009.java[3:0-5:1]",
+      "keyText" : "RAW_DECL_CLASS at annotated009.java[22:0-24:1]",
       "children" : [ {
-        "keyText" : "RAW_ANNOTATION at annotated009.java[3:0-3:26]",
+        "keyText" : "RAW_ANNOTATION at annotated009.java[22:0-22:26]",
         "children" : [ {
-          "keyText" : "RAW_TYPE at annotated009.java[3:1-3:10]",
+          "keyText" : "RAW_TYPE at annotated009.java[22:1-22:10]",
           "children" : [ {
-            "keyText" : "RAW_TYPE_REFERENCE at annotated009.java[3:1-3:10]",
+            "keyText" : "RAW_TYPE_REFERENCE at annotated009.java[22:1-22:10]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at annotated009.java[3:1-3:10]",
+              "keyText" : "UNRESOLVED_ID at annotated009.java[22:1-22:10]",
               "specText" : "Annotated"
             } ]
           } ]
         }, {
-          "keyText" : "RAW_DECL_PARAMETER at annotated009.java[3:11-3:25]",
+          "keyText" : "RAW_DECL_PARAMETER at annotated009.java[22:11-22:25]",
           "children" : [ {
-            "keyText" : "NAME at annotated009.java[3:11-3:14]",
+            "keyText" : "NAME at annotated009.java[22:11-22:14]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at annotated009.java[3:11-3:14]",
+              "keyText" : "UNRESOLVED_ID at annotated009.java[22:11-22:14]",
               "specText" : "sub"
             } ]
           }, {
-            "keyText" : "VALUE at annotated009.java[3:17-3:25]",
+            "keyText" : "VALUE at annotated009.java[22:17-22:25]",
             "children" : [ {
-              "keyText" : "RAW_ANNOTATION at annotated009.java[3:17-3:25]",
+              "keyText" : "RAW_ANNOTATION at annotated009.java[22:17-22:25]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at annotated009.java[3:18-3:25]",
+                "keyText" : "RAW_TYPE at annotated009.java[22:18-22:25]",
                 "children" : [ {
-                  "keyText" : "RAW_TYPE_REFERENCE at annotated009.java[3:18-3:25]",
+                  "keyText" : "RAW_TYPE_REFERENCE at annotated009.java[22:18-22:25]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at annotated009.java[3:18-3:25]",
+                    "keyText" : "UNRESOLVED_ID at annotated009.java[22:18-22:25]",
                     "specText" : "SubAnno"
                   } ]
                 } ]
@@ -47,13 +47,13 @@
           } ]
         } ]
       }, {
-        "keyText" : "NAME at annotated009.java[4:6-4:13]",
+        "keyText" : "NAME at annotated009.java[23:6-23:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at annotated009.java[4:6-4:13]",
+          "keyText" : "UNRESOLVED_ID at annotated009.java[23:6-23:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at annotated009.java[4:14-5:1]"
+        "keyText" : "MEMBERS at annotated009.java[23:14-24:1]"
       } ]
     } ]
   } ]

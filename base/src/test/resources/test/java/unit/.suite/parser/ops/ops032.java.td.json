@@ -1,116 +1,116 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at ops032.java[1:0-11:1]",
+    "keyText" : "RAW_DECL_PACKAGE at ops032.java[20:0-30:1]",
     "children" : [ {
-      "keyText" : "NAME at ops032.java[1:8-1:15]",
+      "keyText" : "NAME at ops032.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at ops032.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at ops032.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at ops032.java[3:0-11:1]",
+      "keyText" : "RAW_DECL_CLASS at ops032.java[22:0-30:1]",
       "children" : [ {
-        "keyText" : "NAME at ops032.java[3:6-3:13]",
+        "keyText" : "NAME at ops032.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at ops032.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at ops032.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at ops032.java[3:14-11:1]",
+        "keyText" : "MEMBERS at ops032.java[22:14-30:1]",
         "children" : [ {
-          "keyText" : "INITIALIZER at ops032.java[4:4-9:5]",
+          "keyText" : "INITIALIZER at ops032.java[23:4-28:5]",
           "children" : [ {
-            "keyText" : "BLOCK at ops032.java[4:4-9:5]",
+            "keyText" : "BLOCK at ops032.java[23:4-28:5]",
             "children" : [ {
-              "keyText" : "RAW_DECL_LOCAL at ops032.java[5:8-5:17]",
+              "keyText" : "RAW_DECL_LOCAL at ops032.java[24:8-24:17]",
               "children" : [ {
-                "keyText" : "RAW_TYPE at ops032.java[5:8-5:11]",
+                "keyText" : "RAW_TYPE at ops032.java[24:8-24:11]",
                 "children" : [ {
-                  "keyText" : "UNRESOLVED_ID at ops032.java[5:8-5:11]",
+                  "keyText" : "UNRESOLVED_ID at ops032.java[24:8-24:11]",
                   "specText" : "int"
                 } ]
               }, {
-                "keyText" : "RAW_DECL_VARIABLE at ops032.java[5:12-5:17]",
+                "keyText" : "RAW_DECL_VARIABLE at ops032.java[24:12-24:17]",
                 "children" : [ {
-                  "keyText" : "NAME at ops032.java[5:12-5:13]",
+                  "keyText" : "NAME at ops032.java[24:12-24:13]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at ops032.java[5:12-5:13]",
+                    "keyText" : "UNRESOLVED_ID at ops032.java[24:12-24:13]",
                     "specText" : "i"
                   } ]
                 }, {
-                  "keyText" : "INIT at ops032.java[5:16-5:17]",
+                  "keyText" : "INIT at ops032.java[24:16-24:17]",
                   "children" : [ {
-                    "keyText" : "LITERAL at ops032.java[5:16-5:17]",
+                    "keyText" : "LITERAL at ops032.java[24:16-24:17]",
                     "specText" : "INTEGER 0"
                   } ]
                 } ]
               } ]
             }, {
-              "keyText" : "BLOCK_CONDITIONAL at ops032.java[6:8-8:9]",
+              "keyText" : "BLOCK_CONDITIONAL at ops032.java[25:8-27:9]",
               "specText" : "",
               "children" : [ {
-                "keyText" : "CONDITION at ops032.java[6:12-6:30]",
+                "keyText" : "CONDITION at ops032.java[25:12-25:30]",
                 "children" : [ {
-                  "keyText" : "FOR_INIT at ops032.java[6:12-6:17]",
+                  "keyText" : "FOR_INIT at ops032.java[25:12-25:17]",
                   "children" : [ {
-                    "keyText" : "LIST at ops032.java[6:12-6:17]",
+                    "keyText" : "LIST at ops032.java[25:12-25:17]",
                     "children" : [ {
-                      "keyText" : "ASSIGN at ops032.java[6:12-6:17]",
+                      "keyText" : "ASSIGN at ops032.java[25:12-25:17]",
                       "specText" : "",
                       "children" : [ {
-                        "keyText" : "UNRESOLVED_ID at ops032.java[6:12-6:13]",
+                        "keyText" : "UNRESOLVED_ID at ops032.java[25:12-25:13]",
                         "specText" : "i"
                       }, {
-                        "keyText" : "LITERAL at ops032.java[6:16-6:17]",
+                        "keyText" : "LITERAL at ops032.java[25:16-25:17]",
                         "specText" : "INTEGER 1"
                       } ]
                     } ]
                   } ]
                 }, {
-                  "keyText" : "FOR_CONDITION at ops032.java[6:19-6:25]",
+                  "keyText" : "FOR_CONDITION at ops032.java[25:19-25:25]",
                   "children" : [ {
-                    "keyText" : "BINARY at ops032.java[6:19-6:25]",
+                    "keyText" : "BINARY at ops032.java[25:19-25:25]",
                     "specText" : "LT",
                     "children" : [ {
-                      "keyText" : "UNRESOLVED_ID at ops032.java[6:19-6:20]",
+                      "keyText" : "UNRESOLVED_ID at ops032.java[25:19-25:20]",
                       "specText" : "i"
                     }, {
-                      "keyText" : "LITERAL at ops032.java[6:23-6:25]",
+                      "keyText" : "LITERAL at ops032.java[25:23-25:25]",
                       "specText" : "INTEGER 10"
                     } ]
                   } ]
                 }, {
-                  "keyText" : "FOR_UPDATE at ops032.java[6:27-6:30]",
+                  "keyText" : "FOR_UPDATE at ops032.java[25:27-25:30]",
                   "children" : [ {
-                    "keyText" : "LIST at ops032.java[6:27-6:30]",
+                    "keyText" : "LIST at ops032.java[25:27-25:30]",
                     "children" : [ {
-                      "keyText" : "UNARY at ops032.java[6:27-6:30]",
+                      "keyText" : "UNARY at ops032.java[25:27-25:30]",
                       "specText" : "INC_POSTFIX",
                       "children" : [ {
-                        "keyText" : "UNRESOLVED_ID at ops032.java[6:27-6:28]",
+                        "keyText" : "UNRESOLVED_ID at ops032.java[25:27-25:28]",
                         "specText" : "i"
                       } ]
                     } ]
                   } ]
                 } ]
               }, {
-                "keyText" : "BLOCK at ops032.java[6:31-8:9]",
+                "keyText" : "BLOCK at ops032.java[25:31-27:9]",
                 "children" : [ {
-                  "keyText" : "CHAIN at ops032.java[7:12-7:33]",
+                  "keyText" : "CHAIN at ops032.java[26:12-26:33]",
                   "children" : [ {
-                    "keyText" : "UNRESOLVED_ID at ops032.java[7:12-7:18]",
+                    "keyText" : "UNRESOLVED_ID at ops032.java[26:12-26:18]",
                     "specText" : "System"
                   }, {
-                    "keyText" : "UNRESOLVED_ID at ops032.java[7:19-7:22]",
+                    "keyText" : "UNRESOLVED_ID at ops032.java[26:19-26:22]",
                     "specText" : "out"
                   }, {
-                    "keyText" : "UNRESOLVED_ID at ops032.java[7:23-7:30]",
+                    "keyText" : "UNRESOLVED_ID at ops032.java[26:23-26:30]",
                     "specText" : "println"
                   }, {
-                    "keyText" : "RAW_CALL at ops032.java[7:30-7:33]",
+                    "keyText" : "RAW_CALL at ops032.java[26:30-26:33]",
                     "children" : [ {
-                      "keyText" : "UNRESOLVED_ID at ops032.java[7:31-7:32]",
+                      "keyText" : "UNRESOLVED_ID at ops032.java[26:31-26:32]",
                       "specText" : "i"
                     } ]
                   } ]

@@ -1,79 +1,79 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at interface000.java[1:0-9:1]",
+    "keyText" : "RAW_DECL_PACKAGE at interface000.java[20:0-28:1]",
     "children" : [ {
-      "keyText" : "NAME at interface000.java[1:8-1:15]",
+      "keyText" : "NAME at interface000.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at interface000.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at interface000.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_INTERFACE at interface000.java[3:0-9:1]",
+      "keyText" : "RAW_DECL_INTERFACE at interface000.java[22:0-28:1]",
       "children" : [ {
-        "keyText" : "NAME at interface000.java[3:10-3:17]",
+        "keyText" : "NAME at interface000.java[22:10-22:17]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at interface000.java[3:10-3:17]",
+          "keyText" : "UNRESOLVED_ID at interface000.java[22:10-22:17]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "MEMBERS at interface000.java[3:18-9:1]",
+        "keyText" : "MEMBERS at interface000.java[22:18-28:1]",
         "children" : [ {
-          "keyText" : "RAW_DECL_METHOD at interface000.java[4:4-4:16]",
+          "keyText" : "RAW_DECL_METHOD at interface000.java[23:4-23:16]",
           "children" : [ {
-            "keyText" : "TYPE at interface000.java[4:4-4:8]",
+            "keyText" : "TYPE at interface000.java[23:4-23:8]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at interface000.java[4:4-4:8]",
+              "keyText" : "UNRESOLVED_ID at interface000.java[23:4-23:8]",
               "specText" : "void"
             } ]
           }, {
-            "keyText" : "NAME at interface000.java[4:9-4:13]",
+            "keyText" : "NAME at interface000.java[23:9-23:13]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at interface000.java[4:9-4:13]",
+              "keyText" : "UNRESOLVED_ID at interface000.java[23:9-23:13]",
               "specText" : "call"
             } ]
           } ]
         }, {
-          "keyText" : "RAW_DECL_METHOD at interface000.java[6:4-6:23]",
+          "keyText" : "RAW_DECL_METHOD at interface000.java[25:4-25:23]",
           "children" : [ {
-            "keyText" : "RAW_TYPE at interface000.java[6:4-6:11]",
+            "keyText" : "RAW_TYPE at interface000.java[25:4-25:11]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at interface000.java[6:4-6:11]",
+              "keyText" : "UNRESOLVED_ID at interface000.java[25:4-25:11]",
               "specText" : "boolean"
             } ]
           }, {
-            "keyText" : "NAME at interface000.java[6:12-6:20]",
+            "keyText" : "NAME at interface000.java[25:12-25:20]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at interface000.java[6:12-6:20]",
+              "keyText" : "UNRESOLVED_ID at interface000.java[25:12-25:20]",
               "specText" : "isActive"
             } ]
           } ]
         }, {
-          "keyText" : "RAW_DECL_METHOD at interface000.java[8:4-8:33]",
+          "keyText" : "RAW_DECL_METHOD at interface000.java[27:4-27:33]",
           "children" : [ {
-            "keyText" : "RAW_TYPE at interface000.java[8:4-8:7]",
+            "keyText" : "RAW_TYPE at interface000.java[27:4-27:7]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at interface000.java[8:4-8:7]",
+              "keyText" : "UNRESOLVED_ID at interface000.java[27:4-27:7]",
               "specText" : "int"
             } ]
           }, {
-            "keyText" : "NAME at interface000.java[8:8-8:21]",
+            "keyText" : "NAME at interface000.java[27:8-27:21]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at interface000.java[8:8-8:21]",
+              "keyText" : "UNRESOLVED_ID at interface000.java[27:8-27:21]",
               "specText" : "setErrorState"
             } ]
           }, {
-            "keyText" : "RAW_DECL_PARAMETER at interface000.java[8:22-8:31]",
+            "keyText" : "RAW_DECL_PARAMETER at interface000.java[27:22-27:31]",
             "children" : [ {
-              "keyText" : "RAW_TYPE at interface000.java[8:22-8:25]",
+              "keyText" : "RAW_TYPE at interface000.java[27:22-27:25]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at interface000.java[8:22-8:25]",
+                "keyText" : "UNRESOLVED_ID at interface000.java[27:22-27:25]",
                 "specText" : "int"
               } ]
             }, {
-              "keyText" : "NAME at interface000.java[8:26-8:31]",
+              "keyText" : "NAME at interface000.java[27:26-27:31]",
               "children" : [ {
-                "keyText" : "UNRESOLVED_ID at interface000.java[8:26-8:31]",
+                "keyText" : "UNRESOLVED_ID at interface000.java[27:26-27:31]",
                 "specText" : "state"
               } ]
             } ]

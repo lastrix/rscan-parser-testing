@@ -1,47 +1,47 @@
 {
   "languageName" : "Java",
   "items" : [ {
-    "keyText" : "RAW_DECL_PACKAGE at class011.java[1:0-5:1]",
+    "keyText" : "RAW_DECL_PACKAGE at class011.java[20:0-24:1]",
     "children" : [ {
-      "keyText" : "NAME at class011.java[1:8-1:15]",
+      "keyText" : "NAME at class011.java[20:8-20:15]",
       "children" : [ {
-        "keyText" : "UNRESOLVED_ID at class011.java[1:8-1:15]",
+        "keyText" : "UNRESOLVED_ID at class011.java[20:8-20:15]",
         "specText" : "example"
       } ]
     }, {
-      "keyText" : "RAW_DECL_CLASS at class011.java[3:0-5:1]",
+      "keyText" : "RAW_DECL_CLASS at class011.java[22:0-24:1]",
       "children" : [ {
-        "keyText" : "NAME at class011.java[3:6-3:13]",
+        "keyText" : "NAME at class011.java[22:6-22:13]",
         "children" : [ {
-          "keyText" : "UNRESOLVED_ID at class011.java[3:6-3:13]",
+          "keyText" : "UNRESOLVED_ID at class011.java[22:6-22:13]",
           "specText" : "Example"
         } ]
       }, {
-        "keyText" : "EXTENDS at class011.java[3:22-3:26]",
+        "keyText" : "EXTENDS at class011.java[22:22-22:26]",
         "children" : [ {
-          "keyText" : "RAW_TYPE at class011.java[3:22-3:26]",
+          "keyText" : "RAW_TYPE at class011.java[22:22-22:26]",
           "children" : [ {
-            "keyText" : "RAW_TYPE_REFERENCE at class011.java[3:22-3:26]",
+            "keyText" : "RAW_TYPE_REFERENCE at class011.java[22:22-22:26]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at class011.java[3:22-3:26]",
+              "keyText" : "UNRESOLVED_ID at class011.java[22:22-22:26]",
               "specText" : "Base"
             } ]
           } ]
         } ]
       }, {
-        "keyText" : "IMPLEMENTS at class011.java[3:38-3:43]",
+        "keyText" : "IMPLEMENTS at class011.java[22:38-22:43]",
         "children" : [ {
-          "keyText" : "RAW_TYPE at class011.java[3:38-3:43]",
+          "keyText" : "RAW_TYPE at class011.java[22:38-22:43]",
           "children" : [ {
-            "keyText" : "RAW_TYPE_REFERENCE at class011.java[3:38-3:43]",
+            "keyText" : "RAW_TYPE_REFERENCE at class011.java[22:38-22:43]",
             "children" : [ {
-              "keyText" : "UNRESOLVED_ID at class011.java[3:38-3:43]",
+              "keyText" : "UNRESOLVED_ID at class011.java[22:38-22:43]",
               "specText" : "Other"
             } ]
           } ]
         } ]
       }, {
-        "keyText" : "MEMBERS at class011.java[3:44-5:1]"
+        "keyText" : "MEMBERS at class011.java[22:44-24:1]"
       } ]
     } ]
   } ]
