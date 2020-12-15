@@ -1,0 +1,36 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at class010.java[1:0-5:1]",
+    "children" : [ {
+      "keyText" : "NAME at class010.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at class010.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at class010.java[3:0-5:1]",
+      "children" : [ {
+        "keyText" : "NAME at class010.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at class010.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "IMPLEMENTS at class010.java[3:25-3:30]",
+        "children" : [ {
+          "keyText" : "RAW_TYPE at class010.java[3:25-3:30]",
+          "children" : [ {
+            "keyText" : "RAW_TYPE_REFERENCE at class010.java[3:25-3:30]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at class010.java[3:25-3:30]",
+              "specText" : "Other"
+            } ]
+          } ]
+        } ]
+      }, {
+        "keyText" : "MEMBERS at class010.java[3:31-5:1]"
+      } ]
+    } ]
+  } ]
+}

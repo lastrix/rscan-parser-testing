@@ -1,0 +1,52 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at annotation003.java[1:0-5:1]",
+    "children" : [ {
+      "keyText" : "NAME at annotation003.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at annotation003.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_ANNOTATION at annotation003.java[3:0-5:1]",
+      "children" : [ {
+        "keyText" : "NAME at annotation003.java[3:11-3:18]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at annotation003.java[3:11-3:18]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at annotation003.java[3:19-5:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_FIELD at annotation003.java[4:4-4:24]",
+          "children" : [ {
+            "keyText" : "MODIFIER at annotation003.java[4:4-4:10]",
+            "specText" : "static"
+          }, {
+            "keyText" : "RAW_TYPE at annotation003.java[4:11-4:14]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at annotation003.java[4:11-4:14]",
+              "specText" : "int"
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_VARIABLE at annotation003.java[4:15-4:24]",
+            "children" : [ {
+              "keyText" : "NAME at annotation003.java[4:15-4:20]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at annotation003.java[4:15-4:20]",
+                "specText" : "CONST"
+              } ]
+            }, {
+              "keyText" : "INIT at annotation003.java[4:23-4:24]",
+              "children" : [ {
+                "keyText" : "LITERAL at annotation003.java[4:23-4:24]",
+                "specText" : "INTEGER 1"
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

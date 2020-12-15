@@ -1,0 +1,146 @@
+{
+  "tokens" : [ {
+    "tokenType" : "PACKAGE",
+    "statement" : "2:0[7]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "2:8[7]",
+    "text" : "example"
+  }, {
+    "tokenType" : "SEMI",
+    "statement" : "2:15[1]"
+  }, {
+    "tokenType" : "CLASS",
+    "statement" : "4:0[5]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "4:6[7]",
+    "text" : "Example"
+  }, {
+    "tokenType" : "FoldBlock",
+    "statement" : "4:14[195]",
+    "children" : {
+      "tokens" : [ {
+        "tokenType" : "LBRACE",
+        "statement" : "4:14[1]"
+      }, {
+        "tokenType" : "FoldBlock",
+        "statement" : "5:4[186]",
+        "children" : {
+          "tokens" : [ {
+            "tokenType" : "LBRACE",
+            "statement" : "5:4[1]"
+          }, {
+            "tokenType" : "INT",
+            "statement" : "6:8[3]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "6:12[1]",
+            "text" : "a"
+          }, {
+            "tokenType" : "ASSIGN",
+            "statement" : "6:14[1]"
+          }, {
+            "tokenType" : "DecimalIntegerLiteral",
+            "statement" : "6:16[1]",
+            "text" : "1"
+          }, {
+            "tokenType" : "SEMI",
+            "statement" : "6:17[1]"
+          }, {
+            "tokenType" : "SWITCH",
+            "statement" : "7:8[6]"
+          }, {
+            "tokenType" : "LPAREN",
+            "statement" : "7:15[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "7:16[1]",
+            "text" : "a"
+          }, {
+            "tokenType" : "RPAREN",
+            "statement" : "7:17[1]"
+          }, {
+            "tokenType" : "FoldBlock",
+            "statement" : "7:19[140]",
+            "children" : {
+              "tokens" : [ {
+                "tokenType" : "LBRACE",
+                "statement" : "7:19[1]"
+              }, {
+                "tokenType" : "CASE",
+                "statement" : "8:12[4]"
+              }, {
+                "tokenType" : "DecimalIntegerLiteral",
+                "statement" : "8:17[1]",
+                "text" : "1"
+              }, {
+                "tokenType" : "COLON",
+                "statement" : "8:18[1]"
+              }, {
+                "tokenType" : "BREAK",
+                "statement" : "9:16[5]"
+              }, {
+                "tokenType" : "SEMI",
+                "statement" : "9:21[1]"
+              }, {
+                "tokenType" : "CASE",
+                "statement" : "11:12[4]"
+              }, {
+                "tokenType" : "DecimalIntegerLiteral",
+                "statement" : "11:17[1]",
+                "text" : "2"
+              }, {
+                "tokenType" : "COLON",
+                "statement" : "11:18[1]"
+              }, {
+                "tokenType" : "CASE",
+                "statement" : "12:12[4]"
+              }, {
+                "tokenType" : "DecimalIntegerLiteral",
+                "statement" : "12:17[1]",
+                "text" : "3"
+              }, {
+                "tokenType" : "COLON",
+                "statement" : "12:18[1]"
+              }, {
+                "tokenType" : "BREAK",
+                "statement" : "13:16[5]"
+              }, {
+                "tokenType" : "SEMI",
+                "statement" : "13:21[1]"
+              }, {
+                "tokenType" : "DEFAULT",
+                "statement" : "15:12[7]"
+              }, {
+                "tokenType" : "COLON",
+                "statement" : "15:19[1]"
+              }, {
+                "tokenType" : "RBRACE",
+                "statement" : "16:8[1]"
+              }, {
+                "tokenType" : "EOF",
+                "statement" : "16:9[3]"
+              } ]
+            }
+          }, {
+            "tokenType" : "RBRACE",
+            "statement" : "17:4[1]"
+          }, {
+            "tokenType" : "EOF",
+            "statement" : "17:5[3]"
+          } ]
+        }
+      }, {
+        "tokenType" : "RBRACE",
+        "statement" : "19:0[1]"
+      }, {
+        "tokenType" : "EOF",
+        "statement" : "19:1[3]"
+      } ]
+    }
+  }, {
+    "tokenType" : "EOF",
+    "statement" : "20:0[5]"
+  } ]
+}

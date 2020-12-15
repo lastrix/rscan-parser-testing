@@ -1,0 +1,27 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at class008.java[1:0-5:1]",
+    "children" : [ {
+      "keyText" : "NAME at class008.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at class008.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at class008.java[3:0-5:1]",
+      "children" : [ {
+        "keyText" : "MODIFIER at class008.java[3:0-3:8]",
+        "specText" : "strictfp"
+      }, {
+        "keyText" : "NAME at class008.java[3:15-3:22]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at class008.java[3:15-3:22]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at class008.java[3:23-5:1]"
+      } ]
+    } ]
+  } ]
+}

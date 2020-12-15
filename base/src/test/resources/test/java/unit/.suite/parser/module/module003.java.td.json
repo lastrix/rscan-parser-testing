@@ -1,0 +1,34 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_MODULE at module003.java[1:0-3:1]",
+    "children" : [ {
+      "keyText" : "NAME at module003.java[1:7-1:14]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at module003.java[1:7-1:14]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "MEMBERS at module003.java[1:15-3:1]",
+      "children" : [ {
+        "keyText" : "RAW_DIRECTIVE_USES at module003.java[2:4-2:14]",
+        "children" : [ {
+          "keyText" : "RAW_TYPE at module003.java[2:9-2:14]",
+          "children" : [ {
+            "keyText" : "RAW_TYPE_REFERENCE at module003.java[2:9-2:14]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at module003.java[2:9-2:10]",
+              "specText" : "a"
+            }, {
+              "keyText" : "UNRESOLVED_ID at module003.java[2:11-2:12]",
+              "specText" : "b"
+            }, {
+              "keyText" : "UNRESOLVED_ID at module003.java[2:13-2:14]",
+              "specText" : "c"
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

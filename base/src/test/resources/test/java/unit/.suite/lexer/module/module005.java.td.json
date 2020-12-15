@@ -1,0 +1,31 @@
+{
+  "tokens" : [ {
+    "tokenType" : "OPEN",
+    "statement" : "1:0[4]"
+  }, {
+    "tokenType" : "MODULE",
+    "statement" : "1:5[6]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "1:12[7]",
+    "text" : "example"
+  }, {
+    "tokenType" : "FoldBlock",
+    "statement" : "1:20[3]",
+    "children" : {
+      "tokens" : [ {
+        "tokenType" : "LBRACE",
+        "statement" : "1:20[1]"
+      }, {
+        "tokenType" : "RBRACE",
+        "statement" : "2:0[1]"
+      }, {
+        "tokenType" : "EOF",
+        "statement" : "2:1[3]"
+      } ]
+    }
+  }, {
+    "tokenType" : "EOF",
+    "statement" : "3:0[5]"
+  } ]
+}

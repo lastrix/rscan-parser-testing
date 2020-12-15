@@ -1,0 +1,63 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at method018.java[1:0-7:1]",
+    "children" : [ {
+      "keyText" : "NAME at method018.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at method018.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at method018.java[3:0-7:1]",
+      "children" : [ {
+        "keyText" : "NAME at method018.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at method018.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at method018.java[3:14-7:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_METHOD at method018.java[4:4-6:5]",
+          "children" : [ {
+            "keyText" : "TYPE at method018.java[4:4-4:8]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at method018.java[4:4-4:8]",
+              "specText" : "void"
+            } ]
+          }, {
+            "keyText" : "NAME at method018.java[4:9-4:12]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at method018.java[4:9-4:12]",
+              "specText" : "run"
+            } ]
+          }, {
+            "keyText" : "THROWS at method018.java[4:22-4:69]",
+            "children" : [ {
+              "keyText" : "RAW_TYPE at method018.java[4:22-4:43]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE_REFERENCE at method018.java[4:22-4:43]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at method018.java[4:22-4:43]",
+                  "specText" : "IllegalStateException"
+                } ]
+              } ]
+            }, {
+              "keyText" : "RAW_TYPE at method018.java[4:45-4:69]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE_REFERENCE at method018.java[4:45-4:69]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at method018.java[4:45-4:69]",
+                  "specText" : "IllegalArgumentException"
+                } ]
+              } ]
+            } ]
+          }, {
+            "keyText" : "BLOCK at method018.java[4:69-6:5]"
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

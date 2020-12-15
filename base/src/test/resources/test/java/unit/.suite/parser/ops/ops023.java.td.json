@@ -1,0 +1,107 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at ops023.java[1:0-9:1]",
+    "children" : [ {
+      "keyText" : "NAME at ops023.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at ops023.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at ops023.java[3:0-9:1]",
+      "children" : [ {
+        "keyText" : "NAME at ops023.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at ops023.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at ops023.java[3:14-9:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at ops023.java[4:4-7:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at ops023.java[4:4-7:5]",
+            "children" : [ {
+              "keyText" : "RAW_DECL_LOCAL at ops023.java[5:8-5:31]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE at ops023.java[5:8-5:14]",
+                "children" : [ {
+                  "keyText" : "RAW_TYPE_REFERENCE at ops023.java[5:8-5:14]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops023.java[5:8-5:14]",
+                    "specText" : "Holder"
+                  } ]
+                } ]
+              }, {
+                "keyText" : "RAW_DECL_VARIABLE at ops023.java[5:15-5:31]",
+                "children" : [ {
+                  "keyText" : "NAME at ops023.java[5:15-5:16]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops023.java[5:15-5:16]",
+                    "specText" : "h"
+                  } ]
+                }, {
+                  "keyText" : "INIT at ops023.java[5:19-5:31]",
+                  "children" : [ {
+                    "keyText" : "RAW_NEW at ops023.java[5:19-5:31]",
+                    "children" : [ {
+                      "keyText" : "RAW_TYPE_INSTANTIATION at ops023.java[5:23-5:29]",
+                      "children" : [ {
+                        "keyText" : "UNRESOLVED_ID at ops023.java[5:23-5:29]",
+                        "specText" : "Holder"
+                      } ]
+                    }, {
+                      "keyText" : "RAW_CALL at ops023.java[5:29-5:31]"
+                    } ]
+                  } ]
+                } ]
+              } ]
+            }, {
+              "keyText" : "RAW_DECL_LOCAL at ops023.java[6:8-6:41]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE at ops023.java[6:8-6:14]",
+                "children" : [ {
+                  "keyText" : "RAW_TYPE_REFERENCE at ops023.java[6:8-6:14]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops023.java[6:8-6:14]",
+                    "specText" : "Object"
+                  } ]
+                } ]
+              }, {
+                "keyText" : "RAW_DECL_VARIABLE at ops023.java[6:15-6:41]",
+                "children" : [ {
+                  "keyText" : "NAME at ops023.java[6:15-6:16]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops023.java[6:15-6:16]",
+                    "specText" : "a"
+                  } ]
+                }, {
+                  "keyText" : "INIT at ops023.java[6:19-6:41]",
+                  "children" : [ {
+                    "keyText" : "CHAIN at ops023.java[6:19-6:41]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at ops023.java[6:19-6:20]",
+                      "specText" : "h"
+                    }, {
+                      "keyText" : "RAW_NEW at ops023.java[6:21-6:41]",
+                      "children" : [ {
+                        "keyText" : "RAW_TYPE_INSTANTIATION at ops023.java[6:25-6:39]",
+                        "children" : [ {
+                          "keyText" : "UNRESOLVED_ID at ops023.java[6:25-6:39]",
+                          "specText" : "ExampleNesting"
+                        } ]
+                      }, {
+                        "keyText" : "RAW_CALL at ops023.java[6:39-6:41]"
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

@@ -1,0 +1,78 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at atom002.java[1:0-9:1]",
+    "children" : [ {
+      "keyText" : "NAME at atom002.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at atom002.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_IMPORT at atom002.java[3:0-3:29]",
+      "children" : [ {
+        "keyText" : "NAME at atom002.java[3:7-3:28]",
+        "children" : [ {
+          "keyText" : "CHAIN at atom002.java[3:7-3:28]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at atom002.java[3:7-3:11]",
+            "specText" : "java"
+          }, {
+            "keyText" : "UNRESOLVED_ID at atom002.java[3:12-3:16]",
+            "specText" : "util"
+          }, {
+            "keyText" : "UNRESOLVED_ID at atom002.java[3:17-3:28]",
+            "specText" : "Collections"
+          } ]
+        } ]
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at atom002.java[5:0-9:1]",
+      "children" : [ {
+        "keyText" : "NAME at atom002.java[5:6-5:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at atom002.java[5:6-5:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at atom002.java[5:14-9:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at atom002.java[6:4-8:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at atom002.java[6:4-8:5]",
+            "children" : [ {
+              "keyText" : "CHAIN at atom002.java[7:8-7:40]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at atom002.java[7:8-7:19]",
+                "specText" : "Collections"
+              }, {
+                "keyText" : "RAW_METHOD_ACCESS at atom002.java[7:20-7:38]",
+                "children" : [ {
+                  "keyText" : "TYPE_ARGUMENTS at atom002.java[7:20-7:29]",
+                  "children" : [ {
+                    "keyText" : "RAW_TYPE at atom002.java[7:21-7:28]",
+                    "children" : [ {
+                      "keyText" : "RAW_TYPE at atom002.java[7:21-7:28]",
+                      "children" : [ {
+                        "keyText" : "RAW_TYPE_REFERENCE at atom002.java[7:21-7:28]",
+                        "children" : [ {
+                          "keyText" : "UNRESOLVED_ID at atom002.java[7:21-7:28]",
+                          "specText" : "Boolean"
+                        } ]
+                      } ]
+                    } ]
+                  } ]
+                }, {
+                  "keyText" : "UNRESOLVED_ID at atom002.java[7:29-7:38]",
+                  "specText" : "emptyList"
+                } ]
+              }, {
+                "keyText" : "RAW_CALL at atom002.java[7:38-7:40]"
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

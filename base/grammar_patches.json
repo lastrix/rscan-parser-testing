@@ -1,0 +1,62 @@
+{
+  "lexerPatches": [
+    {
+      "regexp": "\\Qextends Lexer \\E",
+      "value": "extends Abstract##{grammarName}## "
+    },
+    {
+      "regexp": "\\Qstatic { RuntimeMetaData.checkVersion(\"\\E\\d(\\.\\d)+\\Q\", RuntimeMetaData.VERSION); }\\E",
+      "value": ""
+    },
+    {
+      "regexp": "\\Qprotected static final DFA[] _decisionToDFA;\\E\\s+\\Qprotected static final PredictionContextCache _sharedContextCache =\\E\\s+\\Qnew PredictionContextCache();\\E",
+      "value": ""
+    },
+    {
+      "regexp": "\\Q_interp = new LexerATNSimulator(this,_ATN,_decisionToDFA,_sharedContextCache);\\E",
+      "value": "_ATN = atn; _interp = new LexerATNSimulator(this,atn,decisionToDFA,new PredictionContextCache());"
+    },
+    {
+      "regexp": "\\Q/**\\E\\s+\\Q* @deprecated Use {@link #VOCABULARY} instead.\\E\\s+\\Q*/\\E\\s+\\Q@Deprecated\\E\\s+\\Qpublic static final String[] tokenNames;\\E\\s+\\Qstatic {\\E\\s+\\QtokenNames = new String[_SYMBOLIC_NAMES.length];\\E\\s+\\Qfor (int i = 0; i < tokenNames.length; i++) {\\E\\s+\\QtokenNames[i] = VOCABULARY.getLiteralName(i);\\E\\s+\\Qif (tokenNames[i] == null) {\\E\\s+\\QtokenNames[i] = VOCABULARY.getSymbolicName(i);\\E\\s+}\\s+\\Qif (tokenNames[i] == null) {\\E\\s+\\QtokenNames[i] = \"<INVALID>\";\\E\\s+}\\s+}\\s+}\\s+\\Q@Override\\E\\s+\\Q@Deprecated\\E\\s+\\Qpublic String[] getTokenNames() {\\E\\s+\\Qreturn tokenNames;\\E\\s+}",
+      "value": ""
+    },
+    {
+      "regexp": "\\Qpublic static final ATN _ATN =\\E\\s+\\Qnew ATNDeserializer().deserialize(_serializedATN.toCharArray());\\E\\s+\\Qstatic {\\E\\s+\\Q_decisionToDFA = new DFA[_ATN.getNumberOfDecisions()];\\E\\s+\\Qfor (int i = 0; i < _ATN.getNumberOfDecisions(); i++) {\\E\\s+\\Q_decisionToDFA[i] = new DFA(_ATN.getDecisionState(i), i);\\E\\s+\\Q}\\E\\s+\\Q}\\E",
+      "value": "public final ATN _ATN;"
+    },
+    {
+      "regexp": "\\QLexer(CharStream input) {\\E\\s+\\Qsuper(input);\\E",
+      "value": "Lexer(@NotNull CharStream input, @NotNull VirtualFile file, ATN atn, DFA[] decisionToDFA) {\n\t\tsuper(input, file);"
+    }
+  ],
+  "parserPatches": [
+    {
+      "regexp": "\\Qstatic { RuntimeMetaData.checkVersion(\"\\E\\d(\\.\\d)+\\Q\", RuntimeMetaData.VERSION); }\\E",
+      "value": ""
+    },
+    {
+      "regexp": "\\Qprotected static final DFA[] _decisionToDFA;\\E\\s+\\Qprotected static final PredictionContextCache _sharedContextCache =\\E\\s+\\Qnew PredictionContextCache();\\E",
+      "value": ""
+    },
+    {
+      "regexp": "\\Q extends Parser \\E",
+      "value": " extends Abstract##{grammarName}## "
+    },
+    {
+      "regexp": "\\QParser(TokenStream input) {\\E\\s+\\Qsuper(input);\\E",
+      "value": "Parser(@NotNull TokenStream input, @NotNull VirtualFile file, ATN atn, DFA[] decisionToDFA) {\n\t\tsuper(input, file);"
+    },
+    {
+      "regexp": "\\Q/**\\E\\s+\\Q* @deprecated Use {@link #VOCABULARY} instead.\\E\\s+\\Q*/\\E\\s+\\Q@Deprecated\\E\\s+\\Qpublic static final String[] tokenNames;\\E\\s+\\Qstatic {\\E\\s+\\QtokenNames = new String[_SYMBOLIC_NAMES.length];\\E\\s+\\Qfor (int i = 0; i < tokenNames.length; i++) {\\E\\s+\\QtokenNames[i] = VOCABULARY.getLiteralName(i);\\E\\s+\\Qif (tokenNames[i] == null) {\\E\\s+\\QtokenNames[i] = VOCABULARY.getSymbolicName(i);\\E\\s+}\\s+\\Qif (tokenNames[i] == null) {\\E\\s+\\QtokenNames[i] = \"<INVALID>\";\\E\\s+}\\s+}\\s+}\\s+\\Q@Override\\E\\s+\\Q@Deprecated\\E\\s+\\Qpublic String[] getTokenNames() {\\E\\s+\\Qreturn tokenNames;\\E\\s+}",
+      "value": ""
+    },
+    {
+      "regexp": "\\Q_interp = new ParserATNSimulator(this,_ATN,_decisionToDFA,_sharedContextCache);\\E",
+      "value": "_ATN = atn; _interp = new ParserATNSimulator(this,atn,decisionToDFA,new PredictionContextCache());"
+    },
+    {
+      "regexp": "\\Qpublic static final ATN _ATN =\\E\\s+\\Qnew ATNDeserializer().deserialize(_serializedATN.toCharArray());\\E\\s+\\Qstatic {\\E\\s+\\Q_decisionToDFA = new DFA[_ATN.getNumberOfDecisions()];\\E\\s+\\Qfor (int i = 0; i < _ATN.getNumberOfDecisions(); i++) {\\E\\s+\\Q_decisionToDFA[i] = new DFA(_ATN.getDecisionState(i), i);\\E\\s+\\Q}\\E\\s+\\Q}\\E",
+      "value": "public final ATN _ATN;"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "tokens" : [ {
+    "tokenType" : "PACKAGE",
+    "statement" : "2:0[7]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "2:8[7]",
+    "text" : "example"
+  }, {
+    "tokenType" : "SEMI",
+    "statement" : "2:15[1]"
+  }, {
+    "tokenType" : "CLASS",
+    "statement" : "4:0[5]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "4:6[7]",
+    "text" : "Example"
+  }, {
+    "tokenType" : "FoldBlock",
+    "statement" : "4:14[79]",
+    "children" : {
+      "tokens" : [ {
+        "tokenType" : "LBRACE",
+        "statement" : "4:14[1]"
+      }, {
+        "tokenType" : "PUBLIC",
+        "statement" : "5:4[6]"
+      }, {
+        "tokenType" : "VOID",
+        "statement" : "5:11[4]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "5:16[4]",
+        "text" : "func"
+      }, {
+        "tokenType" : "LPAREN",
+        "statement" : "5:20[1]"
+      }, {
+        "tokenType" : "RPAREN",
+        "statement" : "5:21[1]"
+      }, {
+        "tokenType" : "FoldBlock",
+        "statement" : "5:23[51]",
+        "children" : {
+          "tokens" : [ {
+            "tokenType" : "LBRACE",
+            "statement" : "5:23[1]"
+          }, {
+            "tokenType" : "INT",
+            "statement" : "6:8[3]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "6:12[1]",
+            "text" : "a"
+          }, {
+            "tokenType" : "ASSIGN",
+            "statement" : "6:14[1]"
+          }, {
+            "tokenType" : "DecimalIntegerLiteral",
+            "statement" : "6:16[1]",
+            "text" : "0"
+          }, {
+            "tokenType" : "SEMI",
+            "statement" : "6:17[1]"
+          }, {
+            "tokenType" : "INT",
+            "statement" : "7:8[3]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "7:12[1]",
+            "text" : "b"
+          }, {
+            "tokenType" : "ASSIGN",
+            "statement" : "7:14[1]"
+          }, {
+            "tokenType" : "DecimalIntegerLiteral",
+            "statement" : "7:16[1]",
+            "text" : "1"
+          }, {
+            "tokenType" : "MUL",
+            "statement" : "7:18[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "7:20[1]",
+            "text" : "a"
+          }, {
+            "tokenType" : "DEC",
+            "statement" : "7:21[2]"
+          }, {
+            "tokenType" : "SEMI",
+            "statement" : "7:23[1]"
+          }, {
+            "tokenType" : "RBRACE",
+            "statement" : "8:4[1]"
+          }, {
+            "tokenType" : "EOF",
+            "statement" : "8:5[3]"
+          } ]
+        }
+      }, {
+        "tokenType" : "RBRACE",
+        "statement" : "10:0[1]"
+      }, {
+        "tokenType" : "EOF",
+        "statement" : "10:1[3]"
+      } ]
+    }
+  }, {
+    "tokenType" : "EOF",
+    "statement" : "11:0[5]"
+  } ]
+}

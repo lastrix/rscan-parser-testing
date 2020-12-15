@@ -1,0 +1,92 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at ops069.java[2:0-9:1]",
+    "children" : [ {
+      "keyText" : "NAME at ops069.java[2:8-2:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at ops069.java[2:8-2:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at ops069.java[4:0-9:1]",
+      "children" : [ {
+        "keyText" : "NAME at ops069.java[4:6-4:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at ops069.java[4:6-4:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at ops069.java[4:14-9:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_METHOD at ops069.java[5:4-7:5]",
+          "children" : [ {
+            "keyText" : "MODIFIER at ops069.java[5:4-5:10]",
+            "specText" : "public"
+          }, {
+            "keyText" : "TYPE at ops069.java[5:11-5:15]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at ops069.java[5:11-5:15]",
+              "specText" : "void"
+            } ]
+          }, {
+            "keyText" : "NAME at ops069.java[5:16-5:20]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at ops069.java[5:16-5:20]",
+              "specText" : "func"
+            } ]
+          }, {
+            "keyText" : "BLOCK at ops069.java[5:23-7:5]",
+            "children" : [ {
+              "keyText" : "RAW_DECL_LOCAL at ops069.java[6:8-6:32]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE at ops069.java[6:8-6:16]",
+                "children" : [ {
+                  "keyText" : "RAW_TYPE_REFERENCE at ops069.java[6:8-6:16]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops069.java[6:8-6:13]",
+                    "specText" : "Class"
+                  }, {
+                    "keyText" : "TYPE_ARGUMENTS at ops069.java[6:13-6:16]",
+                    "children" : [ {
+                      "keyText" : "RAW_TYPE at ops069.java[6:14-6:15]",
+                      "children" : [ {
+                        "keyText" : "TYPE_WILDCARD at ops069.java[6:14-6:15]"
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "keyText" : "RAW_DECL_VARIABLE at ops069.java[6:17-6:32]",
+                "children" : [ {
+                  "keyText" : "NAME at ops069.java[6:17-6:18]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops069.java[6:17-6:18]",
+                    "specText" : "a"
+                  } ]
+                }, {
+                  "keyText" : "INIT at ops069.java[6:21-6:32]",
+                  "children" : [ {
+                    "keyText" : "RAW_CLASS_REFERENCE at ops069.java[6:21-6:32]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at ops069.java[6:21-6:24]",
+                      "specText" : "int"
+                    }, {
+                      "keyText" : "ARRAY_DIMS at ops069.java[6:24-6:26]",
+                      "children" : [ {
+                        "keyText" : "ARRAY_DIM at ops069.java[6:24-6:26]"
+                      } ]
+                    }, {
+                      "keyText" : "UNRESOLVED_ID at ops069.java[6:27-6:32]",
+                      "specText" : "class"
+                    } ]
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

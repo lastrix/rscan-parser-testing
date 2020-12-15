@@ -1,0 +1,152 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at enum005.java[1:0-18:1]",
+    "children" : [ {
+      "keyText" : "NAME at enum005.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at enum005.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_ENUM at enum005.java[4:0-18:1]",
+      "children" : [ {
+        "keyText" : "NAME at enum005.java[4:5-4:12]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at enum005.java[4:5-4:12]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at enum005.java[4:13-18:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_ENUM_MEMBER at enum005.java[5:4-5:16]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at enum005.java[5:4-5:11]",
+            "specText" : "EXAMPLE"
+          }, {
+            "keyText" : "ARGUMENTS at enum005.java[5:11-5:16]",
+            "children" : [ {
+              "keyText" : "LITERAL at enum005.java[5:12-5:15]",
+              "specText" : "STRING \"1\""
+            } ]
+          } ]
+        }, {
+          "keyText" : "RAW_DECL_ENUM_MEMBER at enum005.java[6:4-6:17]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at enum005.java[6:4-6:12]",
+            "specText" : "EXAMPLE1"
+          }, {
+            "keyText" : "ARGUMENTS at enum005.java[6:12-6:17]",
+            "children" : [ {
+              "keyText" : "LITERAL at enum005.java[6:13-6:16]",
+              "specText" : "STRING \"2\""
+            } ]
+          } ]
+        }, {
+          "keyText" : "RAW_DECL_FIELD at enum005.java[9:4-9:29]",
+          "children" : [ {
+            "keyText" : "MODIFIER at enum005.java[9:4-9:11]",
+            "specText" : "private"
+          }, {
+            "keyText" : "MODIFIER at enum005.java[9:12-9:17]",
+            "specText" : "final"
+          }, {
+            "keyText" : "RAW_TYPE at enum005.java[9:18-9:24]",
+            "children" : [ {
+              "keyText" : "RAW_TYPE_REFERENCE at enum005.java[9:18-9:24]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at enum005.java[9:18-9:24]",
+                "specText" : "String"
+              } ]
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_VARIABLE at enum005.java[9:25-9:29]",
+            "children" : [ {
+              "keyText" : "NAME at enum005.java[9:25-9:29]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at enum005.java[9:25-9:29]",
+                "specText" : "name"
+              } ]
+            } ]
+          } ]
+        }, {
+          "keyText" : "RAW_DECL_CONSTRUCTOR at enum005.java[11:4-13:5]",
+          "children" : [ {
+            "keyText" : "NAME at enum005.java[11:4-11:11]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at enum005.java[11:4-11:11]",
+              "specText" : "Example"
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_PARAMETER at enum005.java[11:12-11:23]",
+            "children" : [ {
+              "keyText" : "RAW_TYPE at enum005.java[11:12-11:18]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE_REFERENCE at enum005.java[11:12-11:18]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at enum005.java[11:12-11:18]",
+                  "specText" : "String"
+                } ]
+              } ]
+            }, {
+              "keyText" : "NAME at enum005.java[11:19-11:23]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at enum005.java[11:19-11:23]",
+                "specText" : "name"
+              } ]
+            } ]
+          }, {
+            "keyText" : "BLOCK at enum005.java[11:25-13:5]",
+            "children" : [ {
+              "keyText" : "ASSIGN at enum005.java[12:8-12:24]",
+              "specText" : "",
+              "children" : [ {
+                "keyText" : "CHAIN at enum005.java[12:8-12:17]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at enum005.java[12:8-12:12]",
+                  "specText" : "this"
+                }, {
+                  "keyText" : "UNRESOLVED_ID at enum005.java[12:13-12:17]",
+                  "specText" : "name"
+                } ]
+              }, {
+                "keyText" : "UNRESOLVED_ID at enum005.java[12:20-12:24]",
+                "specText" : "name"
+              } ]
+            } ]
+          } ]
+        }, {
+          "keyText" : "RAW_DECL_METHOD at enum005.java[15:4-17:5]",
+          "children" : [ {
+            "keyText" : "MODIFIER at enum005.java[15:4-15:10]",
+            "specText" : "public"
+          }, {
+            "keyText" : "RAW_TYPE at enum005.java[15:11-15:17]",
+            "children" : [ {
+              "keyText" : "RAW_TYPE_REFERENCE at enum005.java[15:11-15:17]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at enum005.java[15:11-15:17]",
+                "specText" : "String"
+              } ]
+            } ]
+          }, {
+            "keyText" : "NAME at enum005.java[15:18-15:25]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at enum005.java[15:18-15:25]",
+              "specText" : "getName"
+            } ]
+          }, {
+            "keyText" : "BLOCK at enum005.java[15:28-17:5]",
+            "children" : [ {
+              "keyText" : "RETURN at enum005.java[16:8-16:19]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at enum005.java[16:15-16:19]",
+                "specText" : "name"
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

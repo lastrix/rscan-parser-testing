@@ -1,0 +1,57 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at class012.java[1:0-5:1]",
+    "children" : [ {
+      "keyText" : "NAME at class012.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at class012.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at class012.java[3:0-5:1]",
+      "children" : [ {
+        "keyText" : "NAME at class012.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at class012.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "EXTENDS at class012.java[3:22-3:26]",
+        "children" : [ {
+          "keyText" : "RAW_TYPE at class012.java[3:22-3:26]",
+          "children" : [ {
+            "keyText" : "RAW_TYPE_REFERENCE at class012.java[3:22-3:26]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at class012.java[3:22-3:26]",
+              "specText" : "Base"
+            } ]
+          } ]
+        } ]
+      }, {
+        "keyText" : "IMPLEMENTS at class012.java[3:38-3:51]",
+        "children" : [ {
+          "keyText" : "RAW_TYPE at class012.java[3:38-3:43]",
+          "children" : [ {
+            "keyText" : "RAW_TYPE_REFERENCE at class012.java[3:38-3:43]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at class012.java[3:38-3:43]",
+              "specText" : "Other"
+            } ]
+          } ]
+        }, {
+          "keyText" : "RAW_TYPE at class012.java[3:45-3:51]",
+          "children" : [ {
+            "keyText" : "RAW_TYPE_REFERENCE at class012.java[3:45-3:51]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at class012.java[3:45-3:51]",
+              "specText" : "Other1"
+            } ]
+          } ]
+        } ]
+      }, {
+        "keyText" : "MEMBERS at class012.java[3:52-5:1]"
+      } ]
+    } ]
+  } ]
+}

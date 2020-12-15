@@ -1,0 +1,78 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at ops046.java[2:0-12:1]",
+    "children" : [ {
+      "keyText" : "NAME at ops046.java[2:8-2:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at ops046.java[2:8-2:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at ops046.java[4:0-12:1]",
+      "children" : [ {
+        "keyText" : "NAME at ops046.java[4:6-4:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at ops046.java[4:6-4:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at ops046.java[4:14-12:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at ops046.java[5:4-10:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at ops046.java[5:4-10:5]",
+            "children" : [ {
+              "keyText" : "RAW_DECL_LOCAL at ops046.java[6:8-6:31]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE at ops046.java[6:8-6:14]",
+                "children" : [ {
+                  "keyText" : "RAW_TYPE_REFERENCE at ops046.java[6:8-6:14]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops046.java[6:8-6:14]",
+                    "specText" : "Object"
+                  } ]
+                } ]
+              }, {
+                "keyText" : "RAW_DECL_VARIABLE at ops046.java[6:15-6:31]",
+                "children" : [ {
+                  "keyText" : "NAME at ops046.java[6:15-6:16]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops046.java[6:15-6:16]",
+                    "specText" : "a"
+                  } ]
+                }, {
+                  "keyText" : "INIT at ops046.java[6:19-6:31]",
+                  "children" : [ {
+                    "keyText" : "RAW_NEW at ops046.java[6:19-6:31]",
+                    "children" : [ {
+                      "keyText" : "RAW_TYPE_INSTANTIATION at ops046.java[6:23-6:29]",
+                      "children" : [ {
+                        "keyText" : "UNRESOLVED_ID at ops046.java[6:23-6:29]",
+                        "specText" : "Object"
+                      } ]
+                    }, {
+                      "keyText" : "RAW_CALL at ops046.java[6:29-6:31]"
+                    } ]
+                  } ]
+                } ]
+              } ]
+            }, {
+              "keyText" : "BLOCK_CONDITIONAL at ops046.java[7:8-9:9]",
+              "specText" : "",
+              "children" : [ {
+                "keyText" : "CONDITION at ops046.java[7:22-7:23]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at ops046.java[7:22-7:23]",
+                  "specText" : "a"
+                } ]
+              }, {
+                "keyText" : "BLOCK at ops046.java[7:25-9:9]"
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

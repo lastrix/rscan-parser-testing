@@ -1,0 +1,52 @@
+{
+  "tokens" : [ {
+    "tokenType" : "MODULE",
+    "statement" : "1:0[6]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "1:7[7]",
+    "text" : "example"
+  }, {
+    "tokenType" : "FoldBlock",
+    "statement" : "1:15[19]",
+    "children" : {
+      "tokens" : [ {
+        "tokenType" : "LBRACE",
+        "statement" : "1:15[1]"
+      }, {
+        "tokenType" : "USES",
+        "statement" : "2:4[4]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "2:9[1]",
+        "text" : "a"
+      }, {
+        "tokenType" : "DOT",
+        "statement" : "2:10[1]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "2:11[1]",
+        "text" : "b"
+      }, {
+        "tokenType" : "DOT",
+        "statement" : "2:12[1]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "2:13[1]",
+        "text" : "c"
+      }, {
+        "tokenType" : "SEMI",
+        "statement" : "2:14[1]"
+      }, {
+        "tokenType" : "RBRACE",
+        "statement" : "3:0[1]"
+      }, {
+        "tokenType" : "EOF",
+        "statement" : "3:1[3]"
+      } ]
+    }
+  }, {
+    "tokenType" : "EOF",
+    "statement" : "4:0[5]"
+  } ]
+}

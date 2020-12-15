@@ -1,0 +1,51 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at annotated006.java[1:0-5:1]",
+    "children" : [ {
+      "keyText" : "NAME at annotated006.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at annotated006.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at annotated006.java[3:0-5:1]",
+      "children" : [ {
+        "keyText" : "RAW_ANNOTATION at annotated006.java[3:0-3:24]",
+        "children" : [ {
+          "keyText" : "RAW_TYPE at annotated006.java[3:1-3:10]",
+          "children" : [ {
+            "keyText" : "RAW_TYPE_REFERENCE at annotated006.java[3:1-3:10]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at annotated006.java[3:1-3:10]",
+              "specText" : "Annotated"
+            } ]
+          } ]
+        }, {
+          "keyText" : "RAW_DECL_PARAMETER at annotated006.java[3:11-3:23]",
+          "children" : [ {
+            "keyText" : "NAME at annotated006.java[3:11-3:16]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at annotated006.java[3:11-3:16]",
+              "specText" : "value"
+            } ]
+          }, {
+            "keyText" : "VALUE at annotated006.java[3:19-3:23]",
+            "children" : [ {
+              "keyText" : "LITERAL at annotated006.java[3:19-3:23]",
+              "specText" : "BOOLEAN true"
+            } ]
+          } ]
+        } ]
+      }, {
+        "keyText" : "NAME at annotated006.java[4:6-4:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at annotated006.java[4:6-4:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at annotated006.java[4:14-5:1]"
+      } ]
+    } ]
+  } ]
+}

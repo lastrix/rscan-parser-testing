@@ -1,0 +1,121 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at type011.java[1:0-10:1]",
+    "children" : [ {
+      "keyText" : "NAME at type011.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at type011.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_IMPORT at type011.java[3:0-3:41]",
+      "children" : [ {
+        "keyText" : "NAME at type011.java[3:7-3:40]",
+        "children" : [ {
+          "keyText" : "CHAIN at type011.java[3:7-3:40]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at type011.java[3:7-3:10]",
+            "specText" : "org"
+          }, {
+            "keyText" : "UNRESOLVED_ID at type011.java[3:11-3:20]",
+            "specText" : "jetbrains"
+          }, {
+            "keyText" : "UNRESOLVED_ID at type011.java[3:21-3:32]",
+            "specText" : "annotations"
+          }, {
+            "keyText" : "UNRESOLVED_ID at type011.java[3:33-3:40]",
+            "specText" : "NotNull"
+          } ]
+        } ]
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at type011.java[5:0-10:1]",
+      "children" : [ {
+        "keyText" : "NAME at type011.java[5:6-5:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at type011.java[5:6-5:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at type011.java[5:14-10:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at type011.java[6:4-8:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at type011.java[6:4-8:5]",
+            "children" : [ {
+              "keyText" : "RAW_DECL_LOCAL at type011.java[7:8-7:53]",
+              "children" : [ {
+                "keyText" : "RAW_ANNOTATION at type011.java[7:8-7:16]",
+                "children" : [ {
+                  "keyText" : "RAW_TYPE at type011.java[7:9-7:16]",
+                  "children" : [ {
+                    "keyText" : "RAW_TYPE_REFERENCE at type011.java[7:9-7:16]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at type011.java[7:9-7:16]",
+                      "specText" : "NotNull"
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "keyText" : "RAW_TYPE at type011.java[7:17-7:47]",
+                "children" : [ {
+                  "keyText" : "RAW_TYPE at type011.java[7:17-7:23]",
+                  "children" : [ {
+                    "keyText" : "RAW_TYPE_REFERENCE at type011.java[7:17-7:23]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at type011.java[7:17-7:23]",
+                      "specText" : "Object"
+                    } ]
+                  } ]
+                }, {
+                  "keyText" : "ARRAY_DIMS at type011.java[7:33-7:47]",
+                  "children" : [ {
+                    "keyText" : "ARRAY_DIM at type011.java[7:33-7:35]",
+                    "children" : [ {
+                      "keyText" : "RAW_ANNOTATION at type011.java[7:24-7:32]",
+                      "children" : [ {
+                        "keyText" : "RAW_TYPE at type011.java[7:25-7:32]",
+                        "children" : [ {
+                          "keyText" : "RAW_TYPE_REFERENCE at type011.java[7:25-7:32]",
+                          "children" : [ {
+                            "keyText" : "UNRESOLVED_ID at type011.java[7:25-7:32]",
+                            "specText" : "NotNull"
+                          } ]
+                        } ]
+                      } ]
+                    } ]
+                  }, {
+                    "keyText" : "ARRAY_DIM at type011.java[7:45-7:47]",
+                    "children" : [ {
+                      "keyText" : "RAW_ANNOTATION at type011.java[7:36-7:44]",
+                      "children" : [ {
+                        "keyText" : "RAW_TYPE at type011.java[7:37-7:44]",
+                        "children" : [ {
+                          "keyText" : "RAW_TYPE_REFERENCE at type011.java[7:37-7:44]",
+                          "children" : [ {
+                            "keyText" : "UNRESOLVED_ID at type011.java[7:37-7:44]",
+                            "specText" : "NotNull"
+                          } ]
+                        } ]
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "keyText" : "RAW_DECL_VARIABLE at type011.java[7:48-7:53]",
+                "children" : [ {
+                  "keyText" : "NAME at type011.java[7:48-7:53]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at type011.java[7:48-7:53]",
+                    "specText" : "value"
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

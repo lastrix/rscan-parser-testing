@@ -1,0 +1,52 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at field005.java[1:0-5:1]",
+    "children" : [ {
+      "keyText" : "NAME at field005.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at field005.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at field005.java[3:0-5:1]",
+      "children" : [ {
+        "keyText" : "NAME at field005.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at field005.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at field005.java[3:14-5:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_FIELD at field005.java[4:4-4:29]",
+          "children" : [ {
+            "keyText" : "MODIFIER at field005.java[4:4-4:9]",
+            "specText" : "final"
+          }, {
+            "keyText" : "RAW_TYPE at field005.java[4:10-4:17]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at field005.java[4:10-4:17]",
+              "specText" : "boolean"
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_VARIABLE at field005.java[4:18-4:29]",
+            "children" : [ {
+              "keyText" : "NAME at field005.java[4:18-4:22]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at field005.java[4:18-4:22]",
+                "specText" : "flag"
+              } ]
+            }, {
+              "keyText" : "INIT at field005.java[4:25-4:29]",
+              "children" : [ {
+                "keyText" : "LITERAL at field005.java[4:25-4:29]",
+                "specText" : "BOOLEAN true"
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

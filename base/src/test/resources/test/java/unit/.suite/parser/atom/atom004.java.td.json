@@ -1,0 +1,151 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at atom004.java[1:0-13:1]",
+    "children" : [ {
+      "keyText" : "NAME at atom004.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at atom004.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_IMPORT at atom004.java[3:0-3:35]",
+      "children" : [ {
+        "keyText" : "NAME at atom004.java[3:7-3:34]",
+        "children" : [ {
+          "keyText" : "CHAIN at atom004.java[3:7-3:34]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at atom004.java[3:7-3:11]",
+            "specText" : "java"
+          }, {
+            "keyText" : "UNRESOLVED_ID at atom004.java[3:12-3:16]",
+            "specText" : "util"
+          }, {
+            "keyText" : "UNRESOLVED_ID at atom004.java[3:17-3:25]",
+            "specText" : "function"
+          }, {
+            "keyText" : "UNRESOLVED_ID at atom004.java[3:26-3:34]",
+            "specText" : "Supplier"
+          } ]
+        } ]
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at atom004.java[5:0-13:1]",
+      "children" : [ {
+        "keyText" : "NAME at atom004.java[5:6-5:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at atom004.java[5:6-5:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at atom004.java[5:14-13:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_METHOD at atom004.java[6:4-8:5]",
+          "children" : [ {
+            "keyText" : "MODIFIER at atom004.java[6:4-6:10]",
+            "specText" : "public"
+          }, {
+            "keyText" : "RAW_DECL_TYPE_PARAMETER at atom004.java[6:12-6:13]",
+            "children" : [ {
+              "keyText" : "NAME at atom004.java[6:12-6:13]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at atom004.java[6:12-6:13]",
+                "specText" : "T"
+              } ]
+            } ]
+          }, {
+            "keyText" : "RAW_TYPE at atom004.java[6:15-6:16]",
+            "children" : [ {
+              "keyText" : "RAW_TYPE_REFERENCE at atom004.java[6:15-6:16]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at atom004.java[6:15-6:16]",
+                "specText" : "T"
+              } ]
+            } ]
+          }, {
+            "keyText" : "NAME at atom004.java[6:17-6:26]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at atom004.java[6:17-6:26]",
+              "specText" : "getActive"
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_PARAMETER at atom004.java[6:27-6:34]",
+            "children" : [ {
+              "keyText" : "RAW_TYPE at atom004.java[6:27-6:28]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE_REFERENCE at atom004.java[6:27-6:28]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at atom004.java[6:27-6:28]",
+                  "specText" : "T"
+                } ]
+              } ]
+            }, {
+              "keyText" : "NAME at atom004.java[6:29-6:34]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at atom004.java[6:29-6:34]",
+                "specText" : "value"
+              } ]
+            } ]
+          }, {
+            "keyText" : "BLOCK at atom004.java[6:36-8:5]",
+            "children" : [ {
+              "keyText" : "RETURN at atom004.java[7:8-7:20]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at atom004.java[7:15-7:20]",
+                "specText" : "value"
+              } ]
+            } ]
+          } ]
+        }, {
+          "keyText" : "INITIALIZER at atom004.java[10:4-12:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at atom004.java[10:4-12:5]",
+            "children" : [ {
+              "keyText" : "RAW_DECL_LOCAL at atom004.java[11:8-11:49]",
+              "children" : [ {
+                "keyText" : "RAW_DECL_VARIABLE at atom004.java[11:12-11:49]",
+                "children" : [ {
+                  "keyText" : "NAME at atom004.java[11:12-11:19]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at atom004.java[11:12-11:19]",
+                    "specText" : "handler"
+                  } ]
+                }, {
+                  "keyText" : "INIT at atom004.java[11:22-11:49]",
+                  "children" : [ {
+                    "keyText" : "CHAIN at atom004.java[11:22-11:49]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at atom004.java[11:22-11:29]",
+                      "specText" : "Example"
+                    }, {
+                      "keyText" : "RAW_METHOD_REFERENCE at atom004.java[11:29-11:49]",
+                      "children" : [ {
+                        "keyText" : "TYPE_ARGUMENTS at atom004.java[11:31-11:40]",
+                        "children" : [ {
+                          "keyText" : "RAW_TYPE at atom004.java[11:32-11:39]",
+                          "children" : [ {
+                            "keyText" : "RAW_TYPE at atom004.java[11:32-11:39]",
+                            "children" : [ {
+                              "keyText" : "RAW_TYPE_REFERENCE at atom004.java[11:32-11:39]",
+                              "children" : [ {
+                                "keyText" : "UNRESOLVED_ID at atom004.java[11:32-11:39]",
+                                "specText" : "Boolean"
+                              } ]
+                            } ]
+                          } ]
+                        } ]
+                      }, {
+                        "keyText" : "UNRESOLVED_ID at atom004.java[11:40-11:49]",
+                        "specText" : "getActive"
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

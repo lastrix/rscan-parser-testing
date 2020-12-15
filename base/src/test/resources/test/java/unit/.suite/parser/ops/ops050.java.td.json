@@ -1,0 +1,79 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at ops050.java[2:0-13:1]",
+    "children" : [ {
+      "keyText" : "NAME at ops050.java[2:8-2:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at ops050.java[2:8-2:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at ops050.java[4:0-13:1]",
+      "children" : [ {
+        "keyText" : "NAME at ops050.java[4:6-4:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at ops050.java[4:6-4:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at ops050.java[4:14-13:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at ops050.java[5:4-11:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at ops050.java[5:4-11:5]",
+            "children" : [ {
+              "keyText" : "TRY at ops050.java[6:8-10:9]",
+              "children" : [ {
+                "keyText" : "BLOCK at ops050.java[6:12-8:9]",
+                "children" : [ {
+                  "keyText" : "CHAIN at ops050.java[7:12-7:40]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops050.java[7:12-7:18]",
+                    "specText" : "System"
+                  }, {
+                    "keyText" : "UNRESOLVED_ID at ops050.java[7:19-7:22]",
+                    "specText" : "out"
+                  }, {
+                    "keyText" : "UNRESOLVED_ID at ops050.java[7:23-7:30]",
+                    "specText" : "println"
+                  }, {
+                    "keyText" : "RAW_CALL at ops050.java[7:30-7:40]",
+                    "children" : [ {
+                      "keyText" : "LITERAL at ops050.java[7:31-7:39]",
+                      "specText" : "STRING \"Hello!\""
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "keyText" : "FINALLY at ops050.java[8:18-10:9]",
+                "children" : [ {
+                  "keyText" : "BLOCK at ops050.java[8:18-10:9]",
+                  "children" : [ {
+                    "keyText" : "CHAIN at ops050.java[9:12-9:40]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at ops050.java[9:12-9:18]",
+                      "specText" : "System"
+                    }, {
+                      "keyText" : "UNRESOLVED_ID at ops050.java[9:19-9:22]",
+                      "specText" : "out"
+                    }, {
+                      "keyText" : "UNRESOLVED_ID at ops050.java[9:23-9:30]",
+                      "specText" : "println"
+                    }, {
+                      "keyText" : "RAW_CALL at ops050.java[9:30-9:40]",
+                      "children" : [ {
+                        "keyText" : "LITERAL at ops050.java[9:31-9:39]",
+                        "specText" : "STRING \"World!\""
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

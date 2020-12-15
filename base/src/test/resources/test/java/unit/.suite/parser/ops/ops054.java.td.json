@@ -1,0 +1,229 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at ops054.java[2:0-20:1]",
+    "children" : [ {
+      "keyText" : "NAME at ops054.java[2:8-2:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at ops054.java[2:8-2:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_IMPORT at ops054.java[4:0-4:20]",
+      "children" : [ {
+        "keyText" : "NAME at ops054.java[4:7-4:19]",
+        "children" : [ {
+          "keyText" : "CHAIN at ops054.java[4:7-4:19]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at ops054.java[4:7-4:11]",
+            "specText" : "java"
+          }, {
+            "keyText" : "UNRESOLVED_ID at ops054.java[4:12-4:14]",
+            "specText" : "io"
+          }, {
+            "keyText" : "UNRESOLVED_ID at ops054.java[4:15-4:19]",
+            "specText" : "File"
+          } ]
+        } ]
+      } ]
+    }, {
+      "keyText" : "RAW_IMPORT at ops054.java[5:0-5:31]",
+      "children" : [ {
+        "keyText" : "NAME at ops054.java[5:7-5:30]",
+        "children" : [ {
+          "keyText" : "CHAIN at ops054.java[5:7-5:30]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at ops054.java[5:7-5:11]",
+            "specText" : "java"
+          }, {
+            "keyText" : "UNRESOLVED_ID at ops054.java[5:12-5:14]",
+            "specText" : "io"
+          }, {
+            "keyText" : "UNRESOLVED_ID at ops054.java[5:15-5:30]",
+            "specText" : "FileInputStream"
+          } ]
+        } ]
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at ops054.java[7:0-20:1]",
+      "children" : [ {
+        "keyText" : "NAME at ops054.java[7:6-7:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at ops054.java[7:6-7:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at ops054.java[7:14-20:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at ops054.java[8:4-18:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at ops054.java[8:4-18:5]",
+            "children" : [ {
+              "keyText" : "TRY_RESOURCE at ops054.java[9:8-17:9]",
+              "children" : [ {
+                "keyText" : "CONDITION at ops054.java[9:13-9:66]",
+                "children" : [ {
+                  "keyText" : "RESOURCE at ops054.java[9:13-9:66]",
+                  "children" : [ {
+                    "keyText" : "NAME at ops054.java[9:17-9:19]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at ops054.java[9:17-9:19]",
+                      "specText" : "is"
+                    } ]
+                  }, {
+                    "keyText" : "INIT at ops054.java[9:22-9:66]",
+                    "children" : [ {
+                      "keyText" : "RAW_NEW at ops054.java[9:22-9:66]",
+                      "children" : [ {
+                        "keyText" : "RAW_TYPE_INSTANTIATION at ops054.java[9:26-9:41]",
+                        "children" : [ {
+                          "keyText" : "UNRESOLVED_ID at ops054.java[9:26-9:41]",
+                          "specText" : "FileInputStream"
+                        } ]
+                      }, {
+                        "keyText" : "RAW_CALL at ops054.java[9:41-9:66]",
+                        "children" : [ {
+                          "keyText" : "RAW_NEW at ops054.java[9:42-9:65]",
+                          "children" : [ {
+                            "keyText" : "RAW_TYPE_INSTANTIATION at ops054.java[9:46-9:50]",
+                            "children" : [ {
+                              "keyText" : "UNRESOLVED_ID at ops054.java[9:46-9:50]",
+                              "specText" : "File"
+                            } ]
+                          }, {
+                            "keyText" : "RAW_CALL at ops054.java[9:50-9:65]",
+                            "children" : [ {
+                              "keyText" : "LITERAL at ops054.java[9:51-9:64]",
+                              "specText" : "STRING \"example.txt\""
+                            } ]
+                          } ]
+                        } ]
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "keyText" : "BLOCK at ops054.java[9:68-11:9]",
+                "children" : [ {
+                  "keyText" : "CHAIN at ops054.java[10:12-10:40]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops054.java[10:12-10:18]",
+                    "specText" : "System"
+                  }, {
+                    "keyText" : "UNRESOLVED_ID at ops054.java[10:19-10:22]",
+                    "specText" : "out"
+                  }, {
+                    "keyText" : "UNRESOLVED_ID at ops054.java[10:23-10:30]",
+                    "specText" : "println"
+                  }, {
+                    "keyText" : "RAW_CALL at ops054.java[10:30-10:40]",
+                    "children" : [ {
+                      "keyText" : "LITERAL at ops054.java[10:31-10:39]",
+                      "specText" : "STRING \"Hello!\""
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "keyText" : "BLOCK_CONDITIONAL at ops054.java[11:10-13:9]",
+                "specText" : "",
+                "children" : [ {
+                  "keyText" : "CONDITION at ops054.java[11:17-11:40]",
+                  "children" : [ {
+                    "keyText" : "RAW_DECL_CATCH_PARAMETER at ops054.java[11:17-11:40]",
+                    "children" : [ {
+                      "keyText" : "RAW_TYPE_REFERENCE at ops054.java[11:17-11:38]",
+                      "children" : [ {
+                        "keyText" : "UNRESOLVED_ID at ops054.java[11:17-11:38]",
+                        "specText" : "IllegalStateException"
+                      } ]
+                    }, {
+                      "keyText" : "NAME at ops054.java[11:39-11:40]",
+                      "children" : [ {
+                        "keyText" : "UNRESOLVED_ID at ops054.java[11:39-11:40]",
+                        "specText" : "e"
+                      } ]
+                    } ]
+                  } ]
+                }, {
+                  "keyText" : "BLOCK at ops054.java[11:42-13:9]",
+                  "children" : [ {
+                    "keyText" : "CHAIN at ops054.java[12:12-12:31]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at ops054.java[12:12-12:13]",
+                      "specText" : "e"
+                    }, {
+                      "keyText" : "UNRESOLVED_ID at ops054.java[12:14-12:29]",
+                      "specText" : "printStackTrace"
+                    }, {
+                      "keyText" : "RAW_CALL at ops054.java[12:29-12:31]"
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "keyText" : "BLOCK_CONDITIONAL at ops054.java[13:10-15:9]",
+                "specText" : "",
+                "children" : [ {
+                  "keyText" : "CONDITION at ops054.java[13:17-13:28]",
+                  "children" : [ {
+                    "keyText" : "RAW_DECL_CATCH_PARAMETER at ops054.java[13:17-13:28]",
+                    "children" : [ {
+                      "keyText" : "RAW_TYPE_REFERENCE at ops054.java[13:17-13:26]",
+                      "children" : [ {
+                        "keyText" : "UNRESOLVED_ID at ops054.java[13:17-13:26]",
+                        "specText" : "Exception"
+                      } ]
+                    }, {
+                      "keyText" : "NAME at ops054.java[13:27-13:28]",
+                      "children" : [ {
+                        "keyText" : "UNRESOLVED_ID at ops054.java[13:27-13:28]",
+                        "specText" : "e"
+                      } ]
+                    } ]
+                  } ]
+                }, {
+                  "keyText" : "BLOCK at ops054.java[13:30-15:9]",
+                  "children" : [ {
+                    "keyText" : "CHAIN at ops054.java[14:12-14:31]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at ops054.java[14:12-14:13]",
+                      "specText" : "e"
+                    }, {
+                      "keyText" : "UNRESOLVED_ID at ops054.java[14:14-14:29]",
+                      "specText" : "printStackTrace"
+                    }, {
+                      "keyText" : "RAW_CALL at ops054.java[14:29-14:31]"
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "keyText" : "FINALLY at ops054.java[15:18-17:9]",
+                "children" : [ {
+                  "keyText" : "BLOCK at ops054.java[15:18-17:9]",
+                  "children" : [ {
+                    "keyText" : "CHAIN at ops054.java[16:12-16:40]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at ops054.java[16:12-16:18]",
+                      "specText" : "System"
+                    }, {
+                      "keyText" : "UNRESOLVED_ID at ops054.java[16:19-16:22]",
+                      "specText" : "out"
+                    }, {
+                      "keyText" : "UNRESOLVED_ID at ops054.java[16:23-16:30]",
+                      "specText" : "println"
+                    }, {
+                      "keyText" : "RAW_CALL at ops054.java[16:30-16:40]",
+                      "children" : [ {
+                        "keyText" : "LITERAL at ops054.java[16:31-16:39]",
+                        "specText" : "STRING \"World!\""
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

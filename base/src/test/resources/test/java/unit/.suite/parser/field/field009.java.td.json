@@ -1,0 +1,73 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at field009.java[1:0-5:1]",
+    "children" : [ {
+      "keyText" : "NAME at field009.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at field009.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at field009.java[3:0-5:1]",
+      "children" : [ {
+        "keyText" : "NAME at field009.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at field009.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at field009.java[3:14-5:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_FIELD at field009.java[4:4-4:45]",
+          "children" : [ {
+            "keyText" : "RAW_TYPE at field009.java[4:4-4:11]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at field009.java[4:4-4:11]",
+              "specText" : "boolean"
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_VARIABLE at field009.java[4:12-4:16]",
+            "children" : [ {
+              "keyText" : "NAME at field009.java[4:12-4:16]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at field009.java[4:12-4:16]",
+                "specText" : "flag"
+              } ]
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_VARIABLE at field009.java[4:18-4:30]",
+            "children" : [ {
+              "keyText" : "NAME at field009.java[4:18-4:23]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at field009.java[4:18-4:23]",
+                "specText" : "flag1"
+              } ]
+            }, {
+              "keyText" : "INIT at field009.java[4:26-4:30]",
+              "children" : [ {
+                "keyText" : "LITERAL at field009.java[4:26-4:30]",
+                "specText" : "BOOLEAN true"
+              } ]
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_VARIABLE at field009.java[4:32-4:45]",
+            "children" : [ {
+              "keyText" : "NAME at field009.java[4:32-4:37]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at field009.java[4:32-4:37]",
+                "specText" : "flag2"
+              } ]
+            }, {
+              "keyText" : "INIT at field009.java[4:40-4:45]",
+              "children" : [ {
+                "keyText" : "LITERAL at field009.java[4:40-4:45]",
+                "specText" : "BOOLEAN false"
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

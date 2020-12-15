@@ -1,0 +1,67 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_MODULE at module001.java[1:0-5:1]",
+    "children" : [ {
+      "keyText" : "NAME at module001.java[1:7-1:14]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at module001.java[1:7-1:14]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "MEMBERS at module001.java[1:15-5:1]",
+      "children" : [ {
+        "keyText" : "RAW_DIRECTIVE_REQUIRES at module001.java[2:4-2:16]",
+        "children" : [ {
+          "keyText" : "NAME at module001.java[2:13-2:16]",
+          "children" : [ {
+            "keyText" : "CHAIN at module001.java[2:13-2:16]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at module001.java[2:13-2:14]",
+              "specText" : "a"
+            }, {
+              "keyText" : "UNRESOLVED_ID at module001.java[2:15-2:16]",
+              "specText" : "b"
+            } ]
+          } ]
+        } ]
+      }, {
+        "keyText" : "RAW_DIRECTIVE_REQUIRES at module001.java[3:4-3:23]",
+        "children" : [ {
+          "keyText" : "MODIFIER at module001.java[3:13-3:19]",
+          "specText" : "static"
+        }, {
+          "keyText" : "NAME at module001.java[3:20-3:23]",
+          "children" : [ {
+            "keyText" : "CHAIN at module001.java[3:20-3:23]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at module001.java[3:20-3:21]",
+              "specText" : "c"
+            }, {
+              "keyText" : "UNRESOLVED_ID at module001.java[3:22-3:23]",
+              "specText" : "d"
+            } ]
+          } ]
+        } ]
+      }, {
+        "keyText" : "RAW_DIRECTIVE_REQUIRES at module001.java[4:4-4:27]",
+        "children" : [ {
+          "keyText" : "MODIFIER at module001.java[4:13-4:23]",
+          "specText" : "transitive"
+        }, {
+          "keyText" : "NAME at module001.java[4:24-4:27]",
+          "children" : [ {
+            "keyText" : "CHAIN at module001.java[4:24-4:27]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at module001.java[4:24-4:25]",
+              "specText" : "e"
+            }, {
+              "keyText" : "UNRESOLVED_ID at module001.java[4:26-4:27]",
+              "specText" : "f"
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at primitive008.java[1:0-9:1]",
+    "children" : [ {
+      "keyText" : "NAME at primitive008.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at primitive008.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at primitive008.java[3:0-9:1]",
+      "children" : [ {
+        "keyText" : "NAME at primitive008.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at primitive008.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at primitive008.java[3:14-9:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at primitive008.java[4:4-7:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at primitive008.java[4:4-7:5]",
+            "children" : [ {
+              "keyText" : "RAW_DECL_LOCAL at primitive008.java[5:8-6:16]",
+              "children" : [ {
+                "keyText" : "RAW_ANNOTATION at primitive008.java[5:8-5:16]",
+                "children" : [ {
+                  "keyText" : "RAW_TYPE at primitive008.java[5:9-5:16]",
+                  "children" : [ {
+                    "keyText" : "RAW_TYPE_REFERENCE at primitive008.java[5:9-5:16]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at primitive008.java[5:9-5:16]",
+                      "specText" : "Checked"
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "keyText" : "RAW_TYPE at primitive008.java[6:8-6:14]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at primitive008.java[6:8-6:14]",
+                  "specText" : "double"
+                } ]
+              }, {
+                "keyText" : "RAW_DECL_VARIABLE at primitive008.java[6:15-6:16]",
+                "children" : [ {
+                  "keyText" : "NAME at primitive008.java[6:15-6:16]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at primitive008.java[6:15-6:16]",
+                    "specText" : "a"
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

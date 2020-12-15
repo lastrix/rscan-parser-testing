@@ -1,0 +1,37 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at enum004.java[1:0-8:1]",
+    "children" : [ {
+      "keyText" : "NAME at enum004.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at enum004.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_ENUM at enum004.java[4:0-8:1]",
+      "children" : [ {
+        "keyText" : "NAME at enum004.java[4:5-4:12]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at enum004.java[4:5-4:12]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at enum004.java[4:13-8:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_ENUM_MEMBER at enum004.java[5:4-5:11]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at enum004.java[5:4-5:11]",
+            "specText" : "EXAMPLE"
+          } ]
+        }, {
+          "keyText" : "RAW_DECL_ENUM_MEMBER at enum004.java[6:4-6:12]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at enum004.java[6:4-6:12]",
+            "specText" : "EXAMPLE1"
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

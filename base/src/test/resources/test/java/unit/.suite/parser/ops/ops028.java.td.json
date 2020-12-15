@@ -1,0 +1,43 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at ops028.java[1:0-8:1]",
+    "children" : [ {
+      "keyText" : "NAME at ops028.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at ops028.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at ops028.java[3:0-8:1]",
+      "children" : [ {
+        "keyText" : "NAME at ops028.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at ops028.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at ops028.java[3:14-8:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at ops028.java[4:4-6:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at ops028.java[4:4-6:5]",
+            "children" : [ {
+              "keyText" : "BLOCK_CONDITIONAL at ops028.java[5:8-5:25]",
+              "specText" : "",
+              "children" : [ {
+                "keyText" : "BLOCK at ops028.java[5:11-5:13]"
+              }, {
+                "keyText" : "CONDITION at ops028.java[5:20-5:24]",
+                "children" : [ {
+                  "keyText" : "LITERAL at ops028.java[5:20-5:24]",
+                  "specText" : "BOOLEAN true"
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

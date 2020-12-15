@@ -1,0 +1,386 @@
+{
+  "tokens" : [ {
+    "tokenType" : "PACKAGE",
+    "statement" : "1:0[7]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "1:8[7]",
+    "text" : "example"
+  }, {
+    "tokenType" : "SEMI",
+    "statement" : "1:15[1]"
+  }, {
+    "tokenType" : "IMPORT",
+    "statement" : "3:0[6]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "3:7[4]",
+    "text" : "java"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "3:11[1]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "3:12[4]",
+    "text" : "util"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "3:16[1]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "3:17[9]",
+    "text" : "ArrayList"
+  }, {
+    "tokenType" : "SEMI",
+    "statement" : "3:26[1]"
+  }, {
+    "tokenType" : "IMPORT",
+    "statement" : "4:0[6]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "4:7[4]",
+    "text" : "java"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "4:11[1]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "4:12[4]",
+    "text" : "util"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "4:16[1]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "4:17[11]",
+    "text" : "Collections"
+  }, {
+    "tokenType" : "SEMI",
+    "statement" : "4:28[1]"
+  }, {
+    "tokenType" : "IMPORT",
+    "statement" : "5:0[6]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "5:7[4]",
+    "text" : "java"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "5:11[1]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "5:12[4]",
+    "text" : "util"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "5:16[1]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "5:17[4]",
+    "text" : "List"
+  }, {
+    "tokenType" : "SEMI",
+    "statement" : "5:21[1]"
+  }, {
+    "tokenType" : "IMPORT",
+    "statement" : "6:0[6]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "6:7[4]",
+    "text" : "java"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "6:11[1]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "6:12[4]",
+    "text" : "util"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "6:16[1]"
+  }, {
+    "tokenType" : "MUL",
+    "statement" : "6:17[1]"
+  }, {
+    "tokenType" : "SEMI",
+    "statement" : "6:18[1]"
+  }, {
+    "tokenType" : "CLASS",
+    "statement" : "8:0[5]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "8:6[7]",
+    "text" : "Example"
+  }, {
+    "tokenType" : "FoldBlock",
+    "statement" : "8:14[309]",
+    "children" : {
+      "tokens" : [ {
+        "tokenType" : "LBRACE",
+        "statement" : "8:14[1]"
+      }, {
+        "tokenType" : "PRIVATE",
+        "statement" : "9:4[7]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "9:12[4]",
+        "text" : "List"
+      }, {
+        "tokenType" : "LT",
+        "statement" : "9:16[1]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "9:17[6]",
+        "text" : "String"
+      }, {
+        "tokenType" : "GT",
+        "statement" : "9:23[1]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "9:25[5]",
+        "text" : "names"
+      }, {
+        "tokenType" : "ASSIGN",
+        "statement" : "9:31[1]"
+      }, {
+        "tokenType" : "NEW",
+        "statement" : "9:33[3]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "9:37[9]",
+        "text" : "ArrayList"
+      }, {
+        "tokenType" : "LT",
+        "statement" : "9:46[1]"
+      }, {
+        "tokenType" : "GT",
+        "statement" : "9:47[1]"
+      }, {
+        "tokenType" : "LPAREN",
+        "statement" : "9:48[1]"
+      }, {
+        "tokenType" : "RPAREN",
+        "statement" : "9:49[1]"
+      }, {
+        "tokenType" : "SEMI",
+        "statement" : "9:50[1]"
+      }, {
+        "tokenType" : "PUBLIC",
+        "statement" : "11:4[6]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "11:11[4]",
+        "text" : "List"
+      }, {
+        "tokenType" : "LT",
+        "statement" : "11:15[1]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "11:16[6]",
+        "text" : "String"
+      }, {
+        "tokenType" : "GT",
+        "statement" : "11:22[1]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "11:24[8]",
+        "text" : "getNames"
+      }, {
+        "tokenType" : "LPAREN",
+        "statement" : "11:32[1]"
+      }, {
+        "tokenType" : "RPAREN",
+        "statement" : "11:33[1]"
+      }, {
+        "tokenType" : "FoldBlock",
+        "statement" : "11:35[59]",
+        "children" : {
+          "tokens" : [ {
+            "tokenType" : "LBRACE",
+            "statement" : "11:35[1]"
+          }, {
+            "tokenType" : "RETURN",
+            "statement" : "12:8[6]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "12:15[11]",
+            "text" : "Collections"
+          }, {
+            "tokenType" : "DOT",
+            "statement" : "12:26[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "12:27[16]",
+            "text" : "unmodifiableList"
+          }, {
+            "tokenType" : "LPAREN",
+            "statement" : "12:43[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "12:44[5]",
+            "text" : "names"
+          }, {
+            "tokenType" : "RPAREN",
+            "statement" : "12:49[1]"
+          }, {
+            "tokenType" : "SEMI",
+            "statement" : "12:50[1]"
+          }, {
+            "tokenType" : "RBRACE",
+            "statement" : "13:4[1]"
+          }, {
+            "tokenType" : "EOF",
+            "statement" : "13:5[3]"
+          } ]
+        }
+      }, {
+        "tokenType" : "PUBLIC",
+        "statement" : "15:4[6]"
+      }, {
+        "tokenType" : "VOID",
+        "statement" : "15:11[4]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "15:16[8]",
+        "text" : "setNames"
+      }, {
+        "tokenType" : "LPAREN",
+        "statement" : "15:24[1]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "15:25[4]",
+        "text" : "List"
+      }, {
+        "tokenType" : "LT",
+        "statement" : "15:29[1]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "15:30[6]",
+        "text" : "String"
+      }, {
+        "tokenType" : "GT",
+        "statement" : "15:36[1]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "15:38[5]",
+        "text" : "names"
+      }, {
+        "tokenType" : "RPAREN",
+        "statement" : "15:43[1]"
+      }, {
+        "tokenType" : "FoldBlock",
+        "statement" : "15:45[35]",
+        "children" : {
+          "tokens" : [ {
+            "tokenType" : "LBRACE",
+            "statement" : "15:45[1]"
+          }, {
+            "tokenType" : "THIS",
+            "statement" : "16:8[4]"
+          }, {
+            "tokenType" : "DOT",
+            "statement" : "16:12[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "16:13[5]",
+            "text" : "names"
+          }, {
+            "tokenType" : "ASSIGN",
+            "statement" : "16:19[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "16:21[5]",
+            "text" : "names"
+          }, {
+            "tokenType" : "SEMI",
+            "statement" : "16:26[1]"
+          }, {
+            "tokenType" : "RBRACE",
+            "statement" : "17:4[1]"
+          }, {
+            "tokenType" : "EOF",
+            "statement" : "17:5[3]"
+          } ]
+        }
+      }, {
+        "tokenType" : "PUBLIC",
+        "statement" : "19:4[6]"
+      }, {
+        "tokenType" : "VOID",
+        "statement" : "19:11[4]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "19:16[7]",
+        "text" : "addName"
+      }, {
+        "tokenType" : "LPAREN",
+        "statement" : "19:23[1]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "19:24[6]",
+        "text" : "String"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "19:31[4]",
+        "text" : "name"
+      }, {
+        "tokenType" : "RPAREN",
+        "statement" : "19:35[1]"
+      }, {
+        "tokenType" : "FoldBlock",
+        "statement" : "19:37[37]",
+        "children" : {
+          "tokens" : [ {
+            "tokenType" : "LBRACE",
+            "statement" : "19:37[1]"
+          }, {
+            "tokenType" : "THIS",
+            "statement" : "20:8[4]"
+          }, {
+            "tokenType" : "DOT",
+            "statement" : "20:12[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "20:13[5]",
+            "text" : "names"
+          }, {
+            "tokenType" : "DOT",
+            "statement" : "20:18[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "20:19[3]",
+            "text" : "add"
+          }, {
+            "tokenType" : "LPAREN",
+            "statement" : "20:22[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "20:23[4]",
+            "text" : "name"
+          }, {
+            "tokenType" : "RPAREN",
+            "statement" : "20:27[1]"
+          }, {
+            "tokenType" : "SEMI",
+            "statement" : "20:28[1]"
+          }, {
+            "tokenType" : "RBRACE",
+            "statement" : "21:4[1]"
+          }, {
+            "tokenType" : "EOF",
+            "statement" : "21:5[3]"
+          } ]
+        }
+      }, {
+        "tokenType" : "RBRACE",
+        "statement" : "22:0[1]"
+      }, {
+        "tokenType" : "EOF",
+        "statement" : "22:1[3]"
+      } ]
+    }
+  }, {
+    "tokenType" : "EOF",
+    "statement" : "23:0[5]"
+  } ]
+}

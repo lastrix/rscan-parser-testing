@@ -1,0 +1,46 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at field001.java[1:0-5:1]",
+    "children" : [ {
+      "keyText" : "NAME at field001.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at field001.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at field001.java[3:0-5:1]",
+      "children" : [ {
+        "keyText" : "NAME at field001.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at field001.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at field001.java[3:14-5:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_FIELD at field001.java[4:4-4:24]",
+          "children" : [ {
+            "keyText" : "MODIFIER at field001.java[4:4-4:11]",
+            "specText" : "private"
+          }, {
+            "keyText" : "RAW_TYPE at field001.java[4:12-4:19]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at field001.java[4:12-4:19]",
+              "specText" : "boolean"
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_VARIABLE at field001.java[4:20-4:24]",
+            "children" : [ {
+              "keyText" : "NAME at field001.java[4:20-4:24]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at field001.java[4:20-4:24]",
+                "specText" : "flag"
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

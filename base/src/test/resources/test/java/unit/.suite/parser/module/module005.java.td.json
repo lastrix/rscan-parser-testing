@@ -1,0 +1,18 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_MODULE at module005.java[1:0-2:1]",
+    "children" : [ {
+      "keyText" : "MODIFIER at module005.java[1:0-1:4]",
+      "specText" : "#open"
+    }, {
+      "keyText" : "NAME at module005.java[1:12-1:19]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at module005.java[1:12-1:19]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "MEMBERS at module005.java[1:20-2:1]"
+    } ]
+  } ]
+}

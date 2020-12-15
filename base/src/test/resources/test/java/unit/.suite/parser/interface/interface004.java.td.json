@@ -1,0 +1,27 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at interface004.java[1:0-5:1]",
+    "children" : [ {
+      "keyText" : "NAME at interface004.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at interface004.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_INTERFACE at interface004.java[3:0-5:1]",
+      "children" : [ {
+        "keyText" : "MODIFIER at interface004.java[3:0-3:6]",
+        "specText" : "public"
+      }, {
+        "keyText" : "NAME at interface004.java[3:17-3:24]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at interface004.java[3:17-3:24]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at interface004.java[3:25-5:1]"
+      } ]
+    } ]
+  } ]
+}

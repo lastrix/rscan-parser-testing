@@ -1,0 +1,59 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at class014.java[1:0-8:1]",
+    "children" : [ {
+      "keyText" : "NAME at class014.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at class014.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at class014.java[3:0-8:1]",
+      "children" : [ {
+        "keyText" : "NAME at class014.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at class014.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at class014.java[3:14-8:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_FIELD at class014.java[4:4-4:16]",
+          "children" : [ {
+            "keyText" : "RAW_TYPE at class014.java[4:4-4:11]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at class014.java[4:4-4:11]",
+              "specText" : "boolean"
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_VARIABLE at class014.java[4:12-4:16]",
+            "children" : [ {
+              "keyText" : "NAME at class014.java[4:12-4:16]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at class014.java[4:12-4:16]",
+                "specText" : "flag"
+              } ]
+            } ]
+          } ]
+        }, {
+          "keyText" : "INITIALIZER at class014.java[5:4-7:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at class014.java[5:4-7:5]",
+            "children" : [ {
+              "keyText" : "ASSIGN at class014.java[6:8-6:19]",
+              "specText" : "",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at class014.java[6:8-6:12]",
+                "specText" : "flag"
+              }, {
+                "keyText" : "LITERAL at class014.java[6:15-6:19]",
+                "specText" : "BOOLEAN true"
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

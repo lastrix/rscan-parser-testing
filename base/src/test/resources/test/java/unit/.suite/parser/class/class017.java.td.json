@@ -1,0 +1,45 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at class017.java[1:0-5:1]",
+    "children" : [ {
+      "keyText" : "NAME at class017.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at class017.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at class017.java[3:0-5:1]",
+      "children" : [ {
+        "keyText" : "NAME at class017.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at class017.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "RAW_DECL_TYPE_PARAMETER at class017.java[3:14-3:30]",
+        "children" : [ {
+          "keyText" : "NAME at class017.java[3:14-3:15]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at class017.java[3:14-3:15]",
+            "specText" : "T"
+          } ]
+        }, {
+          "keyText" : "EXTENDS at class017.java[3:24-3:30]",
+          "children" : [ {
+            "keyText" : "RAW_TYPE_REFERENCE at class017.java[3:24-3:30]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at class017.java[3:24-3:30]",
+              "specText" : "Number"
+            } ]
+          } ]
+        } ]
+      }, {
+        "keyText" : "MEMBERS at class017.java[3:32-5:1]",
+        "children" : [ {
+          "keyText" : "NONE at class017.java[4:4-4:5]"
+        } ]
+      } ]
+    } ]
+  } ]
+}

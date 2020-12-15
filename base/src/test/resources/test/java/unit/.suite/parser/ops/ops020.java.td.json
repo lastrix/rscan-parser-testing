@@ -1,0 +1,72 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at ops020.java[1:0-8:1]",
+    "children" : [ {
+      "keyText" : "NAME at ops020.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at ops020.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at ops020.java[3:0-8:1]",
+      "children" : [ {
+        "keyText" : "NAME at ops020.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at ops020.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at ops020.java[3:14-8:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at ops020.java[4:4-6:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at ops020.java[4:4-6:5]",
+            "children" : [ {
+              "keyText" : "RAW_DECL_LOCAL at ops020.java[5:8-5:27]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE at ops020.java[5:8-5:11]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at ops020.java[5:8-5:11]",
+                  "specText" : "int"
+                } ]
+              }, {
+                "keyText" : "RAW_DECL_VARIABLE at ops020.java[5:12-5:27]",
+                "children" : [ {
+                  "keyText" : "NAME at ops020.java[5:12-5:13]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops020.java[5:12-5:13]",
+                    "specText" : "a"
+                  } ]
+                }, {
+                  "keyText" : "INIT at ops020.java[5:17-5:27]",
+                  "children" : [ {
+                    "keyText" : "BINARY at ops020.java[5:17-5:27]",
+                    "specText" : "ADD",
+                    "children" : [ {
+                      "keyText" : "PARENTHESIZED at ops020.java[5:17-5:22]",
+                      "children" : [ {
+                        "keyText" : "BINARY at ops020.java[5:17-5:22]",
+                        "specText" : "BW_AND",
+                        "children" : [ {
+                          "keyText" : "LITERAL at ops020.java[5:17-5:18]",
+                          "specText" : "INTEGER 2"
+                        }, {
+                          "keyText" : "LITERAL at ops020.java[5:21-5:22]",
+                          "specText" : "INTEGER 2"
+                        } ]
+                      } ]
+                    }, {
+                      "keyText" : "LITERAL at ops020.java[5:26-5:27]",
+                      "specText" : "INTEGER 1"
+                    } ]
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

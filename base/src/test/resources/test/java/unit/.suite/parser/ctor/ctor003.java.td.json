@@ -1,0 +1,67 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at ctor003.java[1:0-7:1]",
+    "children" : [ {
+      "keyText" : "NAME at ctor003.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at ctor003.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at ctor003.java[3:0-7:1]",
+      "children" : [ {
+        "keyText" : "NAME at ctor003.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at ctor003.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at ctor003.java[3:14-7:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_CONSTRUCTOR at ctor003.java[4:4-6:5]",
+          "children" : [ {
+            "keyText" : "MODIFIER at ctor003.java[4:4-4:10]",
+            "specText" : "public"
+          }, {
+            "keyText" : "NAME at ctor003.java[4:11-4:18]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at ctor003.java[4:11-4:18]",
+              "specText" : "Example"
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_PARAMETER at ctor003.java[4:19-4:28]",
+            "children" : [ {
+              "keyText" : "RAW_TYPE at ctor003.java[4:19-4:22]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at ctor003.java[4:19-4:22]",
+                "specText" : "int"
+              } ]
+            }, {
+              "keyText" : "NAME at ctor003.java[4:23-4:28]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at ctor003.java[4:23-4:28]",
+                "specText" : "value"
+              } ]
+            } ]
+          }, {
+            "keyText" : "BLOCK at ctor003.java[4:29-6:5]",
+            "children" : [ {
+              "keyText" : "RAW_EXPLICIT_CTOR_INVOKE at ctor003.java[5:8-5:20]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at ctor003.java[5:8-5:13]",
+                "specText" : "super"
+              }, {
+                "keyText" : "RAW_CALL at ctor003.java[5:13-5:20]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at ctor003.java[5:14-5:19]",
+                  "specText" : "value"
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

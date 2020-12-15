@@ -1,0 +1,60 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at ops047.java[2:0-9:1]",
+    "children" : [ {
+      "keyText" : "NAME at ops047.java[2:8-2:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at ops047.java[2:8-2:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at ops047.java[4:0-9:1]",
+      "children" : [ {
+        "keyText" : "NAME at ops047.java[4:6-4:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at ops047.java[4:6-4:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at ops047.java[4:14-9:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_METHOD at ops047.java[5:4-7:5]",
+          "children" : [ {
+            "keyText" : "MODIFIER at ops047.java[5:4-5:10]",
+            "specText" : "public"
+          }, {
+            "keyText" : "TYPE at ops047.java[5:11-5:15]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at ops047.java[5:11-5:15]",
+              "specText" : "void"
+            } ]
+          }, {
+            "keyText" : "NAME at ops047.java[5:16-5:20]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at ops047.java[5:16-5:20]",
+              "specText" : "func"
+            } ]
+          }, {
+            "keyText" : "BLOCK at ops047.java[5:23-7:5]",
+            "children" : [ {
+              "keyText" : "THROW at ops047.java[6:8-6:41]",
+              "children" : [ {
+                "keyText" : "RAW_NEW at ops047.java[6:14-6:41]",
+                "children" : [ {
+                  "keyText" : "RAW_TYPE_INSTANTIATION at ops047.java[6:18-6:39]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops047.java[6:18-6:39]",
+                    "specText" : "IllegalStateException"
+                  } ]
+                }, {
+                  "keyText" : "RAW_CALL at ops047.java[6:39-6:41]"
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

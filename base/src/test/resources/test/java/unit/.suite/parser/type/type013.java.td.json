@@ -1,0 +1,112 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at type013.java[1:0-12:1]",
+    "children" : [ {
+      "keyText" : "NAME at type013.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at type013.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_IMPORT at type013.java[3:0-3:41]",
+      "children" : [ {
+        "keyText" : "NAME at type013.java[3:7-3:40]",
+        "children" : [ {
+          "keyText" : "CHAIN at type013.java[3:7-3:40]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at type013.java[3:7-3:10]",
+            "specText" : "com"
+          }, {
+            "keyText" : "UNRESOLVED_ID at type013.java[3:11-3:27]",
+            "specText" : "esotericsoftware"
+          }, {
+            "keyText" : "UNRESOLVED_ID at type013.java[3:28-3:32]",
+            "specText" : "kryo"
+          }, {
+            "keyText" : "UNRESOLVED_ID at type013.java[3:33-3:40]",
+            "specText" : "NotNull"
+          } ]
+        } ]
+      } ]
+    }, {
+      "keyText" : "RAW_IMPORT at type013.java[5:0-5:28]",
+      "children" : [ {
+        "keyText" : "NAME at type013.java[5:7-5:27]",
+        "children" : [ {
+          "keyText" : "CHAIN at type013.java[5:7-5:27]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at type013.java[5:7-5:11]",
+            "specText" : "java"
+          }, {
+            "keyText" : "UNRESOLVED_ID at type013.java[5:12-5:16]",
+            "specText" : "util"
+          }, {
+            "keyText" : "UNRESOLVED_ID at type013.java[5:17-5:27]",
+            "specText" : "Collection"
+          } ]
+        } ]
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at type013.java[7:0-12:1]",
+      "children" : [ {
+        "keyText" : "NAME at type013.java[7:6-7:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at type013.java[7:6-7:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at type013.java[7:14-12:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at type013.java[8:4-10:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at type013.java[8:4-10:5]",
+            "children" : [ {
+              "keyText" : "RAW_DECL_LOCAL at type013.java[9:8-9:33]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE at type013.java[9:8-9:31]",
+                "children" : [ {
+                  "keyText" : "RAW_TYPE_REFERENCE at type013.java[9:8-9:31]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at type013.java[9:8-9:18]",
+                    "specText" : "Collection"
+                  }, {
+                    "keyText" : "TYPE_ARGUMENTS at type013.java[9:18-9:31]",
+                    "children" : [ {
+                      "keyText" : "RAW_TYPE at type013.java[9:20-9:30]",
+                      "children" : [ {
+                        "keyText" : "TYPE_WILDCARD at type013.java[9:20-9:30]",
+                        "children" : [ {
+                          "keyText" : "RAW_ANNOTATION at type013.java[9:20-9:28]",
+                          "children" : [ {
+                            "keyText" : "RAW_TYPE at type013.java[9:21-9:28]",
+                            "children" : [ {
+                              "keyText" : "RAW_TYPE_REFERENCE at type013.java[9:21-9:28]",
+                              "children" : [ {
+                                "keyText" : "UNRESOLVED_ID at type013.java[9:21-9:28]",
+                                "specText" : "NotNull"
+                              } ]
+                            } ]
+                          } ]
+                        } ]
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "keyText" : "RAW_DECL_VARIABLE at type013.java[9:32-9:33]",
+                "children" : [ {
+                  "keyText" : "NAME at type013.java[9:32-9:33]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at type013.java[9:32-9:33]",
+                    "specText" : "s"
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

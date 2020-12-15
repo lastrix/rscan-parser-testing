@@ -1,0 +1,112 @@
+{
+  "tokens" : [ {
+    "tokenType" : "PACKAGE",
+    "statement" : "1:0[7]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "1:8[1]",
+    "text" : "A"
+  }, {
+    "tokenType" : "SEMI",
+    "statement" : "1:9[1]"
+  }, {
+    "tokenType" : "CLASS",
+    "statement" : "3:0[5]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "3:6[1]",
+    "text" : "B"
+  }, {
+    "tokenType" : "FoldBlock",
+    "statement" : "3:8[56]",
+    "children" : {
+      "tokens" : [ {
+        "tokenType" : "LBRACE",
+        "statement" : "3:8[1]"
+      }, {
+        "tokenType" : "FoldBlock",
+        "statement" : "4:4[48]",
+        "children" : {
+          "tokens" : [ {
+            "tokenType" : "LBRACE",
+            "statement" : "4:4[1]"
+          }, {
+            "tokenType" : "VAR",
+            "statement" : "5:8[3]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "5:12[1]",
+            "text" : "l"
+          }, {
+            "tokenType" : "ASSIGN",
+            "statement" : "5:14[1]"
+          }, {
+            "tokenType" : "LPAREN",
+            "statement" : "5:16[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "5:17[1]",
+            "text" : "E"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "5:19[1]",
+            "text" : "e"
+          }, {
+            "tokenType" : "COMMA",
+            "statement" : "5:20[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "5:22[1]",
+            "text" : "B"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "5:24[1]",
+            "text" : "b"
+          }, {
+            "tokenType" : "COMMA",
+            "statement" : "5:25[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "5:27[1]",
+            "text" : "C"
+          }, {
+            "tokenType" : "ELLIPSIS",
+            "statement" : "5:28[3]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "5:32[1]",
+            "text" : "c"
+          }, {
+            "tokenType" : "RPAREN",
+            "statement" : "5:33[1]"
+          }, {
+            "tokenType" : "ARROW",
+            "statement" : "5:35[2]"
+          }, {
+            "tokenType" : "DecimalIntegerLiteral",
+            "statement" : "5:38[1]",
+            "text" : "1"
+          }, {
+            "tokenType" : "SEMI",
+            "statement" : "5:39[1]"
+          }, {
+            "tokenType" : "RBRACE",
+            "statement" : "6:4[1]"
+          }, {
+            "tokenType" : "EOF",
+            "statement" : "6:5[3]"
+          } ]
+        }
+      }, {
+        "tokenType" : "RBRACE",
+        "statement" : "7:0[1]"
+      }, {
+        "tokenType" : "EOF",
+        "statement" : "7:1[3]"
+      } ]
+    }
+  }, {
+    "tokenType" : "EOF",
+    "statement" : "8:0[5]"
+  } ]
+}

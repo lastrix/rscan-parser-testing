@@ -1,0 +1,88 @@
+{
+  "tokens" : [ {
+    "tokenType" : "PACKAGE",
+    "statement" : "2:0[7]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "2:8[7]",
+    "text" : "example"
+  }, {
+    "tokenType" : "SEMI",
+    "statement" : "2:15[1]"
+  }, {
+    "tokenType" : "CLASS",
+    "statement" : "4:0[5]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "4:6[7]",
+    "text" : "Example"
+  }, {
+    "tokenType" : "FoldBlock",
+    "statement" : "4:14[78]",
+    "children" : {
+      "tokens" : [ {
+        "tokenType" : "LBRACE",
+        "statement" : "4:14[1]"
+      }, {
+        "tokenType" : "PUBLIC",
+        "statement" : "5:4[6]"
+      }, {
+        "tokenType" : "VOID",
+        "statement" : "5:11[4]"
+      }, {
+        "tokenType" : "Identifier",
+        "statement" : "5:16[4]",
+        "text" : "func"
+      }, {
+        "tokenType" : "LPAREN",
+        "statement" : "5:20[1]"
+      }, {
+        "tokenType" : "RPAREN",
+        "statement" : "5:21[1]"
+      }, {
+        "tokenType" : "FoldBlock",
+        "statement" : "5:23[50]",
+        "children" : {
+          "tokens" : [ {
+            "tokenType" : "LBRACE",
+            "statement" : "5:23[1]"
+          }, {
+            "tokenType" : "THROW",
+            "statement" : "6:8[5]"
+          }, {
+            "tokenType" : "NEW",
+            "statement" : "6:14[3]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "6:18[21]",
+            "text" : "IllegalStateException"
+          }, {
+            "tokenType" : "LPAREN",
+            "statement" : "6:39[1]"
+          }, {
+            "tokenType" : "RPAREN",
+            "statement" : "6:40[1]"
+          }, {
+            "tokenType" : "SEMI",
+            "statement" : "6:41[1]"
+          }, {
+            "tokenType" : "RBRACE",
+            "statement" : "7:4[1]"
+          }, {
+            "tokenType" : "EOF",
+            "statement" : "7:5[3]"
+          } ]
+        }
+      }, {
+        "tokenType" : "RBRACE",
+        "statement" : "9:0[1]"
+      }, {
+        "tokenType" : "EOF",
+        "statement" : "9:1[3]"
+      } ]
+    }
+  }, {
+    "tokenType" : "EOF",
+    "statement" : "10:0[5]"
+  } ]
+}

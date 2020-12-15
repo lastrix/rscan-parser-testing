@@ -1,0 +1,123 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at method024.java[1:0-9:1]",
+    "children" : [ {
+      "keyText" : "NAME at method024.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at method024.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_IMPORT at method024.java[3:0-3:41]",
+      "children" : [ {
+        "keyText" : "NAME at method024.java[3:7-3:40]",
+        "children" : [ {
+          "keyText" : "CHAIN at method024.java[3:7-3:40]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at method024.java[3:7-3:10]",
+            "specText" : "org"
+          }, {
+            "keyText" : "UNRESOLVED_ID at method024.java[3:11-3:20]",
+            "specText" : "jetbrains"
+          }, {
+            "keyText" : "UNRESOLVED_ID at method024.java[3:21-3:32]",
+            "specText" : "annotations"
+          }, {
+            "keyText" : "UNRESOLVED_ID at method024.java[3:33-3:40]",
+            "specText" : "NotNull"
+          } ]
+        } ]
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at method024.java[5:0-9:1]",
+      "children" : [ {
+        "keyText" : "NAME at method024.java[5:6-5:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at method024.java[5:6-5:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at method024.java[5:14-9:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_METHOD at method024.java[6:4-8:5]",
+          "children" : [ {
+            "keyText" : "RAW_DECL_TYPE_PARAMETER at method024.java[6:5-6:24]",
+            "children" : [ {
+              "keyText" : "NAME at method024.java[6:5-6:6]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at method024.java[6:5-6:6]",
+                "specText" : "T"
+              } ]
+            }, {
+              "keyText" : "EXTENDS at method024.java[6:15-6:24]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE_REFERENCE at method024.java[6:15-6:24]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at method024.java[6:15-6:24]",
+                  "specText" : "Exception"
+                } ]
+              } ]
+            } ]
+          }, {
+            "keyText" : "TYPE at method024.java[6:26-6:30]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at method024.java[6:26-6:30]",
+              "specText" : "void"
+            } ]
+          }, {
+            "keyText" : "NAME at method024.java[6:31-6:34]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at method024.java[6:31-6:34]",
+              "specText" : "run"
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_PARAMETER at method024.java[6:35-6:56]",
+            "children" : [ {
+              "keyText" : "RAW_ANNOTATION at method024.java[6:35-6:43]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE at method024.java[6:36-6:43]",
+                "children" : [ {
+                  "keyText" : "RAW_TYPE_REFERENCE at method024.java[6:36-6:43]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at method024.java[6:36-6:43]",
+                    "specText" : "NotNull"
+                  } ]
+                } ]
+              } ]
+            }, {
+              "keyText" : "RAW_TYPE at method024.java[6:44-6:51]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE_REFERENCE at method024.java[6:44-6:51]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at method024.java[6:44-6:51]",
+                  "specText" : "Boolean"
+                } ]
+              } ]
+            }, {
+              "keyText" : "NAME at method024.java[6:52-6:56]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at method024.java[6:52-6:56]",
+                "specText" : "flag"
+              } ]
+            } ]
+          }, {
+            "keyText" : "THROWS at method024.java[6:65-6:66]",
+            "children" : [ {
+              "keyText" : "RAW_TYPE at method024.java[6:65-6:66]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE_REFERENCE at method024.java[6:65-6:66]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at method024.java[6:65-6:66]",
+                  "specText" : "T"
+                } ]
+              } ]
+            } ]
+          }, {
+            "keyText" : "BLOCK at method024.java[6:67-8:5]"
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

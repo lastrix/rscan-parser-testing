@@ -1,0 +1,85 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at cast000.java[1:0-8:1]",
+    "children" : [ {
+      "keyText" : "NAME at cast000.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at cast000.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at cast000.java[3:0-8:1]",
+      "children" : [ {
+        "keyText" : "NAME at cast000.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at cast000.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at cast000.java[3:14-8:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at cast000.java[4:4-6:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at cast000.java[4:4-6:5]",
+            "children" : [ {
+              "keyText" : "RAW_DECL_LOCAL at cast000.java[5:8-5:40]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE at cast000.java[5:8-5:12]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at cast000.java[5:8-5:12]",
+                  "specText" : "long"
+                } ]
+              }, {
+                "keyText" : "RAW_DECL_VARIABLE at cast000.java[5:13-5:40]",
+                "children" : [ {
+                  "keyText" : "NAME at cast000.java[5:13-5:14]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at cast000.java[5:13-5:14]",
+                    "specText" : "a"
+                  } ]
+                }, {
+                  "keyText" : "INIT at cast000.java[5:17-5:40]",
+                  "children" : [ {
+                    "keyText" : "RAW_TYPE_CAST at cast000.java[5:17-5:40]",
+                    "children" : [ {
+                      "keyText" : "TYPE at cast000.java[5:18-5:32]",
+                      "children" : [ {
+                        "keyText" : "RAW_ANNOTATION at cast000.java[5:18-5:27]",
+                        "children" : [ {
+                          "keyText" : "RAW_TYPE at cast000.java[5:19-5:22]",
+                          "children" : [ {
+                            "keyText" : "RAW_TYPE_REFERENCE at cast000.java[5:19-5:22]",
+                            "children" : [ {
+                              "keyText" : "UNRESOLVED_ID at cast000.java[5:19-5:22]",
+                              "specText" : "Min"
+                            } ]
+                          } ]
+                        }, {
+                          "keyText" : "RAW_DECL_PARAMETER at cast000.java[5:23-5:26]",
+                          "children" : [ {
+                            "keyText" : "VALUE at cast000.java[5:23-5:26]",
+                            "children" : [ {
+                              "keyText" : "LITERAL at cast000.java[5:23-5:26]",
+                              "specText" : "INTEGER 10"
+                            } ]
+                          } ]
+                        } ]
+                      }, {
+                        "keyText" : "UNRESOLVED_ID at cast000.java[5:28-5:32]",
+                        "specText" : "long"
+                      } ]
+                    }, {
+                      "keyText" : "LITERAL at cast000.java[5:33-5:40]",
+                      "specText" : "FLOAT 121.23"
+                    } ]
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

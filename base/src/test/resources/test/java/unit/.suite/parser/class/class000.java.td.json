@@ -1,0 +1,336 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at class000.java[1:0-22:1]",
+    "children" : [ {
+      "keyText" : "NAME at class000.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at class000.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_IMPORT at class000.java[3:0-3:27]",
+      "children" : [ {
+        "keyText" : "NAME at class000.java[3:7-3:26]",
+        "children" : [ {
+          "keyText" : "CHAIN at class000.java[3:7-3:26]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at class000.java[3:7-3:11]",
+            "specText" : "java"
+          }, {
+            "keyText" : "UNRESOLVED_ID at class000.java[3:12-3:16]",
+            "specText" : "util"
+          }, {
+            "keyText" : "UNRESOLVED_ID at class000.java[3:17-3:26]",
+            "specText" : "ArrayList"
+          } ]
+        } ]
+      } ]
+    }, {
+      "keyText" : "RAW_IMPORT at class000.java[4:0-4:29]",
+      "children" : [ {
+        "keyText" : "NAME at class000.java[4:7-4:28]",
+        "children" : [ {
+          "keyText" : "CHAIN at class000.java[4:7-4:28]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at class000.java[4:7-4:11]",
+            "specText" : "java"
+          }, {
+            "keyText" : "UNRESOLVED_ID at class000.java[4:12-4:16]",
+            "specText" : "util"
+          }, {
+            "keyText" : "UNRESOLVED_ID at class000.java[4:17-4:28]",
+            "specText" : "Collections"
+          } ]
+        } ]
+      } ]
+    }, {
+      "keyText" : "RAW_IMPORT at class000.java[5:0-5:22]",
+      "children" : [ {
+        "keyText" : "NAME at class000.java[5:7-5:21]",
+        "children" : [ {
+          "keyText" : "CHAIN at class000.java[5:7-5:21]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at class000.java[5:7-5:11]",
+            "specText" : "java"
+          }, {
+            "keyText" : "UNRESOLVED_ID at class000.java[5:12-5:16]",
+            "specText" : "util"
+          }, {
+            "keyText" : "UNRESOLVED_ID at class000.java[5:17-5:21]",
+            "specText" : "List"
+          } ]
+        } ]
+      } ]
+    }, {
+      "keyText" : "RAW_IMPORT at class000.java[6:0-6:19]",
+      "children" : [ {
+        "keyText" : "MODIFIERS at class000.java[6:0-6:19]",
+        "specText" : "#wildcard"
+      }, {
+        "keyText" : "NAME at class000.java[6:7-6:16]",
+        "children" : [ {
+          "keyText" : "CHAIN at class000.java[6:7-6:16]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at class000.java[6:7-6:11]",
+            "specText" : "java"
+          }, {
+            "keyText" : "UNRESOLVED_ID at class000.java[6:12-6:16]",
+            "specText" : "util"
+          } ]
+        } ]
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at class000.java[8:0-22:1]",
+      "children" : [ {
+        "keyText" : "NAME at class000.java[8:6-8:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at class000.java[8:6-8:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at class000.java[8:14-22:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_FIELD at class000.java[9:4-9:50]",
+          "children" : [ {
+            "keyText" : "MODIFIER at class000.java[9:4-9:11]",
+            "specText" : "private"
+          }, {
+            "keyText" : "RAW_TYPE at class000.java[9:12-9:24]",
+            "children" : [ {
+              "keyText" : "RAW_TYPE_REFERENCE at class000.java[9:12-9:24]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at class000.java[9:12-9:16]",
+                "specText" : "List"
+              }, {
+                "keyText" : "TYPE_ARGUMENTS at class000.java[9:16-9:24]",
+                "children" : [ {
+                  "keyText" : "RAW_TYPE at class000.java[9:17-9:23]",
+                  "children" : [ {
+                    "keyText" : "RAW_TYPE at class000.java[9:17-9:23]",
+                    "children" : [ {
+                      "keyText" : "RAW_TYPE_REFERENCE at class000.java[9:17-9:23]",
+                      "children" : [ {
+                        "keyText" : "UNRESOLVED_ID at class000.java[9:17-9:23]",
+                        "specText" : "String"
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              } ]
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_VARIABLE at class000.java[9:25-9:50]",
+            "children" : [ {
+              "keyText" : "NAME at class000.java[9:25-9:30]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at class000.java[9:25-9:30]",
+                "specText" : "names"
+              } ]
+            }, {
+              "keyText" : "INIT at class000.java[9:33-9:50]",
+              "children" : [ {
+                "keyText" : "RAW_NEW at class000.java[9:33-9:50]",
+                "children" : [ {
+                  "keyText" : "RAW_TYPE_INSTANTIATION at class000.java[9:37-9:48]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at class000.java[9:37-9:46]",
+                    "specText" : "ArrayList"
+                  }, {
+                    "keyText" : "TYPE_ARGUMENTS at class000.java[9:46-9:48]"
+                  } ]
+                }, {
+                  "keyText" : "RAW_CALL at class000.java[9:48-9:50]"
+                } ]
+              } ]
+            } ]
+          } ]
+        }, {
+          "keyText" : "RAW_DECL_METHOD at class000.java[11:4-13:5]",
+          "children" : [ {
+            "keyText" : "MODIFIER at class000.java[11:4-11:10]",
+            "specText" : "public"
+          }, {
+            "keyText" : "RAW_TYPE at class000.java[11:11-11:23]",
+            "children" : [ {
+              "keyText" : "RAW_TYPE_REFERENCE at class000.java[11:11-11:23]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at class000.java[11:11-11:15]",
+                "specText" : "List"
+              }, {
+                "keyText" : "TYPE_ARGUMENTS at class000.java[11:15-11:23]",
+                "children" : [ {
+                  "keyText" : "RAW_TYPE at class000.java[11:16-11:22]",
+                  "children" : [ {
+                    "keyText" : "RAW_TYPE at class000.java[11:16-11:22]",
+                    "children" : [ {
+                      "keyText" : "RAW_TYPE_REFERENCE at class000.java[11:16-11:22]",
+                      "children" : [ {
+                        "keyText" : "UNRESOLVED_ID at class000.java[11:16-11:22]",
+                        "specText" : "String"
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              } ]
+            } ]
+          }, {
+            "keyText" : "NAME at class000.java[11:24-11:32]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at class000.java[11:24-11:32]",
+              "specText" : "getNames"
+            } ]
+          }, {
+            "keyText" : "BLOCK at class000.java[11:35-13:5]",
+            "children" : [ {
+              "keyText" : "RETURN at class000.java[12:8-12:50]",
+              "children" : [ {
+                "keyText" : "CHAIN at class000.java[12:15-12:50]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at class000.java[12:15-12:26]",
+                  "specText" : "Collections"
+                }, {
+                  "keyText" : "UNRESOLVED_ID at class000.java[12:27-12:43]",
+                  "specText" : "unmodifiableList"
+                }, {
+                  "keyText" : "RAW_CALL at class000.java[12:43-12:50]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at class000.java[12:44-12:49]",
+                    "specText" : "names"
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        }, {
+          "keyText" : "RAW_DECL_METHOD at class000.java[15:4-17:5]",
+          "children" : [ {
+            "keyText" : "MODIFIER at class000.java[15:4-15:10]",
+            "specText" : "public"
+          }, {
+            "keyText" : "TYPE at class000.java[15:11-15:15]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at class000.java[15:11-15:15]",
+              "specText" : "void"
+            } ]
+          }, {
+            "keyText" : "NAME at class000.java[15:16-15:24]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at class000.java[15:16-15:24]",
+              "specText" : "setNames"
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_PARAMETER at class000.java[15:25-15:43]",
+            "children" : [ {
+              "keyText" : "RAW_TYPE at class000.java[15:25-15:37]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE_REFERENCE at class000.java[15:25-15:37]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at class000.java[15:25-15:29]",
+                  "specText" : "List"
+                }, {
+                  "keyText" : "TYPE_ARGUMENTS at class000.java[15:29-15:37]",
+                  "children" : [ {
+                    "keyText" : "RAW_TYPE at class000.java[15:30-15:36]",
+                    "children" : [ {
+                      "keyText" : "RAW_TYPE at class000.java[15:30-15:36]",
+                      "children" : [ {
+                        "keyText" : "RAW_TYPE_REFERENCE at class000.java[15:30-15:36]",
+                        "children" : [ {
+                          "keyText" : "UNRESOLVED_ID at class000.java[15:30-15:36]",
+                          "specText" : "String"
+                        } ]
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              } ]
+            }, {
+              "keyText" : "NAME at class000.java[15:38-15:43]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at class000.java[15:38-15:43]",
+                "specText" : "names"
+              } ]
+            } ]
+          }, {
+            "keyText" : "BLOCK at class000.java[15:45-17:5]",
+            "children" : [ {
+              "keyText" : "ASSIGN at class000.java[16:8-16:26]",
+              "specText" : "",
+              "children" : [ {
+                "keyText" : "CHAIN at class000.java[16:8-16:18]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at class000.java[16:8-16:12]",
+                  "specText" : "this"
+                }, {
+                  "keyText" : "UNRESOLVED_ID at class000.java[16:13-16:18]",
+                  "specText" : "names"
+                } ]
+              }, {
+                "keyText" : "UNRESOLVED_ID at class000.java[16:21-16:26]",
+                "specText" : "names"
+              } ]
+            } ]
+          } ]
+        }, {
+          "keyText" : "RAW_DECL_METHOD at class000.java[19:4-21:5]",
+          "children" : [ {
+            "keyText" : "MODIFIER at class000.java[19:4-19:10]",
+            "specText" : "public"
+          }, {
+            "keyText" : "TYPE at class000.java[19:11-19:15]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at class000.java[19:11-19:15]",
+              "specText" : "void"
+            } ]
+          }, {
+            "keyText" : "NAME at class000.java[19:16-19:23]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at class000.java[19:16-19:23]",
+              "specText" : "addName"
+            } ]
+          }, {
+            "keyText" : "RAW_DECL_PARAMETER at class000.java[19:24-19:35]",
+            "children" : [ {
+              "keyText" : "RAW_TYPE at class000.java[19:24-19:30]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE_REFERENCE at class000.java[19:24-19:30]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at class000.java[19:24-19:30]",
+                  "specText" : "String"
+                } ]
+              } ]
+            }, {
+              "keyText" : "NAME at class000.java[19:31-19:35]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at class000.java[19:31-19:35]",
+                "specText" : "name"
+              } ]
+            } ]
+          }, {
+            "keyText" : "BLOCK at class000.java[19:37-21:5]",
+            "children" : [ {
+              "keyText" : "CHAIN at class000.java[20:8-20:28]",
+              "children" : [ {
+                "keyText" : "UNRESOLVED_ID at class000.java[20:8-20:12]",
+                "specText" : "this"
+              }, {
+                "keyText" : "UNRESOLVED_ID at class000.java[20:13-20:18]",
+                "specText" : "names"
+              }, {
+                "keyText" : "UNRESOLVED_ID at class000.java[20:19-20:22]",
+                "specText" : "add"
+              }, {
+                "keyText" : "RAW_CALL at class000.java[20:22-20:28]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at class000.java[20:23-20:27]",
+                  "specText" : "name"
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

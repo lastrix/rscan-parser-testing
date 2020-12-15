@@ -1,0 +1,33 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_MODULE at module007.java[1:0-4:1]",
+    "children" : [ {
+      "keyText" : "RAW_IMPORT at module007.java[1:0-1:13]",
+      "children" : [ {
+        "keyText" : "NAME at module007.java[1:7-1:12]",
+        "children" : [ {
+          "keyText" : "CHAIN at module007.java[1:7-1:12]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at module007.java[1:7-1:8]",
+            "specText" : "a"
+          }, {
+            "keyText" : "UNRESOLVED_ID at module007.java[1:9-1:10]",
+            "specText" : "b"
+          }, {
+            "keyText" : "UNRESOLVED_ID at module007.java[1:11-1:12]",
+            "specText" : "c"
+          } ]
+        } ]
+      } ]
+    }, {
+      "keyText" : "NAME at module007.java[3:7-3:14]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at module007.java[3:7-3:14]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "MEMBERS at module007.java[3:15-4:1]"
+    } ]
+  } ]
+}

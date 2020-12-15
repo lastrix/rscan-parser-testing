@@ -1,0 +1,151 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at ops053.java[2:0-17:1]",
+    "children" : [ {
+      "keyText" : "NAME at ops053.java[2:8-2:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at ops053.java[2:8-2:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at ops053.java[4:0-17:1]",
+      "children" : [ {
+        "keyText" : "NAME at ops053.java[4:6-4:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at ops053.java[4:6-4:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at ops053.java[4:14-17:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at ops053.java[5:4-15:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at ops053.java[5:4-15:5]",
+            "children" : [ {
+              "keyText" : "TRY at ops053.java[6:8-14:9]",
+              "children" : [ {
+                "keyText" : "BLOCK at ops053.java[6:12-8:9]",
+                "children" : [ {
+                  "keyText" : "CHAIN at ops053.java[7:12-7:40]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops053.java[7:12-7:18]",
+                    "specText" : "System"
+                  }, {
+                    "keyText" : "UNRESOLVED_ID at ops053.java[7:19-7:22]",
+                    "specText" : "out"
+                  }, {
+                    "keyText" : "UNRESOLVED_ID at ops053.java[7:23-7:30]",
+                    "specText" : "println"
+                  }, {
+                    "keyText" : "RAW_CALL at ops053.java[7:30-7:40]",
+                    "children" : [ {
+                      "keyText" : "LITERAL at ops053.java[7:31-7:39]",
+                      "specText" : "STRING \"Hello!\""
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "keyText" : "BLOCK_CONDITIONAL at ops053.java[8:10-10:9]",
+                "specText" : "",
+                "children" : [ {
+                  "keyText" : "CONDITION at ops053.java[8:17-8:40]",
+                  "children" : [ {
+                    "keyText" : "RAW_DECL_CATCH_PARAMETER at ops053.java[8:17-8:40]",
+                    "children" : [ {
+                      "keyText" : "RAW_TYPE_REFERENCE at ops053.java[8:17-8:38]",
+                      "children" : [ {
+                        "keyText" : "UNRESOLVED_ID at ops053.java[8:17-8:38]",
+                        "specText" : "IllegalStateException"
+                      } ]
+                    }, {
+                      "keyText" : "NAME at ops053.java[8:39-8:40]",
+                      "children" : [ {
+                        "keyText" : "UNRESOLVED_ID at ops053.java[8:39-8:40]",
+                        "specText" : "e"
+                      } ]
+                    } ]
+                  } ]
+                }, {
+                  "keyText" : "BLOCK at ops053.java[8:42-10:9]",
+                  "children" : [ {
+                    "keyText" : "CHAIN at ops053.java[9:12-9:31]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at ops053.java[9:12-9:13]",
+                      "specText" : "e"
+                    }, {
+                      "keyText" : "UNRESOLVED_ID at ops053.java[9:14-9:29]",
+                      "specText" : "printStackTrace"
+                    }, {
+                      "keyText" : "RAW_CALL at ops053.java[9:29-9:31]"
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "keyText" : "BLOCK_CONDITIONAL at ops053.java[10:10-12:9]",
+                "specText" : "",
+                "children" : [ {
+                  "keyText" : "CONDITION at ops053.java[10:17-10:28]",
+                  "children" : [ {
+                    "keyText" : "RAW_DECL_CATCH_PARAMETER at ops053.java[10:17-10:28]",
+                    "children" : [ {
+                      "keyText" : "RAW_TYPE_REFERENCE at ops053.java[10:17-10:26]",
+                      "children" : [ {
+                        "keyText" : "UNRESOLVED_ID at ops053.java[10:17-10:26]",
+                        "specText" : "Exception"
+                      } ]
+                    }, {
+                      "keyText" : "NAME at ops053.java[10:27-10:28]",
+                      "children" : [ {
+                        "keyText" : "UNRESOLVED_ID at ops053.java[10:27-10:28]",
+                        "specText" : "e"
+                      } ]
+                    } ]
+                  } ]
+                }, {
+                  "keyText" : "BLOCK at ops053.java[10:30-12:9]",
+                  "children" : [ {
+                    "keyText" : "CHAIN at ops053.java[11:12-11:31]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at ops053.java[11:12-11:13]",
+                      "specText" : "e"
+                    }, {
+                      "keyText" : "UNRESOLVED_ID at ops053.java[11:14-11:29]",
+                      "specText" : "printStackTrace"
+                    }, {
+                      "keyText" : "RAW_CALL at ops053.java[11:29-11:31]"
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "keyText" : "FINALLY at ops053.java[12:18-14:9]",
+                "children" : [ {
+                  "keyText" : "BLOCK at ops053.java[12:18-14:9]",
+                  "children" : [ {
+                    "keyText" : "CHAIN at ops053.java[13:12-13:40]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at ops053.java[13:12-13:18]",
+                      "specText" : "System"
+                    }, {
+                      "keyText" : "UNRESOLVED_ID at ops053.java[13:19-13:22]",
+                      "specText" : "out"
+                    }, {
+                      "keyText" : "UNRESOLVED_ID at ops053.java[13:23-13:30]",
+                      "specText" : "println"
+                    }, {
+                      "keyText" : "RAW_CALL at ops053.java[13:30-13:40]",
+                      "children" : [ {
+                        "keyText" : "LITERAL at ops053.java[13:31-13:39]",
+                        "specText" : "STRING \"World!\""
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

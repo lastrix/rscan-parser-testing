@@ -1,0 +1,236 @@
+{
+  "tokens" : [ {
+    "tokenType" : "PACKAGE",
+    "statement" : "1:0[7]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "1:8[7]",
+    "text" : "example"
+  }, {
+    "tokenType" : "SEMI",
+    "statement" : "1:15[1]"
+  }, {
+    "tokenType" : "IMPORT",
+    "statement" : "3:0[6]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "3:7[3]",
+    "text" : "org"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "3:10[1]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "3:11[9]",
+    "text" : "jetbrains"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "3:20[1]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "3:21[11]",
+    "text" : "annotations"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "3:32[1]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "3:33[7]",
+    "text" : "NotNull"
+  }, {
+    "tokenType" : "SEMI",
+    "statement" : "3:40[1]"
+  }, {
+    "tokenType" : "IMPORT",
+    "statement" : "5:0[6]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "5:7[4]",
+    "text" : "java"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "5:11[1]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "5:12[4]",
+    "text" : "util"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "5:16[1]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "5:17[4]",
+    "text" : "List"
+  }, {
+    "tokenType" : "SEMI",
+    "statement" : "5:21[1]"
+  }, {
+    "tokenType" : "IMPORT",
+    "statement" : "6:0[6]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "6:7[4]",
+    "text" : "java"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "6:11[1]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "6:12[4]",
+    "text" : "util"
+  }, {
+    "tokenType" : "DOT",
+    "statement" : "6:16[1]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "6:17[3]",
+    "text" : "Map"
+  }, {
+    "tokenType" : "SEMI",
+    "statement" : "6:20[1]"
+  }, {
+    "tokenType" : "CLASS",
+    "statement" : "8:0[5]"
+  }, {
+    "tokenType" : "Identifier",
+    "statement" : "8:6[7]",
+    "text" : "Example"
+  }, {
+    "tokenType" : "FoldBlock",
+    "statement" : "8:14[114]",
+    "children" : {
+      "tokens" : [ {
+        "tokenType" : "LBRACE",
+        "statement" : "8:14[1]"
+      }, {
+        "tokenType" : "FoldBlock",
+        "statement" : "9:4[105]",
+        "children" : {
+          "tokens" : [ {
+            "tokenType" : "LBRACE",
+            "statement" : "9:4[1]"
+          }, {
+            "tokenType" : "AT",
+            "statement" : "10:8[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "10:9[7]",
+            "text" : "NotNull"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "10:17[3]",
+            "text" : "Map"
+          }, {
+            "tokenType" : "LT",
+            "statement" : "10:20[1]"
+          }, {
+            "tokenType" : "AT",
+            "statement" : "10:21[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "10:22[7]",
+            "text" : "NotNull"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "10:30[6]",
+            "text" : "String"
+          }, {
+            "tokenType" : "COMMA",
+            "statement" : "10:36[1]"
+          }, {
+            "tokenType" : "AT",
+            "statement" : "10:38[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "10:39[7]",
+            "text" : "NotNull"
+          }, {
+            "tokenType" : "AT",
+            "statement" : "10:47[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "10:48[4]",
+            "text" : "Size"
+          }, {
+            "tokenType" : "LPAREN",
+            "statement" : "10:52[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "10:53[3]",
+            "text" : "min"
+          }, {
+            "tokenType" : "ASSIGN",
+            "statement" : "10:56[1]"
+          }, {
+            "tokenType" : "DecimalIntegerLiteral",
+            "statement" : "10:57[1]",
+            "text" : "1"
+          }, {
+            "tokenType" : "COMMA",
+            "statement" : "10:58[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "10:60[3]",
+            "text" : "max"
+          }, {
+            "tokenType" : "ASSIGN",
+            "statement" : "10:63[1]"
+          }, {
+            "tokenType" : "DecimalIntegerLiteral",
+            "statement" : "10:64[2]",
+            "text" : "10"
+          }, {
+            "tokenType" : "RPAREN",
+            "statement" : "10:66[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "10:68[4]",
+            "text" : "List"
+          }, {
+            "tokenType" : "LT",
+            "statement" : "10:72[1]"
+          }, {
+            "tokenType" : "AT",
+            "statement" : "10:73[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "10:74[7]",
+            "text" : "NotNull"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "10:82[6]",
+            "text" : "String"
+          }, {
+            "tokenType" : "GT",
+            "statement" : "10:88[1]"
+          }, {
+            "tokenType" : "GT",
+            "statement" : "10:89[1]"
+          }, {
+            "tokenType" : "Identifier",
+            "statement" : "10:91[5]",
+            "text" : "value"
+          }, {
+            "tokenType" : "SEMI",
+            "statement" : "10:96[1]"
+          }, {
+            "tokenType" : "RBRACE",
+            "statement" : "11:4[1]"
+          }, {
+            "tokenType" : "EOF",
+            "statement" : "11:5[3]"
+          } ]
+        }
+      }, {
+        "tokenType" : "RBRACE",
+        "statement" : "13:0[1]"
+      }, {
+        "tokenType" : "EOF",
+        "statement" : "13:1[3]"
+      } ]
+    }
+  }, {
+    "tokenType" : "EOF",
+    "statement" : "14:0[5]"
+  } ]
+}

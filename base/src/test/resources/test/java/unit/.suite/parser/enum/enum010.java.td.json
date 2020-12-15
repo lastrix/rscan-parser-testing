@@ -1,0 +1,27 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at enum010.java[1:0-6:1]",
+    "children" : [ {
+      "keyText" : "NAME at enum010.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at enum010.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_ENUM at enum010.java[4:0-6:1]",
+      "children" : [ {
+        "keyText" : "MODIFIER at enum010.java[4:0-4:6]",
+        "specText" : "public"
+      }, {
+        "keyText" : "NAME at enum010.java[4:12-4:19]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at enum010.java[4:12-4:19]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at enum010.java[4:20-6:1]"
+      } ]
+    } ]
+  } ]
+}

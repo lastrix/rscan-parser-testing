@@ -1,0 +1,39 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at interface006.java[1:0-5:1]",
+    "children" : [ {
+      "keyText" : "NAME at interface006.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at interface006.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_INTERFACE at interface006.java[3:0-5:1]",
+      "children" : [ {
+        "keyText" : "NAME at interface006.java[3:10-3:17]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at interface006.java[3:10-3:17]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at interface006.java[3:18-5:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_INTERFACE at interface006.java[4:4-4:33]",
+          "children" : [ {
+            "keyText" : "MODIFIER at interface006.java[4:4-4:13]",
+            "specText" : "protected"
+          }, {
+            "keyText" : "NAME at interface006.java[4:24-4:30]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at interface006.java[4:24-4:30]",
+              "specText" : "Nested"
+            } ]
+          }, {
+            "keyText" : "MEMBERS at interface006.java[4:31-4:33]"
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

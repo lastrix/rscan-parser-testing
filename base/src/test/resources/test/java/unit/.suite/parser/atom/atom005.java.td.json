@@ -1,0 +1,93 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at atom005.java[1:0-12:1]",
+    "children" : [ {
+      "keyText" : "NAME at atom005.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at atom005.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_IMPORT at atom005.java[3:0-3:35]",
+      "children" : [ {
+        "keyText" : "NAME at atom005.java[3:7-3:34]",
+        "children" : [ {
+          "keyText" : "CHAIN at atom005.java[3:7-3:34]",
+          "children" : [ {
+            "keyText" : "UNRESOLVED_ID at atom005.java[3:7-3:11]",
+            "specText" : "java"
+          }, {
+            "keyText" : "UNRESOLVED_ID at atom005.java[3:12-3:16]",
+            "specText" : "util"
+          }, {
+            "keyText" : "UNRESOLVED_ID at atom005.java[3:17-3:25]",
+            "specText" : "function"
+          }, {
+            "keyText" : "UNRESOLVED_ID at atom005.java[3:26-3:34]",
+            "specText" : "Supplier"
+          } ]
+        } ]
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at atom005.java[5:0-12:1]",
+      "children" : [ {
+        "keyText" : "NAME at atom005.java[5:6-5:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at atom005.java[5:6-5:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at atom005.java[5:14-12:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_CONSTRUCTOR at atom005.java[6:4-7:5]",
+          "children" : [ {
+            "keyText" : "MODIFIER at atom005.java[6:4-6:10]",
+            "specText" : "public"
+          }, {
+            "keyText" : "NAME at atom005.java[6:11-6:18]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at atom005.java[6:11-6:18]",
+              "specText" : "Example"
+            } ]
+          }, {
+            "keyText" : "BLOCK at atom005.java[6:21-7:5]"
+          } ]
+        }, {
+          "keyText" : "INITIALIZER at atom005.java[9:4-11:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at atom005.java[9:4-11:5]",
+            "children" : [ {
+              "keyText" : "RAW_DECL_LOCAL at atom005.java[10:8-10:34]",
+              "children" : [ {
+                "keyText" : "RAW_DECL_VARIABLE at atom005.java[10:12-10:34]",
+                "children" : [ {
+                  "keyText" : "NAME at atom005.java[10:12-10:19]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at atom005.java[10:12-10:19]",
+                    "specText" : "handler"
+                  } ]
+                }, {
+                  "keyText" : "INIT at atom005.java[10:22-10:34]",
+                  "children" : [ {
+                    "keyText" : "CHAIN at atom005.java[10:22-10:34]",
+                    "children" : [ {
+                      "keyText" : "UNRESOLVED_ID at atom005.java[10:22-10:29]",
+                      "specText" : "Example"
+                    }, {
+                      "keyText" : "RAW_METHOD_REFERENCE at atom005.java[10:29-10:34]",
+                      "children" : [ {
+                        "keyText" : "UNRESOLVED_ID at atom005.java[10:31-10:34]",
+                        "specText" : "new"
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

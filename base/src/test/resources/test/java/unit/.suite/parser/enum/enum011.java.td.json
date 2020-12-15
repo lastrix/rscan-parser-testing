@@ -1,0 +1,46 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at enum011.java[1:0-7:1]",
+    "children" : [ {
+      "keyText" : "NAME at enum011.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at enum011.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_ENUM at enum011.java[4:0-7:1]",
+      "children" : [ {
+        "keyText" : "MODIFIER at enum011.java[4:0-4:6]",
+        "specText" : "public"
+      }, {
+        "keyText" : "NAME at enum011.java[4:12-4:19]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at enum011.java[4:12-4:19]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at enum011.java[4:20-7:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_ENUM_MEMBER at enum011.java[5:4-6:6]",
+          "children" : [ {
+            "keyText" : "RAW_ANNOTATION at enum011.java[5:4-5:11]",
+            "children" : [ {
+              "keyText" : "RAW_TYPE at enum011.java[5:5-5:11]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE_REFERENCE at enum011.java[5:5-5:11]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at enum011.java[5:5-5:11]",
+                  "specText" : "ExEnum"
+                } ]
+              } ]
+            } ]
+          }, {
+            "keyText" : "UNRESOLVED_ID at enum011.java[6:4-6:6]",
+            "specText" : "EX"
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

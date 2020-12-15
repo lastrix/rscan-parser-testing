@@ -1,0 +1,39 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at ctor000.java[1:0-7:1]",
+    "children" : [ {
+      "keyText" : "NAME at ctor000.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at ctor000.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at ctor000.java[3:0-7:1]",
+      "children" : [ {
+        "keyText" : "NAME at ctor000.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at ctor000.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at ctor000.java[3:14-7:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_CONSTRUCTOR at ctor000.java[4:4-6:5]",
+          "children" : [ {
+            "keyText" : "MODIFIER at ctor000.java[4:4-4:10]",
+            "specText" : "public"
+          }, {
+            "keyText" : "NAME at ctor000.java[4:11-4:18]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at ctor000.java[4:11-4:18]",
+              "specText" : "Example"
+            } ]
+          }, {
+            "keyText" : "BLOCK at ctor000.java[4:20-6:5]"
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

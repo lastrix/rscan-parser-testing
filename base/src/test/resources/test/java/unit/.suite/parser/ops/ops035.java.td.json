@@ -1,0 +1,138 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at ops035.java[1:0-14:1]",
+    "children" : [ {
+      "keyText" : "NAME at ops035.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at ops035.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at ops035.java[3:0-14:1]",
+      "children" : [ {
+        "keyText" : "NAME at ops035.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at ops035.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at ops035.java[3:14-14:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at ops035.java[4:4-12:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at ops035.java[4:4-12:5]",
+            "children" : [ {
+              "keyText" : "RAW_DECL_LOCAL at ops035.java[5:8-5:17]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE at ops035.java[5:8-5:11]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at ops035.java[5:8-5:11]",
+                  "specText" : "int"
+                } ]
+              }, {
+                "keyText" : "RAW_DECL_VARIABLE at ops035.java[5:12-5:17]",
+                "children" : [ {
+                  "keyText" : "NAME at ops035.java[5:12-5:13]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops035.java[5:12-5:13]",
+                    "specText" : "i"
+                  } ]
+                }, {
+                  "keyText" : "INIT at ops035.java[5:16-5:17]",
+                  "children" : [ {
+                    "keyText" : "LITERAL at ops035.java[5:16-5:17]",
+                    "specText" : "INTEGER 0"
+                  } ]
+                } ]
+              } ]
+            }, {
+              "keyText" : "RAW_DECL_LABEL at ops035.java[6:8-11:9]",
+              "children" : [ {
+                "keyText" : "NAME at ops035.java[6:8-6:13]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at ops035.java[6:8-6:13]",
+                  "specText" : "LABEL"
+                } ]
+              }, {
+                "keyText" : "BLOCK_CONDITIONAL at ops035.java[7:8-11:9]",
+                "specText" : "",
+                "children" : [ {
+                  "keyText" : "CONDITION at ops035.java[7:13-7:31]",
+                  "children" : [ {
+                    "keyText" : "FOR_INIT at ops035.java[7:13-7:18]",
+                    "children" : [ {
+                      "keyText" : "LIST at ops035.java[7:13-7:18]",
+                      "children" : [ {
+                        "keyText" : "ASSIGN at ops035.java[7:13-7:18]",
+                        "specText" : "",
+                        "children" : [ {
+                          "keyText" : "UNRESOLVED_ID at ops035.java[7:13-7:14]",
+                          "specText" : "i"
+                        }, {
+                          "keyText" : "LITERAL at ops035.java[7:17-7:18]",
+                          "specText" : "INTEGER 1"
+                        } ]
+                      } ]
+                    } ]
+                  }, {
+                    "keyText" : "FOR_CONDITION at ops035.java[7:20-7:26]",
+                    "children" : [ {
+                      "keyText" : "BINARY at ops035.java[7:20-7:26]",
+                      "specText" : "LT",
+                      "children" : [ {
+                        "keyText" : "UNRESOLVED_ID at ops035.java[7:20-7:21]",
+                        "specText" : "i"
+                      }, {
+                        "keyText" : "LITERAL at ops035.java[7:24-7:26]",
+                        "specText" : "INTEGER 10"
+                      } ]
+                    } ]
+                  }, {
+                    "keyText" : "FOR_UPDATE at ops035.java[7:28-7:31]",
+                    "children" : [ {
+                      "keyText" : "LIST at ops035.java[7:28-7:31]",
+                      "children" : [ {
+                        "keyText" : "UNARY at ops035.java[7:28-7:31]",
+                        "specText" : "INC_POSTFIX",
+                        "children" : [ {
+                          "keyText" : "UNRESOLVED_ID at ops035.java[7:28-7:29]",
+                          "specText" : "i"
+                        } ]
+                      } ]
+                    } ]
+                  } ]
+                }, {
+                  "keyText" : "BLOCK at ops035.java[7:33-11:9]",
+                  "children" : [ {
+                    "keyText" : "BLOCK_CONDITIONAL at ops035.java[8:12-10:13]",
+                    "specText" : "",
+                    "children" : [ {
+                      "keyText" : "CONDITION at ops035.java[8:19-8:23]",
+                      "children" : [ {
+                        "keyText" : "LITERAL at ops035.java[8:19-8:23]",
+                        "specText" : "BOOLEAN true"
+                      } ]
+                    }, {
+                      "keyText" : "BLOCK at ops035.java[8:25-10:13]",
+                      "children" : [ {
+                        "keyText" : "CONTINUE at ops035.java[9:16-9:30]",
+                        "children" : [ {
+                          "keyText" : "LABEL at ops035.java[9:25-9:30]",
+                          "children" : [ {
+                            "keyText" : "UNRESOLVED_ID at ops035.java[9:25-9:30]",
+                            "specText" : "LABEL"
+                          } ]
+                        } ]
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

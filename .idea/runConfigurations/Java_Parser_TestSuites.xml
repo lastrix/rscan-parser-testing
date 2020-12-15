@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Java Parser TestSuites" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="11" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="org.lastrix.rscan.test.ParserTestSuiteGenerator" />
+    <module name="rscan-parser-testing.rscan-parser-testing-base.test" />
+    <option name="PROGRAM_PARAMETERS" value="-l Java -d $PROJECT_DIR$/base/src/test/resources/test/java/unit/ -e .java" />
+    <option name="VM_PARAMETERS" value="-Xmx128m -XX:+UseG1GC -XX:MaxHeapFreeRatio=30 -XX:MinHeapFreeRatio=10 -Dfile.encoding=UTF-8 -Drscan.parser.parallel=false" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,69 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at annotated010.java[1:0-5:1]",
+    "children" : [ {
+      "keyText" : "NAME at annotated010.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at annotated010.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at annotated010.java[3:0-5:1]",
+      "children" : [ {
+        "keyText" : "RAW_ANNOTATION at annotated010.java[3:0-3:29]",
+        "children" : [ {
+          "keyText" : "RAW_TYPE at annotated010.java[3:1-3:10]",
+          "children" : [ {
+            "keyText" : "RAW_TYPE_REFERENCE at annotated010.java[3:1-3:10]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at annotated010.java[3:1-3:10]",
+              "specText" : "Annotated"
+            } ]
+          } ]
+        }, {
+          "keyText" : "RAW_DECL_PARAMETER at annotated010.java[3:11-3:28]",
+          "children" : [ {
+            "keyText" : "NAME at annotated010.java[3:11-3:14]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at annotated010.java[3:11-3:14]",
+              "specText" : "sub"
+            } ]
+          }, {
+            "keyText" : "VALUE at annotated010.java[3:17-3:28]",
+            "children" : [ {
+              "keyText" : "RAW_ANNOTATION at annotated010.java[3:17-3:28]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE at annotated010.java[3:18-3:25]",
+                "children" : [ {
+                  "keyText" : "RAW_TYPE_REFERENCE at annotated010.java[3:18-3:25]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at annotated010.java[3:18-3:25]",
+                    "specText" : "SubAnno"
+                  } ]
+                } ]
+              }, {
+                "keyText" : "RAW_DECL_PARAMETER at annotated010.java[3:26-3:27]",
+                "children" : [ {
+                  "keyText" : "VALUE at annotated010.java[3:26-3:27]",
+                  "children" : [ {
+                    "keyText" : "LITERAL at annotated010.java[3:26-3:27]",
+                    "specText" : "INTEGER 1"
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      }, {
+        "keyText" : "NAME at annotated010.java[4:6-4:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at annotated010.java[4:6-4:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at annotated010.java[4:14-5:1]"
+      } ]
+    } ]
+  } ]
+}

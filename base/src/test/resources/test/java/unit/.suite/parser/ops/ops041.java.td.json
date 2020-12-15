@@ -1,0 +1,80 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at ops041.java[2:0-13:1]",
+    "children" : [ {
+      "keyText" : "NAME at ops041.java[2:8-2:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at ops041.java[2:8-2:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at ops041.java[4:0-13:1]",
+      "children" : [ {
+        "keyText" : "NAME at ops041.java[4:6-4:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at ops041.java[4:6-4:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at ops041.java[4:14-13:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at ops041.java[5:4-11:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at ops041.java[5:4-11:5]",
+            "children" : [ {
+              "keyText" : "RAW_DECL_LOCAL at ops041.java[6:8-6:17]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE at ops041.java[6:8-6:11]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at ops041.java[6:8-6:11]",
+                  "specText" : "int"
+                } ]
+              }, {
+                "keyText" : "RAW_DECL_VARIABLE at ops041.java[6:12-6:17]",
+                "children" : [ {
+                  "keyText" : "NAME at ops041.java[6:12-6:13]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at ops041.java[6:12-6:13]",
+                    "specText" : "a"
+                  } ]
+                }, {
+                  "keyText" : "INIT at ops041.java[6:16-6:17]",
+                  "children" : [ {
+                    "keyText" : "LITERAL at ops041.java[6:16-6:17]",
+                    "specText" : "INTEGER 1"
+                  } ]
+                } ]
+              } ]
+            }, {
+              "keyText" : "CASE at ops041.java[7:8-10:9]",
+              "children" : [ {
+                "keyText" : "CONDITION at ops041.java[7:16-7:17]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at ops041.java[7:16-7:17]",
+                  "specText" : "a"
+                } ]
+              }, {
+                "keyText" : "BLOCK at ops041.java[7:18-10:9]",
+                "children" : [ {
+                  "keyText" : "CASE_ITEM at ops041.java[8:12-8:19]",
+                  "specText" : "",
+                  "children" : [ {
+                    "keyText" : "CONDITION at ops041.java[8:17-8:18]",
+                    "children" : [ {
+                      "keyText" : "LITERAL at ops041.java[8:17-8:18]",
+                      "specText" : "INTEGER 1"
+                    } ]
+                  } ]
+                }, {
+                  "keyText" : "CASE_ITEM at ops041.java[9:12-9:20]",
+                  "specText" : ""
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

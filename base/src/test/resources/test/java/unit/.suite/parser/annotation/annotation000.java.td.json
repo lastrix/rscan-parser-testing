@@ -1,0 +1,46 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at annotation000.java[1:0-5:1]",
+    "children" : [ {
+      "keyText" : "NAME at annotation000.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at annotation000.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_ANNOTATION at annotation000.java[3:0-5:1]",
+      "children" : [ {
+        "keyText" : "NAME at annotation000.java[3:11-3:18]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at annotation000.java[3:11-3:18]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at annotation000.java[3:19-5:1]",
+        "children" : [ {
+          "keyText" : "RAW_DECL_ANNOTATION_ELEMENT at annotation000.java[4:4-4:33]",
+          "children" : [ {
+            "keyText" : "RAW_TYPE at annotation000.java[4:4-4:11]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at annotation000.java[4:4-4:11]",
+              "specText" : "boolean"
+            } ]
+          }, {
+            "keyText" : "NAME at annotation000.java[4:12-4:17]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at annotation000.java[4:12-4:17]",
+              "specText" : "value"
+            } ]
+          }, {
+            "keyText" : "DEFAULT at annotation000.java[4:28-4:33]",
+            "children" : [ {
+              "keyText" : "LITERAL at annotation000.java[4:28-4:33]",
+              "specText" : "BOOLEAN false"
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

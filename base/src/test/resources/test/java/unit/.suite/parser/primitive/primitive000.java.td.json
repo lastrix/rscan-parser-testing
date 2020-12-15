@@ -1,0 +1,49 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at primitive000.java[1:0-8:1]",
+    "children" : [ {
+      "keyText" : "NAME at primitive000.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at primitive000.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_CLASS at primitive000.java[3:0-8:1]",
+      "children" : [ {
+        "keyText" : "NAME at primitive000.java[3:6-3:13]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at primitive000.java[3:6-3:13]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "MEMBERS at primitive000.java[3:14-8:1]",
+        "children" : [ {
+          "keyText" : "INITIALIZER at primitive000.java[4:4-6:5]",
+          "children" : [ {
+            "keyText" : "BLOCK at primitive000.java[4:4-6:5]",
+            "children" : [ {
+              "keyText" : "RAW_DECL_LOCAL at primitive000.java[5:8-5:17]",
+              "children" : [ {
+                "keyText" : "RAW_TYPE at primitive000.java[5:8-5:15]",
+                "children" : [ {
+                  "keyText" : "UNRESOLVED_ID at primitive000.java[5:8-5:15]",
+                  "specText" : "boolean"
+                } ]
+              }, {
+                "keyText" : "RAW_DECL_VARIABLE at primitive000.java[5:16-5:17]",
+                "children" : [ {
+                  "keyText" : "NAME at primitive000.java[5:16-5:17]",
+                  "children" : [ {
+                    "keyText" : "UNRESOLVED_ID at primitive000.java[5:16-5:17]",
+                    "specText" : "a"
+                  } ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

@@ -1,0 +1,36 @@
+{
+  "languageName" : "Java",
+  "items" : [ {
+    "keyText" : "RAW_DECL_PACKAGE at enum008.java[1:0-6:1]",
+    "children" : [ {
+      "keyText" : "NAME at enum008.java[1:8-1:15]",
+      "children" : [ {
+        "keyText" : "UNRESOLVED_ID at enum008.java[1:8-1:15]",
+        "specText" : "example"
+      } ]
+    }, {
+      "keyText" : "RAW_DECL_ENUM at enum008.java[4:0-6:1]",
+      "children" : [ {
+        "keyText" : "NAME at enum008.java[4:5-4:12]",
+        "children" : [ {
+          "keyText" : "UNRESOLVED_ID at enum008.java[4:5-4:12]",
+          "specText" : "Example"
+        } ]
+      }, {
+        "keyText" : "IMPLEMENTS at enum008.java[4:24-4:29]",
+        "children" : [ {
+          "keyText" : "RAW_TYPE at enum008.java[4:24-4:29]",
+          "children" : [ {
+            "keyText" : "RAW_TYPE_REFERENCE at enum008.java[4:24-4:29]",
+            "children" : [ {
+              "keyText" : "UNRESOLVED_ID at enum008.java[4:24-4:29]",
+              "specText" : "Inter"
+            } ]
+          } ]
+        } ]
+      }, {
+        "keyText" : "MEMBERS at enum008.java[4:30-6:1]"
+      } ]
+    } ]
+  } ]
+}
